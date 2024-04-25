@@ -4,10 +4,10 @@ layout: page
 
 Since 2024, I am a Junior Professor (CPJ) for Quantum Algorithms at the [Bordeaux Computer Science Laboratory](https://labri.fr).
 I also head the [Quantum information and Computation Group](https://quantique.labri.fr/).
-From 2001 to 2003 I have led the [Quantum Error Correction Group](https://nisq.pl/quantum-error-correction-group)
+From 2001 to 2003 I led the [Quantum Error Correction Group](https://nisq.pl/quantum-error-correction-group)
 at the Jagiellonian University in Kraków.
 
-I was a postdoctoral fellow in the groups of [David Gross](https://qi.uni-koeln.de/) at the University of Cologne and [Antonio Acín](https://www.icfo.eu/research-group/7/quantum-information/home/437/) at ICFO Barcelona. I was Ph.D. student at the University of Siegen advised by [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/). My [thesis](https://dspace.ub.uni-siegen.de/handle/ubsi/1272) won the [2019 Dissertation Prize](https://www.dpg-physik.de/auszeichnungen/preise-der-dpg-vereinigungen/preistraeger-dissertationspreis-samop) by the section AMOP of the German Physical Society.
+I was a postdoctoral fellow in the groups of [David Gross](https://qi.uni-koeln.de/) at the University of Cologne and [Antonio Acín](https://www.icfo.eu/research-group/7/quantum-information/home/437/) at ICFO Barcelona. I was Ph.D. student at the University of Siegen, advised by [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/). My [thesis](https://dspace.ub.uni-siegen.de/handle/ubsi/1272) won the [2019 Dissertation Prize](https://www.dpg-physik.de/auszeichnungen/preise-der-dpg-vereinigungen/preistraeger-dissertationspreis-samop) by the section AMOP of the German Physical Society.
 
 ## Research Interests
 I work on quantum correlations like entanglement and nonlocality, quantum error correction (theoretical characterizations and proposals for experimental implementations), mathematical optimization in quantum information and computation. I also do a bit of mathematics in the field of on non-commutative algebra.
