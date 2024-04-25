@@ -2,6 +2,8 @@
 layout: page
 ---
 
+![](Untitled_horiz.png)
+
 Since 2024, I am a Junior Professor (CPJ) for Quantum Algorithms at the [Bordeaux Computer Science Laboratory](https://labri.fr). I also head the [Quantum information and Computation Group](https://quantique.labri.fr/). From 2001 to 2003 I led the [Quantum Error Correction Group](https://nisq.pl/quantum-error-correction-group)
 at the Jagiellonian University in Kraków.
 
