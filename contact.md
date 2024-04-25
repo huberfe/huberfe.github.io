@@ -5,18 +5,13 @@ is_contact: true
 
 * Email: [felix.huber@u-bordeaux.fr](felix.huber@u-bordeaux.fr)
 
-* Phone: [+91-123123](tel:+91-123123)
-
 ---
 
 ## Mailing Address
 
 > LaBRI - Laboratoire Bordelais de Recherche en Informatique
->
 > 351, cours de la Libération,
->
 > F-33405 Talence
->
 > France
 
 ---
