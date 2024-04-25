@@ -16,16 +16,6 @@ I like problems like quantum Max Cut, the [quantum marginal problem](https://arx
 
 I also like noncommutative algebra, like [tensor polynomial identities](https://arxiv.org/abs/2011.04362) and [matrix inequalities](https://arxiv.org/abs/2002.12887).
 
-
-## Projects/Grants
-- Agence National de la Recherche (ANR) Chaire professeur junior "Algorithmique quantique" (2024 --- 2029)
-- Naquidis grant (2024 --- 2029)
-- [Quantum error correction group](https://nisq.pl/quantum-error-correction-group) of the [“Near-term quantum computers, optimal implementations and applications”](nisq.pl) consortium, supported by the TEAM-NET grant of the Foundation for Polish Science (FNP) (2021 --- 2023)
-- [Marie Skłodowska-Curie Cofund](bist.eu/probist) fellowship (2020)
-- [Cellex ICFO-MPQ](cellex-mpq.icfo.eu) fellowship (2018 --- 2019)
-- Swiss National Science Foundation (SNF) Doc.Mobility fellow, ["Thermal and ground states of local Hamiltonians"](http://p3.snf.ch/project-165024) (2016 --- 2017).
-
-
 ## Team
 
 - Moises Bermejo Moran (PhD student)
@@ -36,6 +26,15 @@ Previous members:
 
 - Stefan Kessler (MSc student)
 - Vinayak Jagadish (Postdoc)
+
+
+## Projects/Grants
+- Agence National de la Recherche (ANR) Chaire professeur junior "Algorithmique quantique" (2024 --- 2029)
+- Naquidis grant (2024 --- 2029)
+- [Quantum error correction group](https://nisq.pl/quantum-error-correction-group) of the [“Near-term quantum computers, optimal implementations and applications”](nisq.pl) consortium, supported by the TEAM-NET grant of the Foundation for Polish Science (FNP) (2021 --- 2023)
+- [Marie Skłodowska-Curie Cofund](bist.eu/probist) fellowship (2020)
+- [Cellex ICFO-MPQ](cellex-mpq.icfo.eu) fellowship (2018 --- 2019)
+- Swiss National Science Foundation (SNF) Doc.Mobility fellow, ["Thermal and ground states of local Hamiltonians"](http://p3.snf.ch/project-165024) (2016 --- 2017).
 
 
 ## Publications
