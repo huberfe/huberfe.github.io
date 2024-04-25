@@ -23,7 +23,6 @@ I also like noncommutative algebra, like [tensor polynomial identities](https://
 - Albert Rico (PhD student)
 
 Previous members:
-
 - Stefan Kessler (MSc student)
 - Vinayak Jagadish (Postdoc)
 
