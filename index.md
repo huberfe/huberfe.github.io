@@ -28,14 +28,16 @@ I also like noncommutative algebra, like [tensor polynomial identities](https://
 
 ## Team
 
-_Working with me are:_\\
-Moises Bermejo Moran (PhD student)\\
-Gerard Munné (PhD student)\\
-Albert Rico (PhD student)
+Working with me are:
 
-_Previous members:_\\
-Stefan Kessler (MSc student)\\
-Vinayak Jagadish (Postdoc)
+- Moises Bermejo Moran (PhD student)
+- Gerard Munné (PhD student)
+- Albert Rico (PhD student)
+
+Previous members:
+
+- Stefan Kessler (MSc student)
+- Vinayak Jagadish (Postdoc)
 
 
 ## Publications
