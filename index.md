@@ -18,12 +18,12 @@ I also like noncommutative algebra, like [tensor polynomial identities](https://
 
 
 ## Projects/Grants
-- Agence National de la Recherche (ANR) Chaire professeur junior "Algorithmique quantique" (Jan 24 --- 2029)
+- Agence National de la Recherche (ANR) Chaire professeur junior "Algorithmique quantique" (2024 --- 2029)
 - Naquidis grant (2024 --- 2029)
 - Part of the [“Near-term quantum computers, optimal implementations and applications”](nisq.pl) consortium by the Foundation for Polish Science (FNP) (Jan 21 --- Nov 23)
-- [Marie Skłodowska-Curie Cofund](bist.eu/probist) fellowship (Jan 20 --- Dec 20)
-- [Cellex ICFO-MPQ](cellex-mpq.icfo.eu) fellowship (Jun 18 --- Dec 19)
-- Swiss National Science Foundation (SNF) Doc.Mobility fellow, ["Thermal and ground states of local Hamiltonians"](http://p3.snf.ch/project-165024) (Mar 16 --- Aug 17).
+- [Marie Skłodowska-Curie Cofund](bist.eu/probist) fellowship (2020)
+- [Cellex ICFO-MPQ](cellex-mpq.icfo.eu) fellowship (2018 --- 2019)
+- Swiss National Science Foundation (SNF) Doc.Mobility fellow, ["Thermal and ground states of local Hamiltonians"](http://p3.snf.ch/project-165024) (2016 --- 2017).
 
 
 ## Team
