@@ -12,9 +12,9 @@ I was a postdoctoral fellow in the groups of [David Gross](https://qi.uni-koeln.
 ## Research Interests
 I work on the characterization of quantum correlations like entanglement and nonlocality, on quantum error correction (theory & experimental proposals), and on mathematical optimization in quantum information and computation. I also do a bit of mathematics in the field of on non-commutative algebra.
 
-I like problems like quantum Max Cut, the [quantum marginal problem](https://arxiv.org/abs/2211.06349), making connections to [graph theory](https://arxiv.org/abs/2310.00612), the [detection](https://arxiv.org/abs/2108.08720) of [entanglement](https://arxiv.org/abs/1708.06298), quantum zero-error communication, and mutually unbiased bases :)
+I like problems such as quantum Max Cut, the [quantum marginal problem](https://arxiv.org/abs/2211.06349), making connections to [graph theory](https://arxiv.org/abs/2310.00612), the [detection](https://arxiv.org/abs/2108.08720) of [entanglement](https://arxiv.org/abs/1708.06298), quantum zero-error communication, and mutually unbiased bases :)
 
-I also like noncommutative algebra, like [tensor polynomial identities](https://arxiv.org/abs/2011.04362) and [matrix inequalities](https://arxiv.org/abs/2002.12887).
+I also like noncommutative algebra, including [tensor polynomial identities](https://arxiv.org/abs/2011.04362) and [matrix inequalities](https://arxiv.org/abs/2002.12887).
 
 ## Team
 
