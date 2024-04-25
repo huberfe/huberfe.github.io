@@ -18,7 +18,7 @@ I also enjoy noncommutative algebra, including [tensor polynomial identities](ht
 
 ## PhD/Postdoc projects
 
-_I am hiring!_ I am looking for PhD and Postdoc students to work with me on mathematical optimization for quantum information & computation, quantum error correction, and quantum correlations.
+_We am hiring!_ I am looking for PhD and Postdoc students to work with me on mathematical optimization for quantum information & computation, quantum error correction, and quantum correlations.
 More information at https://quantique.labri.fr/. If interested, send me your application (CV, transcript of records, MSc or PhD Thesis, for postdocs ideally a research plan).
 
 
