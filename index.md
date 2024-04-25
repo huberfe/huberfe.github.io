@@ -137,9 +137,9 @@ Felix Huber and Otfried Gühne\\
 [Physical Review Letters 117, 010403 (2016)](https://doi.org/10.1103/PhysRevLett.117.010403); [arXiv](https://arxiv.org/abs/1601.01630)
 
 ## Teaching
-Jan 24 --- Jun 24: Mathematical Optimization for the course “The infinitely large and infinitely small”, University of Bordeaux\\
-Jan 24 --- Jun 24: Teaching Assistant for Algorithmique des tableaux, University of Bordeaux\\
-Jan 20: [Quantum Error-Correcting Codes](https://bgsmath.cat/event/quantum-error-correcting-codes/), jointly with Simeon Ball for the Barcelona Graduate School of Mathematics\\
-Oct 15 --- Feb 16: Teaching Assistant for Complex Systems, University of Siegen\\
-Oct 14 --- Feb 15: Teaching Assistant for Quantum Mechanics, University of Siegen\\
-Feb 11 --- May 11: Teaching Assistant for Linear Algebra II, ETH Zürich
+- Mathematical Optimization for the course “The infinitely large and infinitely small”, University of Bordeaux (Jan 2024 --- Jun 2024)
+- Teaching Assistant for Algorithmique des tableaux, University of Bordeaux (Jan 24 --- Jun 2024)
+- [Quantum Error-Correcting Codes](https://bgsmath.cat/event/quantum-error-correcting-codes/), jointly with Simeon Ball for the Barcelona Graduate School of Mathematics (Jan 2020)
+- Teaching Assistant for Complex Systems, University of Siegen (Oct 15 --- Feb 16)
+- Teaching Assistant for Quantum Mechanics, University of Siegen (Oct 14 --- Feb 15)
+- Teaching Assistant for Linear Algebra II, ETH Zürich (Feb 11 --- May 11)
