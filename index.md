@@ -1,11 +1,10 @@
 ---
 layout: page
 ---
-### Felix Huber
 
-Since 2024, I have a Junior Professor Chair (CPJ) for Quantum Algorithms at the Bordeaux Computer Science Laboratory and am the head of the [Quantum information and Computation Group](https://quantique.labri.fr/). From 2001 to 2003 I have led the [Quantum Error Correction Group](https://nisq.pl/quantum-error-correction-group) at the Jagiellonian University in Kraków.
+Since 2024, I am a Junior Professor (CPJ) for Quantum Algorithms at the Bordeaux Computer Science Laboratory and am the head of the [Quantum information and Computation Group](https://quantique.labri.fr/). From 2001 to 2003 I have led the [Quantum Error Correction Group](https://nisq.pl/quantum-error-correction-group) at the Jagiellonian University in Kraków.
 
-I was a postdoctoral fellow in the groups of David Gross at the University of Cologne and Antonio Acín at ICFO Barcelona, and Ph.D. student at the University of Siegen advised by Otfried Gühne. My [thesis](https://dspace.ub.uni-siegen.de/handle/ubsi/1272) won the [2019 Dissertation Prize](https://www.dpg-physik.de/auszeichnungen/preise-der-dpg-vereinigungen/preistraeger-dissertationspreis-samop) by the section AMOP of the German Physical Society.
+I was a postdoctoral fellow in the groups of [David Gross](https://qi.uni-koeln.de/) at the University of Cologne and [Antonio Acín](https://www.icfo.eu/research-group/7/quantum-information/home/437/) at ICFO Barcelona, and Ph.D. student at the University of Siegen advised by [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/). My [thesis](https://dspace.ub.uni-siegen.de/handle/ubsi/1272) won the [2019 Dissertation Prize](https://www.dpg-physik.de/auszeichnungen/preise-der-dpg-vereinigungen/preistraeger-dissertationspreis-samop) by the section AMOP of the German Physical Society.
 
 ## Research Interests
 I work on quantum correlations like entanglement and nonlocality, quantum error correction (theoretical characterizations and proposals for experimental implementations), mathematical optimization in quantum information and computation. I also do a bit of mathematics in the field of on non-commutative algebra.
@@ -14,16 +13,26 @@ I like problems like quantum Max Cut, the [quantum marginal problem](https://arx
 
 I also like noncommutative algebra, like [tensor polynomial identities](https://arxiv.org/abs/2011.04362) and [matrix inequalities](https://arxiv.org/abs/2002.12887).
 
+
+## Projects/Grants
+- Agence National de la Recherche (ANR) Chaire professeur junior "Algorithmique quantique" (Jan 24 --- 2029) \\
+- Naquidis grant (2024 --- 2029)\\
+- Part of the [“Near-term quantum computers, optimal implementations and applications”](nisq.pl) consortium by the Foundation for Polish Science (FNP) (Jan 21 --- Nov 23)\\
+- [Marie Skłodowska-Curie Cofund](bist.eu/probist) fellowship (Jan 20 --- Dec 20)\\
+- [Cellex ICFO-MPQ](cellex-mpq.icfo.eu) fellowship (Jun 18 --- Dec 19)\\
+- Swiss National Science Foundation (SNF) Doc.Mobility fellow, ["Thermal and ground states of local Hamiltonians"](http://p3.snf.ch/project-165024) (Mar 16 --- Aug 17).
+
+
 ## Team
 
 _Currently working with me are:_\\
-Moises Bermejo Moran (PhD student), [arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Mor%C3%A1n%2C+M+B)\\
-Gerard Munné (PhD student), [arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Munn%C3%A9%2C+G+A)\\
-Albert Rico (PhD student), [arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Rico%2C+A)\\
+Moises Bermejo Moran (PhD student)
+Gerard Munné (PhD student)
+Albert Rico (PhD student)
 
 _Previous members:_\\
 Stefan Kessler (MSc student)\\
-Vinayak Jagadish (Postdoc), [google scholar](https://scholar.google.com/citations?user=EXD8mS0AAAAJ&hl=en)
+Vinayak Jagadish (Postdoc)
 
 
 ## Publications
@@ -113,11 +122,3 @@ Jan 20: [Quantum Error-Correcting Codes](https://bgsmath.cat/event/quantum-error
 Oct 15 --- Feb 16: Teaching Assistant for Complex Systems, University of Siegen\\
 Oct 14 --- Feb 15: Teaching Assistant for Quantum Mechanics, University of Siegen\\
 Feb 11 --- May 11: Teaching Assistant for Linear Algebra II, ETH Zürich
-
-## Funding
-Jan 24 --- : Agence National de la Recherche (ANR) Chaire professeur junior "Algorithmique quantique", 200’000 EUR\\
-Jan 24 --- : Naquidis, 100’000 EUR\\
-Jan 21 --- Nov 23:  Part of the [“Near-term quantum computers, optimal implementations and applications”](nisq.pl) consortium by the Foundation for Polish Science (FNP), managing ~750'000 EUR.\\
-Jan 20 --- Dec 20: [Marie Skłodowska-Curie Cofund](bist.eu/probist) fellowship\\
-Jun 18 --- Dec 19:  [Cellex ICFO-MPQ](cellex-mpq.icfo.eu) fellowship\\
-Mar 16 --- Aug 17:  Swiss National Science Foundation (SNF) Doc.Mobility fellow, ["Thermal and ground states of local Hamiltonians"](http://p3.snf.ch/project-165024).
