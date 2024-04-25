@@ -38,7 +38,7 @@ Previous members:
 
 
 ## Publications
-You can find my works on [arXiv](https://arxiv.org/a/huber_f_1.html), [ORCiD](https://orcid.org/0000-0002-3856-4018), and [Google scholar](https://scholar.google.com/citations?user=1O58f3gAAAAJ&hl=en&oi=ao).
+You can find my works on [arXiv](https://arxiv.org/a/huber_f_1.html), [ORCiD](https://orcid.org/0000-0002-3856-4018), and [Google Scholar](https://scholar.google.com/citations?user=1O58f3gAAAAJ&hl=en&oi=ao).
 
 [24] **Uncertainty relations from state polynomial optimization** \\
 Moisés Bermejo Morán and Felix Huber\\
@@ -78,16 +78,14 @@ Felix Huber and Hans Maassen\\
 
 [15] **Conjugate logic**\\
 Niklas Johansson, Felix Huber, and Jan-Åke Larsson\\
-Chapter in The Quantum-Like Revolution: A Festschrift for Andrei Khrennikov, 157-180, Springer\\
-International Publishing (2023); [arXiv](https://arxiv:2102.06572)
+Chapter in The Quantum-Like Revolution: A Festschrift for Andrei Khrennikov, 157-180, Springer International Publishing (2023); [arXiv](https://arxiv:2102.06572)
 
 [14] **Tensor polynomial identities**\\
 Felix Huber and Claudio Procesi\\
 [Israel Journal of Mathematics 247, 125-147 (2022)](https://doi.org/10.1007/s11856-021-2262-6); [arXiv](https://arxiv:2011.04362)
 
 [13] **Universal quantum computation and quantum error correction with ultracold atomic mixtures**\\
-Valentin Kasper, Daniel González-Cuadra, Apoorva Hegde, Andy Xia, Alexandre Dauphin, Felix\\
-Huber, Eberhard Tiemann, Maciej Lewenstein, Fred Jendrzejewski, and Philipp Hauke\\
+Valentin Kasper, Daniel González-Cuadra, Apoorva Hegde, Andy Xia, Alexandre Dauphin, Felix Huber, Eberhard Tiemann, Maciej Lewenstein, Fred Jendrzejewski, and Philipp Hauke\\
 [Quantum Science and Technology 7, 015008 (2021)](https://doi.org/10.1088/2058-9565/ac2d39); [arXiv](https://arxiv:2010.15923)
 
 [12] **Entropic proofs of Singleton bounds for quantum error-correcting codes**\\
