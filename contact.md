@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* [felix.huber@u-bordeaux.fr](felix.huber@u-bordeaux.fr)
+[felix.huber@u-bordeaux.fr](felix.huber@u-bordeaux.fr)
 
 Links:
 * [Quantum Information & Computation at LaBRI](https://quantique.labri.fr/)
