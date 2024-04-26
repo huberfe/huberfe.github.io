@@ -132,7 +132,7 @@ Nikolai Wyderka, Felix Huber, and Otfried Gühne\\
 [4] **Bounds on absolutely maximally entangled states from shadow inequalities, and the quantum MacWilliams identity**\\
 Felix Huber, Christopher Eltschka, Jens Siewert, and Otfried Gühne\\
 [arXiv](https://arxiv.org/abs/1708.06298); [Journal of Physics A: Mathematical and Theoretical 51, 175301 (2018)](https://doi.org/10.1088/1751-8121/aaade5)\\
-Selected for Highlights 2018 of the Journal of Physics A: Mathematical and Theoretical.
+Selected for [Highlights 2018](https://iopscience.iop.org/journal/1751-8121/page/Highlights-of-2018) of the Journal of Physics A: Mathematical and Theoretical.
 
 [3] **Almost all four-particle pure states are determined by their two-body marginals**\\
 Nikolai Wyderka, Felix Huber, and Otfried Gühne;\\
