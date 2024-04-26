@@ -10,7 +10,7 @@ is_contact: true
 
 ---
 
-## Mailing Address
+## Address
 
 > LaBRI - Laboratoire Bordelais de Recherche en Informatique \\
 > 351, cours de la Libération, \\
