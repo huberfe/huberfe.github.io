@@ -35,7 +35,7 @@ Previous members:
 ## Software
 
 - [Table of absolutely maximally entangled states](https://tp.nt.uni-siegen.de/ame/ame.html)
-- [Library for quantum information](https://bitbucket.org/huberfe/qgeo)
+- [Python library for quantum information](https://bitbucket.org/huberfe/qgeo)
 
 ## Projects/Grants
 - Agence National de la Recherche (ANR) Chaire professeur junior "Algorithmique quantique" (2024 --- 2029)
