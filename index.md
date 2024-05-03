@@ -67,7 +67,7 @@ Felix Huber and Nikolai Wyderka\\
 
 [20] **Engineering holography with stabilizer graph codes**\\
 Gerard Anglès Munné, Valentin Kasper, and Felix Huber\\
-[arXiv](https://arxiv.org/abs/2209.08954), accepted at npj Quantum Information.
+[arXiv](https://arxiv.org/abs/2209.08954); [npj Quantum Information 10, 48 (2024)](https://doi.org/10.1038/s41534-024-00822-z)
 
 [19] **Positive maps from the walled Brauer algebra**\\
 Maria Balanzó-Juandó, Michał Studziński, and Felix Huber\\
