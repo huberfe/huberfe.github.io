@@ -38,7 +38,8 @@ Previous members:
 - [Python library for quantum information](https://bitbucket.org/huberfe/qgeo)
 
 ## Projects/Grants
-- Agence National de la Recherche (ANR) Chaire professeur junior "Algorithmique quantique" (2024 --- 2029)
+- Nouvelle-Aquitaine Chair for Emergence, Science & Society (CHESS) "Invariant Topological Quantum Codes" (2024 --- 2029)
+- Agence National de la Recherche (ANR) Chaire professeur junior "Algorithmique quantique" (2024 --- 2030)
 - [Naquidis](https://naquidis.com/) grant (2024 --- 2029)
 - [Quantum error correction group](https://nisq.pl/quantum-error-correction-group) of the [“Near-term quantum computers, optimal implementations and applications”](nisq.pl) consortium, supported by the TEAM-NET grant of the Foundation for Polish Science (FNP) (2021 --- 2023)
 - [Marie Skłodowska-Curie Cofund](bist.eu/probist) fellowship (2020)
