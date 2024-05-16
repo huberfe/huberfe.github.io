@@ -39,13 +39,13 @@ Previous members:
 
 ## Projects/Grants
 - Nouvelle-Aquitaine Chair for Emergence, Science & Society (CHESS) "Invariant Topological Quantum Codes" (2024 --- 2029)
-- Doctoral Project from CMA Quantum Technologies "QuanTEdu-France" (2024-2027)
+- PhD grant from CMA Quantum Technologies "QuanTEdu-France" (2024-2027)
 - Agence National de la Recherche (ANR) Chaire professeur junior "Algorithmique quantique" (2024 --- 2030)
 - [Naquidis](https://naquidis.com/) grant (2024 --- 2029)
 - [Quantum error correction group](https://nisq.pl/quantum-error-correction-group) of the [“Near-term quantum computers, optimal implementations and applications”](nisq.pl) consortium, supported by the TEAM-NET grant of the Foundation for Polish Science (FNP) (2021 --- 2023)
 - [Marie Skłodowska-Curie Cofund](bist.eu/probist) fellowship (2020)
 - [Cellex ICFO-MPQ](cellex-mpq.icfo.eu) fellowship (2018 --- 2019)
-- Swiss National Science Foundation (SNF) Doc.Mobility fellow, ["Thermal and ground states of local Hamiltonians"](http://p3.snf.ch/project-165024) (2016 --- 2017).
+- Swiss National Science Foundation (SNF) Doc.Mobility fellowship, ["Thermal and ground states of local Hamiltonians"](http://p3.snf.ch/project-165024) (2016 --- 2017).
 
 
 ## Publications
