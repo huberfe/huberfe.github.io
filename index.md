@@ -53,7 +53,7 @@ You can find my work on [arXiv](https://arxiv.org/a/huber_f_1.html), [ORCiD](htt
 
 [24] **Uncertainty relations from state polynomial optimization** \\
 Moisés Bermejo Morán and Felix Huber\\
-[arXiv](https://arxiv.org/abs/2310.00612). [Accepted at Physical Review Letters](https://journals.aps.org/prl/accepted/16074YdbXa716b89941e8d84a4395c58c64e08954)
+[arXiv](https://arxiv.org/abs/2310.00612). [Physical Review Letters 132, 200202 (2024)](https://doi.org/10.1103/PhysRevLett.132.200202)
 
 [23] **Entanglement detection with trace polynomials**\\
 Albert Rico and Felix Huber\\
