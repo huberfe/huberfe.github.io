@@ -27,6 +27,8 @@ I also enjoy noncommutative algebra, including [tensor polynomial identities](ht
 - Moises Bermejo Moran (PhD student)
 - Gerard Munné (PhD student)
 - Albert Rico (PhD student)
+- Shannon Jeffries (intern, U. Waterloo)
+- Muhammet Taha Çakmak (intern, U. Sabanci)
 
 Previous members:
 - Stefan Kessler (MSc student)
@@ -39,7 +41,7 @@ Previous members:
 
 ## Projects/Grants
 - Nouvelle-Aquitaine Chair for Emergence, Science & Society (CHESS) "Invariant Topological Quantum Codes" (2024 --- 2029)
-- PhD grant from CMA Quantum Technologies "QuanTEdu-France" (2024-2027)
+- PhD grant CMA Quantum Technologies "QuanTEdu-France" (2024-2027)
 - Agence National de la Recherche (ANR) Chaire professeur junior "Algorithmique quantique" (2024 --- 2030)
 - [Naquidis](https://naquidis.com/) grant (2024 --- 2029)
 - [Quantum error correction group](https://nisq.pl/quantum-error-correction-group) of the [“Near-term quantum computers, optimal implementations and applications”](nisq.pl) consortium, supported by the TEAM-NET grant of the Foundation for Polish Science (FNP) (2021 --- 2023)
