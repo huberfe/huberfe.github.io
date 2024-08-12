@@ -15,7 +15,7 @@ sass:
     style: compressed
     sass_dir: _sass
 
-nav:
+#nav:
  - name: "Home"
    link: "index"
  - name: "Contact"
