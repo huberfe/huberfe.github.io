@@ -11,6 +11,7 @@ I was a postdoctoral fellow in the groups of [Antonio Acín](https://www.icfo.eu
 
 I'm an Editor at [Quantum](https://quantum-journal.org/).
 
+
 ## Research Interests
 I work on the characterization of quantum correlations like entanglement and nonlocality, on quantum error correction (theory & experimental proposals), and on mathematical optimization in quantum information and computation. I also do a bit of mathematics in the field of on non-commutative algebra.
 
@@ -18,13 +19,11 @@ I like problems such as quantum Max Cut, the [quantum marginal problem](https://
 
 I also enjoy noncommutative algebra, including [tensor polynomial identities](https://arxiv.org/abs/2011.04362) and [matrix inequalities](https://arxiv.org/abs/2002.12887).
 
-## PhD/Postdoc projects
+
+## Team
 
 > _We are hiring!_ I am looking for PhD and Postdoc students to work with me on mathematical optimization for quantum information & computation, quantum error correction, and quantum correlations.
 [More information](https://quantique.labri.fr/). If interested, send me your application (CV, transcript of records, MSc or PhD Thesis, for postdocs ideally a research plan).
-
-
-## Team
 
 - Moises Bermejo Moran (PhD student)
 - Gerard Munné (PhD student)
@@ -36,10 +35,6 @@ Previous members:
 - Stefan Kessler (MSc student)
 - Vinayak Jagadish (Postdoc)
 
-## Software
-
-- [Table of absolutely maximally entangled states](https://tp.nt.uni-siegen.de/ame/ame.html)
-- [Python library for quantum information](https://bitbucket.org/huberfe/qgeo)
 
 ## Projects/Grants
 - Nouvelle-Aquitaine Chair for Emergence, Science & Society (CHESS) "Invariant Topological Quantum Codes" (2024 --- 2029)
@@ -151,6 +146,14 @@ Felix Huber, Otfried Gühne, and Jens Siewert\\
 [1] **Characterizing ground and thermal states of few-body Hamiltonians**\\
 Felix Huber and Otfried Gühne\\
 [arXiv](https://arxiv.org/abs/1601.01630). [Physical Review Letters 117, 010403 (2016)](https://doi.org/10.1103/PhysRevLett.117.010403)
+
+
+## Software
+
+- [Table of absolutely maximally entangled states](https://tp.nt.uni-siegen.de/ame/ame.html)
+- [Python library for quantum information](https://bitbucket.org/huberfe/qgeo)
+
+
 
 ## Teaching
 - Mathematical Optimization for the course “The infinitely large and infinitely small”, University of Bordeaux (Jan 2024 --- Jun 2024)
