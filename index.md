@@ -51,11 +51,11 @@ Previous members:
 ## Publications
 You can find my work on [arXiv](https://arxiv.org/a/huber_f_1.html), [ORCiD](https://orcid.org/0000-0002-3856-4018), and [Google Scholar](https://scholar.google.com/citations?user=1O58f3gAAAAJ&hl=en&oi=ao).
 
-[25] **SDP bounds on quantum codes** \\
+[25] **SDP bounds on quantum codes**\\
 Gerard Anglès Munné, Andrew Nemec, Felix Huber\\
 [arXiv](https://arxiv.org/abs/2408.10323).
 
-[24] **Uncertainty relations from state polynomial optimization** \\
+[24] **Uncertainty relations from state polynomial optimization**\\
 Moisés Bermejo Morán and Felix Huber\\
 [arXiv](https://arxiv.org/abs/2310.00612). [Physical Review Letters 132, 200202 (2024)](https://doi.org/10.1103/PhysRevLett.132.200202)
 
