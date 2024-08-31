@@ -29,10 +29,10 @@ I also enjoy noncommutative algebra, including [tensor polynomial identities](ht
 - Moises Bermejo Moran (PhD student, Jagiellonian U. Kraków)
 - Gerard Munné (PhD student, Jagiellonian U. Kraków)
 - Albert Rico (PhD student, Jagiellonian U. Kraków)
-- Shannon Jeffries (intern, U. Waterloo)
 - Muhammet Taha Çakmak (intern, U. Sabanci)
 
 Previous members:
+- Shannon Jeffries (intern, U. Waterloo)
 - Stefan Kessler (MSc student, TU Munich)
 - Vinayak Jagadish (Postdoc, Jagiellonian U. Kraków)
 
@@ -50,6 +50,10 @@ Previous members:
 
 ## Publications
 You can find my work on [arXiv](https://arxiv.org/a/huber_f_1.html), [ORCiD](https://orcid.org/0000-0002-3856-4018), and [Google Scholar](https://scholar.google.com/citations?user=1O58f3gAAAAJ&hl=en&oi=ao).
+
+[25] **SDP bounds on quantum codes** \\
+Gerard Anglès Munné, Andrew Nemec, Felix Huber\\
+[arXiv](https://arxiv.org/abs/2408.10323).
 
 [24] **Uncertainty relations from state polynomial optimization** \\
 Moisés Bermejo Morán and Felix Huber\\
