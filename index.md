@@ -11,8 +11,7 @@ I was a postdoctoral fellow in the groups of [Antonio Acín](https://www.icfo.eu
 
 I'm an Editor at [Quantum](https://quantum-journal.org/).
 
-Contact: [felix.huber@u-bordeaux.fr](felix.huber@u-bordeaux.fr).
-[Quantum Information & Computation at LaBRI](https://quantique.labri.fr/)
+Contact: [felix.huber@u-bordeaux.fr](felix.huber@u-bordeaux.fr)
 
 ## Research Interests
 I work on the characterization of quantum correlations like entanglement and nonlocality, on quantum error correction (theory & experimental proposals), and on mathematical optimization in quantum information and computation. I also do a bit of mathematics in the field of on non-commutative algebra.
