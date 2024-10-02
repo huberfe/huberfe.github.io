@@ -22,9 +22,6 @@ I also enjoy noncommutative algebra, including [tensor polynomial identities](ht
 
 ## Team
 
-> _We are hiring!_ I am looking for PhD and Postdoc students to work with us on mathematical optimization for quantum information & computation, quantum error correction, and quantum correlations.
-[More information](https://quantique.labri.fr/positions/). If interested, send me your application (CV, transcript of records, MSc or PhD Thesis, for postdocs a research plan).
-
 - Moises Bermejo Moran (PhD student, Jagiellonian U. Kraków)
 - Gerard Munné (PhD student, Jagiellonian U. Kraków)
 - Albert Rico (PhD student, Jagiellonian U. Kraków)
