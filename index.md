@@ -24,6 +24,7 @@ I also enjoy noncommutative algebra, including [tensor polynomial identities](ht
 
 ## Team
 
+- Tomás Crosta (PhD student, U. Bordeaux)
 - Moises Bermejo Moran (PhD student, Jagiellonian U. Kraków)
 - Gerard Munné (PhD student, Jagiellonian U. Kraków)
 - Albert Rico (PhD student, Jagiellonian U. Kraków)
@@ -36,6 +37,7 @@ Previous members:
 
 
 ## Projects/Grants
+- Coordinator for the “Maison du quantique - HybQuant” grant (2024)
 - Nouvelle-Aquitaine Chair for Emergence, Science & Society (CHESS) "Invariant Topological Quantum Codes" (2024 --- 2029)
 - PhD grant CMA Quantum Technologies "QuanTEdu-France" (2024-2027)
 - Agence National de la Recherche (ANR) Chaire professeur junior "Algorithmique quantique" (2024 --- 2030)
