@@ -158,13 +158,13 @@ Felix Huber and Otfried Gühne\\
 
 
 ## Teaching
-- Teaching Assistant for Group Theory (Nov 2024 --)
-- Teaching Assistant for Equations of Mathematical Physics (Nov 2024 --)
-- Teaching Assistant for Advanced numerical methods of medical physics (Nov 2024 --)
-- Teaching Assistant for Mathematical methods of bioinformatics - calculus (Nov 2024 --)
+- TA for Group Theory (Nov 2024 --)
+- TA for Equations of Mathematical Physics (Nov 2024 --)
+- TA for Advanced numerical methods of medical physics (Nov 2024 --)
+- TA for Mathematical methods of bioinformatics - calculus (Nov 2024 --)
 - Mathematical Optimization for the course “The infinitely large and infinitely small”, University of Bordeaux (Jan 2024 --- Jun 2024)
-- Teaching Assistant for Algorithmique des tableaux, University of Bordeaux (Jan 2024 --- Jun 2024)
+- TA for Algorithmique des tableaux, University of Bordeaux (Jan 2024 --- Jun 2024)
 - [Quantum Error-Correcting Codes](https://bgsmath.cat/event/quantum-error-correcting-codes/), jointly with Simeon Ball for the Barcelona Graduate School of Mathematics (Jan 2020)
-- Teaching Assistant for Complex Systems, Universität Siegen (Oct 2015 --- Feb 2016)
-- Teaching Assistant for Quantum Mechanics, Universität Siegen (Oct 2014 --- Feb 2015)
-- Teaching Assistant for Linear Algebra II, ETH Zürich (Feb 2011 --- May 2011)
+- TA for Complex Systems, Universität Siegen (Oct 2015 --- Feb 2016)
+- TA for Quantum Mechanics, Universität Siegen (Oct 2014 --- Feb 2015)
+- TA for Linear Algebra II, ETH Zürich (Feb 2011 --- May 2011)
