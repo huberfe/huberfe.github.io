@@ -9,7 +9,7 @@ From January 2024 to October 2024 I was Junior Professor (CPJ) for Quantum Algor
 From 2021 to 2023 I led the [Quantum Error Correction Group](https://nisq.pl/quantum-error-correction-group)
 at the Jagiellonian University in Kraków.
 
-I was a postdoctoral fellow in the groups of [Antonio Acín](https://www.icfo.eu/research-group/7/quantum-information/home/437/) at ICFO Barcelona and [David Gross](https://qi.uni-koeln.de/) at the University of Cologne (2018-2020). I was Ph.D. student at the University of Siegen (2014-2017), advised by [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/). My [thesis](https://dspace.ub.uni-siegen.de/handle/ubsi/1272) won the [2019 Dissertation Prize](https://www.dpg-physik.de/auszeichnungen/preise-der-dpg-vereinigungen/preistraeger-dissertationspreis-samop) by the section AMOP of the German Physical Society.
+I was a postdoctoral fellow in the groups of [Antonio Acín](https://www.icfo.eu/research-group/7/quantum-information/home/437/) at ICFO Barcelona and [David Gross](https://qi.uni-koeln.de/) at the University of Cologne (2018-2020). I was PhD student at the University of Siegen (2014-2017), advised by [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/). My [thesis](https://dspace.ub.uni-siegen.de/handle/ubsi/1272) won the [2019 Dissertation Prize](https://www.dpg-physik.de/auszeichnungen/preise-der-dpg-vereinigungen/preistraeger-dissertationspreis-samop) by the section AMOP of the German Physical Society.
 
 I'm an Editor at [Quantum](https://quantum-journal.org/) and program committee member for [QIP 2025](https://rsvp.duke.edu/event/qip2025).
 
@@ -157,8 +157,11 @@ Felix Huber and Otfried Gühne\\
 - [Python library for quantum information](https://bitbucket.org/huberfe/qgeo)
 
 
-
 ## Teaching
+- Teaching Assistant for Group Theory (Nov 2024 --)
+- Teaching Assistant for Equations of Mathematical Physics (Nov 2024 --)
+- Teaching Assistant for Advanced numerical methods of medical physics (Nov 2024 --)
+- Teaching Assistant for Mathematical methods of bioinformatics - calculus (Nov 2024 --)
 - Mathematical Optimization for the course “The infinitely large and infinitely small”, University of Bordeaux (Jan 2024 --- Jun 2024)
 - Teaching Assistant for Algorithmique des tableaux, University of Bordeaux (Jan 2024 --- Jun 2024)
 - [Quantum Error-Correcting Codes](https://bgsmath.cat/event/quantum-error-correcting-codes/), jointly with Simeon Ball for the Barcelona Graduate School of Mathematics (Jan 2020)
