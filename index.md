@@ -4,7 +4,7 @@ layout: page
 
 ![](Untitled_horiz.png)
 
-Since November 2025, I am Assistant Professor at Institute of Theoretical Physics and Astrophysics of the University of Gdańsk.
+Since November 2025, I am Assistant Professor at the Institute of Theoretical Physics and Astrophysics of the University of Gdańsk.
 From January 2024 to October 2024 I was Junior Professor (CPJ) for Quantum Algorithms at the [Bordeaux Computer Science Laboratory](https://www.labri.fr), where I also headed the [Quantum information and Computation Group](https://quantique.labri.fr/).
 From 2021 to 2023 I led the [Quantum Error Correction Group](https://nisq.pl/quantum-error-correction-group)
 at the Jagiellonian University in Kraków.

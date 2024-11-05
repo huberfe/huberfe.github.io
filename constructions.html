@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Table of AME states / perfect tensors</title>
+      
+      
+      <link rel="stylesheet" href="style.css" type="text/css" />
+  </head>
+  <body>
+  
+<h2>General constructions</h2>
+
+Let q be an arbitrary prime power. Then for all 3 <= n <= q and
+1 <= d <= n/2 + 1 there exist quantum MDS codes [[n, n - 2d + 2, d]]_q.
+<br />
+Ref: Thm. 14 in Grassl et al., 
+"On optimal quantum codes", 
+<a href="https://arxiv.org/abs/quant-ph/0312164">quant-ph/0312164</a>
+<br /><br />
+Thus if q is a prime power and 3<=n<=q, an AME(n,q) state exists.<br />
+ <br />
+AME(n,D) exist in all dimensions n=2,3,5,6: <br /> 
+n=2,3: correspond to Bell and GHZ states. <br /> 
+n=5,6: prime dimensions D can be obtained 
+from the graph states presented in Fig. 2 of below reference,
+non-prime dimension are obtained by tensoring
+AME states according to the prime-factorisation of D. <br />
+ <br />
+For n=4, AME(n,D) exist for all odd D (from the graph state of Fig. 3 in below reference).<br />
+All dimensions D that have even number of 2's in the prime-factorisation of D are
+obtained by taking copies of graph states in Fig. 3 and Fig. 7.<br />
+Ref: Fig. 3 and Fig. 7 in 
+W. Helwig, 
+"Absolutely Maximally Entangled Qudit Graph States",
+<a href="https://arxiv.org/abs/1306.2879">arXiv:1306.2879</a>
+<br />
+<br />
+For n=5 or n=6, this was already presented by Rains: <br />
+There exist AME(n,D) states for all D: For all integers D > 1, there exists a ((5, D, 3))_D and a ((6, 1, 4))_D code.<br />
+Ref: Theorem 13 in E. M. Rains, "Nonbinary quantum codes" (<a href="https://arxiv.org/abs/quant-ph/9703048">quant-ph/9703048</a>)
+<br /><br />
+For n=5, a construction for AME(5,D) can also be found in <br />
+Ref: Prop. 3 in 
+Goyeneche et al., 
+"Entanglement and quantum combinatorial designs", 
+<a href="https://arxiv.org/abs/1708.05946">arXiv:1708.05946</a>
+<br />
+<br />
+AME states of minimal support are equivalent to classical MDS codes. <br />
+D. Alsina, "PhD thesis: Multipartite entanglement and quantum algorithms", (<a href="https://arxiv.org/abs/1706.08318">arXiv:1706.08318</a>)
+<br />
+<br />
+AME of 4 parties correspond to MOLS (or Quantum MOLS), of 6 parties correspond to MOL Cubes, 8 parties to MOL Hypercubes, etc., where 
+MOL = mutually orthogonal Latin squares  <br />
+K. Życzkowski, private communication (2019)
+</body>
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Table of AME states / perfect tensors</title>
+<link rel="icon" type="image/png" href="favicon.png" sizes="96x96">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+html, body, iframe { height: 100%; }
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.topnav a.inactive {
+  color: gray;
+}
+</style>
+
+<script type="text/javascript">
+function loadframe(src) {
+  var iframe = document.getElementById('iframe');
+  var n0 = document.getElementById('nav0');
+  var n1 = document.getElementById('nav1');
+  var n2 = document.getElementById('nav2');
+  
+  if(src == 0) {
+    n0.classList.add("active");
+    n1.classList.remove("active");
+    n2.classList.remove("active");
+    iframe.src = "table.html";
+  }
+  else if(src == 1) {
+    n0.classList.remove("active");
+    n1.classList.add("active");
+    n2.classList.remove("active");
+    iframe.src = "constructions.html";
+  }
+  else if(src == 2) {
+    n0.classList.remove("active");
+    n1.classList.remove("active");
+    n2.classList.add("active");
+    iframe.src = "cite.html";
+  }
+}
+</script>
+</head>
+<body>
+
+<div class="topnav">
+  <a id="nav0" class="active" href="javascript:void(0);" onclick="loadframe(0);">Table</a>
+  <a id="nav1" href="javascript:void(0);" onclick="loadframe(1);">General constructions</a>
+  <a id="nav2" href="javascript:void(0);" onclick="loadframe(2);">How to cite</a>
+  <a id="nav3" class="inactive" href="https://www.uni-siegen.de/start/kontakt/impressum.html.en?lang=en">Legal notice</a>
+  <a id="nav4" class="inactive" href="https://www.uni-siegen.de/start/kontakt/datenschutzerklaerung.html.en?lang=en">Privacy policy</a>
+  
+</div>
+
+<iframe style="border:none;width:100%;height:100%;" id="iframe" src="table.html">
+
+</body>
+</html>
