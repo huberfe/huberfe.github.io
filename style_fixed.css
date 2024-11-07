@@ -1,0 +1,35 @@
+.fixed_div {
+	/*position:fixed !important;
+	overflow:auto !important;
+	height:calc(100% - 130px) !important;
+	width:calc(100% - 490px) !important;
+	top:183px !important;*/
+	
+	overflow-y:scroll !important;
+	height:calc(100vh - 220px) !important;
+	width:calc(100vw - 860px) !important;
+	top:0px !important;
+	
+	-khtml-transition: margin-top 0.3s ease;
+    -moz-transition: margin-top 0.3s ease;
+    -ms-transition: margin-top 0.3s ease;
+    -o-transition: margin-top 0.3s ease;
+    -webkit-transition: margin-top 0.3s ease;
+    transition: margin-top 0.3s ease;
+}
+
+.code_desc {
+    margin-bottom: 4px;
+}
+
+.code_referencelist {
+    margin-top: -10px;
+    margin-bottom: 0px;
+}
+
+.left_label {
+	writing-mode: tb-rl;
+	transform: rotate(-180deg);
+	font-style: italic;
+	color: #5e5e5e;
+}
