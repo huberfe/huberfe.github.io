@@ -160,7 +160,7 @@ Felix Huber and Otfried Gühne\\
 ## Software
 
 - [Table of absolutely maximally entangled states](https://tp.nt.uni-siegen.de/ame/ame.html)
-- [Python library for quantum information](https://bitbucket.org/huberfe/qgeo)
+- [Python library for quantum information](https://gitlab.com/qgeo/qgeo)
 
 
 ## Teaching
