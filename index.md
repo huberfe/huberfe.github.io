@@ -27,6 +27,7 @@ I also enjoy noncommutative algebra, including [tensor polynomial identities](ht
 - Tomás Crosta (PhD student, U. Bordeaux)
 
 Previous members:
+
 - Moises Bermejo Moran (PhD student, Jagiellonian U. Kraków)
 - Gerard Munné (PhD student, Jagiellonian U. Kraków)
 - Albert Rico (PhD student, Jagiellonian U. Kraków)
