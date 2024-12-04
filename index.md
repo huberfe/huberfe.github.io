@@ -25,12 +25,12 @@ I also enjoy noncommutative algebra, including [tensor polynomial identities](ht
 ## Team
 
 - Tomás Crosta (PhD student, U. Bordeaux)
+
+Previous members:
 - Moises Bermejo Moran (PhD student, Jagiellonian U. Kraków)
 - Gerard Munné (PhD student, Jagiellonian U. Kraków)
 - Albert Rico (PhD student, Jagiellonian U. Kraków)
 - Muhammet Taha Çakmak (intern, U. Sabanci)
-
-Previous members:
 - Shannon Jeffries (intern, U. Waterloo)
 - Stefan Kessler (MSc student, TU Munich)
 - Vinayak Jagadish (Postdoc, Jagiellonian U. Kraków)
