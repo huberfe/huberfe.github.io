@@ -52,6 +52,10 @@ Previous members:
 ## Publications
 You can find my work on [arXiv](https://arxiv.org/a/huber_f_1.html), [ORCiD](https://orcid.org/0000-0002-3856-4018), and [Google Scholar](https://scholar.google.com/citations?user=1O58f3gAAAAJ&hl=en&oi=ao).
 
+[27] **Positivity of state, trace, and moment polynomials, and applications in quantum information**\\
+Felix Huber, Victor Magron, and Jurij Volčič\\
+[arXiv](https://arxiv.org/abs/2412.12342).
+
 [26] **Second order cone relaxations for quantum Max Cut**\\
 Felix Huber, Kevin Thompson, Ojas Parekh, and Sevag Gharibian\\
 [arxiv](https://arxiv.org/abs/2411.04120).
