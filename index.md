@@ -169,7 +169,7 @@ Felix Huber and Otfried Gühne\\
 
 
 ## Teaching
-- TA for Group Theory (Nov 2024 --)
+- TA for Group Theory and Chemistry (Nov 2024 --)
 - TA for Equations of Mathematical Physics (Nov 2024 --)
 - TA for Advanced numerical methods of medical physics (Nov 2024 --)
 - TA for Mathematical methods of bioinformatics - calculus (Nov 2024 --)
