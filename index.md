@@ -25,6 +25,8 @@ I also enjoy noncommutative algebra, including [tensor polynomial identities](ht
 ## Team
 
 - Tomás Crosta (PhD student, U. Bordeaux)
+- Paulina Janowicz (MSc student, U. Gdańsk)
+- Marcin Hyla (BSc student, U. Gdańsk)
 
 Previous members:
 
