@@ -19,6 +19,8 @@ sass:
 nav:
  - name: "Home"
    link: "index"
+ - name: "News"
+   link: "news"
  - name: "AME Table"
    link: "ame"
  - name: "Contact"
