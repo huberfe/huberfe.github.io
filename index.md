@@ -32,7 +32,7 @@ Previous members:
 
 - Moises Bermejo Moran (PhD student, Jagiellonian U. Kraków)
 - Gerard Munné (PhD student, Jagiellonian U. Kraków)
-- Albert Rico (PhD student, Jagiellonian U. Kraków)
+- Albert Rico (PhD student, Jagiellonian U. Kraków. Now postdoc at UAB Barcelona)
 - Muhammet Taha Çakmak (intern, U. Sabanci)
 - Shannon Jeffries (intern, U. Waterloo)
 - Stefan Kessler (MSc student, TU Munich)
