@@ -6,6 +6,10 @@ layout: page
 
 ## News
 
+- 21 March 2025: Albert Rico defended his thesis
+"Convex Structures in Quantum Information - Symmetric and geometric methods" with distinction.
+He is now at Universidad Autònoma Barcelona. Congratulations Albert!
+
 - Talk at [QIP 2025](https://rsvp.duke.edu/event/qip2025/): \\
 [SDP bounds on quantum codes](https://arxiv.org/abs/2408.10323). \\
 Joint work with Gerard Munné (Jagiellonian U.) and Andrew Nemec (Duke U.).
