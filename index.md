@@ -30,12 +30,12 @@ I also enjoy noncommutative algebra, including [tensor polynomial identities](ht
 
 Previous members:
 
-- Moises Bermejo Moran (PhD student, Jagiellonian U. Kraków)
+- Moises Bermejo Moran (PhD 2025, Jagiellonian U. Kraków)
 - Gerard Munné (PhD student, Jagiellonian U. Kraków)
-- Albert Rico (PhD student, Jagiellonian U. Kraków. Now postdoc at UAB Barcelona)
+- Albert Rico (PhD 2025, Jagiellonian U. Kraków. Now postdoc at UAB Barcelona)
 - Muhammet Taha Çakmak (intern, U. Sabanci)
 - Shannon Jeffries (intern, U. Waterloo)
-- Stefan Kessler (MSc student, TU Munich)
+- Stefan Kessler (MSc Thesis 2023, TU Munich)
 - Vinayak Jagadish (Postdoc, Jagiellonian U. Kraków)
 
 
