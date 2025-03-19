@@ -174,7 +174,7 @@ Felix Huber and Otfried Gühne\\
 
 ## Teaching
 - TA, Linear Algebra (Mar 2025 -- Jun 2025)
-- TA, Python with elements of algorythmics (Mar 2025 -- Jun 2025)
+- TA, Bioinformatics with Python (Mar 2025 -- Jun 2025)
 - TA, Mathematical Analysis for Physicists (Mar 2025 -- Jun 2025)
 - TA, Group Theory and Chemistry (Nov 2024 -- Feb 2025)
 - TA, Equations of Mathematical Physics (Nov 2024 -- Feb 2025)
