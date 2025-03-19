@@ -41,6 +41,7 @@ Previous members:
 
 ## Projects/Grants
 - Sonata Bis grant (NCN) "Mathematical Optimization in Quantum Information" (2025 - 2030)
+- NAWA Strategic Partnership grant (2025 - 2026)
 - Coordinator for the “Maison du quantique - HybQuant” grant (2024)
 - Nouvelle-Aquitaine Chair for Emergence, Science & Society (CHESS) "Invariant Topological Quantum Codes" (2024 --- 2029)
 - PhD grant CMA Quantum Technologies "QuanTEdu-France" (2024-2027)
