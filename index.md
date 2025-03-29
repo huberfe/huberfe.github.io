@@ -61,11 +61,11 @@ Felix Huber, Victor Magron, and Jurij Volčič\\
 
 [26] **Second order cone relaxations for quantum Max Cut**\\
 Felix Huber, Kevin Thompson, Ojas Parekh, and Sevag Gharibian\\
-[arxiv](https://arxiv.org/abs/2411.04120).
+[arxiv](https://arxiv.org/abs/2411.04120)
 
 [25] **SDP bounds on quantum codes**\\
 Gerard Anglès Munné, Andrew Nemec, and Felix Huber\\
-[arXiv](https://arxiv.org/abs/2408.10323).
+[arXiv](https://arxiv.org/abs/2408.10323)
 
 [24] **Uncertainty relations from state polynomial optimization**\\
 Moisés Bermejo Morán and Felix Huber\\
