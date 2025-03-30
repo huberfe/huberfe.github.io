@@ -57,7 +57,7 @@ You can find my work on [arXiv](https://arxiv.org/a/huber_f_1.html), [ORCiD](htt
 
 [27] **Positivity of state, trace, and moment polynomials, and applications in quantum information**\\
 Felix Huber, Victor Magron, and Jurij Volčič\\
-[arXiv](https://arxiv.org/abs/2412.12342). Accepted at Springer reference project Operator Theory II.
+[arXiv](https://arxiv.org/abs/2412.12342). In: Alpay, D., Sabadini, I., Colombo, F. (eds) [Operator Theory](https://doi.org/10.1007/978-3-0348-0692-3_88-1) (2025).
 
 [26] **Second order cone relaxations for quantum Max Cut**\\
 Felix Huber, Kevin Thompson, Ojas Parekh, and Sevag Gharibian\\
