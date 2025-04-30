@@ -16,7 +16,7 @@ I'm an Editor at [Quantum](https://quantum-journal.org/) (2024-) and program com
 Contact: felix.huber@physik.uni-siegen.de
 
 ## Research Interests
-I work on the characterization of quantum correlations like entanglement and nonlocality, on quantum error correction (theory & experimental proposals), and on mathematical optimization in quantum information and computation. I also do a bit of mathematics in the field of on non-commutative algebra.
+I work on the characterization of quantum correlations like entanglement and nonlocality, on quantum error correction (theory & experimental proposals), and on mathematical optimization in quantum information and computation. I also do a bit of mathematics in the field of non-commutative algebra.
 
 I like problems such as [quantum Max Cut](https://arxiv.org/abs/2411.04120v1), the [quantum marginal problem](https://arxiv.org/abs/2211.06349), [uncertainty relations](https://arxiv.org/abs/2310.00612), the [detection](https://arxiv.org/abs/2108.08720) of [entanglement](https://arxiv.org/abs/1708.06298), quantum zero-error communication, and [coding bounds](https://arxiv.org/abs/2408.10323) :)
 
@@ -40,8 +40,8 @@ Previous members:
 
 
 ## Projects/Grants
-- Sonata Bis grant (NCN) "Mathematical Optimization in Quantum Information" (2025 - 2030)
-- NAWA Strategic Partnership grant (2025 - 2026)
+- NCN Sonata Bis grant "Mathematical Optimization in Quantum Information" (2025 - 2030)
+- NAWA Strategic Partnership grant [KLAR](https://klar.ug.edu.pl/) (2025 - 2026)
 - Coordinator for the “Maison du quantique - HybQuant” grant (2024)
 - Nouvelle-Aquitaine Chair for Emergence, Science & Society (CHESS) "Invariant Topological Quantum Codes" (2024)
 - PhD grant CMA Quantum Technologies "QuanTEdu-France" (2024)
