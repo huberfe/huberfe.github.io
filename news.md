@@ -6,7 +6,14 @@ layout: page
 
 ## News
 
-- 21 March 2025: Albert Rico defended his thesis
+- 7 April 2025: The group receives the Sonata-Bis 14 grant "Mathematical Optimization in Quantum Information".
+A big thank you to the Polish National Science Centre!
+
+- 10 March 2025: Moisés Bermejo Morán defended his thesis
+"Characterizing quantum behaviours: Polynomial optimization in quantum information".
+He is now at the University of Bilkent. Congratulations Moisés!
+
+- 21 February 2025: Albert Rico defended his thesis
 "Convex Structures in Quantum Information - Symmetric and geometric methods" with distinction.
 He is now at Universidad Autònoma Barcelona. Congratulations Albert!
 
