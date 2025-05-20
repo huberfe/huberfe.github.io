@@ -3,7 +3,8 @@ layout: default
 is_contact: true
 ---
 
-[felix.huber@physik.uni-siegen.de](felix.huber@physik.uni-siegen.de)
+[felix.huber@physik.uni-siegen.de](felix.huber@physik.uni-siegen.de),
+[felix.huber@ug.edu.pl](felix.huber@ug.edu.pl)
 
 Links:
 * [arXiv](https://arxiv.org/a/huber_f_1.html)
@@ -14,8 +15,8 @@ Links:
 
 ## Address
 
-
-> Faculty of Mathematics, Physics and Computer Science \\
+> Division of Quantum Computing \\
+> Faculty of Informatics \\
 > University of Gdańsk \\
 > ul. Wita Stwosza 57 \\
 > 80-308 Gdańsk \\
