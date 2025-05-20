@@ -5,6 +5,8 @@ layout: page
 
 ![](Huber_wide.jpeg)
 
+> PhD and Postdoc positions available! See [Jobs](https://huberfe.github.io/jobs).
+
 Since November 2024, I am Assistant Professor at the Institute of Theoretical Physics and Astrophysics of the University of Gdańsk.
 From January 2024 to October 2024 I was Junior Professor (tenure-track) for Quantum Algorithms at the [Bordeaux Computer Science Laboratory](https://www.labri.fr), where I also headed the [Quantum information and Computation Group](https://quantique.labri.fr/).
 From 2021 to 2023 I led the [Quantum Error Correction Group](https://nisq.pl/quantum-error-correction-group)
@@ -15,8 +17,6 @@ I was a postdoctoral fellow in the groups of [Antonio Acín](https://www.icfo.eu
 I'm an Editor at [Quantum](https://quantum-journal.org/) (2024-) and program committee member for [QIP 2025](https://rsvp.duke.edu/event/qip2025).
 
 Contact: felix.huber@physik.uni-siegen.de
-
-> PhD and Postdoc positions available! See [Jobs](https://huberfe.github.io/jobs).
 
 
 ## Research Interests
