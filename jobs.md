@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-## PhD (4 years)
+## PhD (4 years). Application deadline 30 June 2025.
 
 We are seeking a motivated PhD student that is interested to work on quantum information and mathematical optimization.
 Possible topics are:
@@ -27,7 +27,7 @@ Applicants can send their applications (CV, names + email of two references, cop
 We welcome applicants from all backgrounds, and promote a friendly, safe, and supporting team work environment.
 
 
-## Postdoc (2 years)
+## Postdoc (2 years). Application deadline 30 June 2025.
 
 We are seeking a motivated postdoctoral researcher that is interested to work on quantum information and mathematical optimization.
 Possible topics are:
