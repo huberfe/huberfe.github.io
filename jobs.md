@@ -23,7 +23,7 @@ The position is fully funded for 2 years, with a salary of approx. 8.900 PLN gro
 
 Applicants can send their applications (CV, names + email of two references, copy or link to PhD thesis, a research statement is strongly encouraged) with subject “NCN Postdoc” to:  felix.huber@ug.edu.pl
 
-Applications will be reviewed until the position is filled.
+Applications will be reviewed until the position is filled. More details see (link follows).
 
 We welcome applicants from all backgrounds, and promote a friendly, safe, and supporting team work environment.
 
@@ -47,6 +47,6 @@ The position is fully funded for 4 years, with a salary of approx. (to be announ
 
 Applicants can send their applications (CV, names + email of two references, copy or link to MSc thesis, a motivation/cover letter is strongly encouraged) with subject “NCN PhD” to:  felix.huber@ug.edu.pl
 
-Applications will be reviewed until the position is filled.
+Applications will be reviewed until the position is filled. More details see (link follows).
 
 We welcome applicants from all backgrounds, and promote a friendly, safe, and supporting team work environment.
