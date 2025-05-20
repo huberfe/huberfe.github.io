@@ -7,7 +7,7 @@ layout: page
 ## Hiring
 
 We are seeking a motivated postdoctoral researcher that is interested to work on quantum information and mathematical optimization.
-Topics they can expect to work on are:
+Possible topics are:
 
 - approximation algorithms in QIT (e.g. ground state energies)
 - symmetry- and size reduction of polynomial optimization problems.
