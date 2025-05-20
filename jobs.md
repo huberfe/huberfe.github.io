@@ -45,7 +45,7 @@ Candidates can have training or experience in the following areas: physics, math
 
 The position is fully funded for 4 years, with a salary of approx. (to be announced) PLN gross and travel funding. The position includes Polish social security coverage, including health insurance.
 
-Applicants can send their applications (CV, names + email of two references, copy/link to MSc thesis, a motivation/cover letter is strongly encouraged) with subject “NCN PhD” to:  felix.huber@ug.edu.pl
+Applicants can send their applications (CV, names + email of two references, copy or link to MSc thesis, a motivation/cover letter is strongly encouraged) with subject “NCN PhD” to:  felix.huber@ug.edu.pl
 
 Applications will be reviewed until the position is filled.
 
