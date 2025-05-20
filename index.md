@@ -5,7 +5,7 @@ layout: page
 
 ![](Huber_wide.jpeg)
 
-> **PhD and Postdoc positions available! See [Jobs](https://huberfe.github.io/jobs).**
+> ##PhD and Postdoc positions available! See [Jobs](https://huberfe.github.io/jobs).
 
 Since November 2024, I am Assistant Professor at the Institute of Theoretical Physics and Astrophysics of the University of Gdańsk.
 From January 2024 to October 2024 I was Junior Professor (tenure-track) for Quantum Algorithms at the [Bordeaux Computer Science Laboratory](https://www.labri.fr), where I also headed the [Quantum information and Computation Group](https://quantique.labri.fr/).
