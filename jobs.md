@@ -16,7 +16,7 @@ Possible topics are:
 
 This four-year position is part of the project “Mathematical Optimization in Quantum Information”, funded by the National Science Centre in Poland, and profits from vibrant quantum research in at the Institutes of Theoretical Physics and Informatics of U. Gdańsk and the ICQT Gdańsk.
 
-Candidates can have training or experience in the following areas: physics, mathematics, informatics. Ideal the candidate heard courses on quantum information and computation, mathematical programming, combinatorial optimization, or coding theory. We appreciate a proactive personality with a good ability for cooperation, a methodological way of working, and proficiency in English. Programming experience (Python/Julia, Sagemath, GAP, semidefinite programming) is a plus.
+Candidates can have training or experience in the following areas: physics, mathematics, informatics. Ideal the candidate heard courses on quantum information and computation, mathematical programming, combinatorial optimization, or coding theory. We appreciate a proactive personality with a good ability for cooperation, a methodological way of working, and proficiency in English. Programming experience (Python/Julia, Sage, GAP, semidefinite programming) is a plus.
 
 The position is fully funded for 4 years, with a salary of approx. (to be announced) PLN gross and travel funding. The position includes Polish social security coverage, including health insurance. See [Calculla](https://calculla.com/polish_net_gross_earnings_calculator) for approximate net earnings, and [Numbeo](https://www.numbeo.com/cost-of-living/in/Gdansk) for cost of living estimates.
 
@@ -40,7 +40,7 @@ Possible topics are:
 
 This two-year position is part of the project “Mathematical Optimization in Quantum Information”, funded by the National Science Centre in Poland, and profits from vibrant quantum research in at the Institutes of Theoretical Physics and Informatics of U. Gdańsk and the ICQT Gdańsk.
 
-Candidates can have training or experience in the following areas: quantum information and computation, mathematical programming, combinatorial optimization, or coding theory. We appreciate proactive researchers with a good ability for cooperation, a methodological way of working, and proficiency in English. Programming experience (Python/Julia, Sagemath, GAP, semidefinite programming) is a plus.
+Candidates can have training or experience in the following areas: quantum information and computation, mathematical programming, combinatorial optimization, or coding theory. We appreciate proactive researchers with a good ability for cooperation, a methodological way of working, and proficiency in English. Programming experience (Python/Julia, Sage, GAP, semidefinite programming) is a plus.
 
 The position is fully funded for 2 years, with a salary of approx. 8.900 PLN gross and travel funding. The position includes Polish social security coverage, including health insurance. See [Calculla](https://calculla.com/polish_net_gross_earnings_calculator) for approximate net earnings, and [Numbeo](https://www.numbeo.com/cost-of-living/in/Gdansk) for cost of living estimates.
 
