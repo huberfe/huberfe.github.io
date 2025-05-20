@@ -21,8 +21,7 @@ Candidates can have training or experience in the following areas: quantum infor
 
 The position is fully funded for 2 years, with a salary of approx. 8.900 PLN gross and travel funding. The position includes Polish social security coverage, including health insurance.
 
-Applicants can send their applications (CV, names + email of two references, a research statement is strongly encouraged) \\
-with subject “NCN Postdoc” to:  felix.huber@ug.edu.pl
+Applicants can send their applications (CV, names + email of two references, a research statement is strongly encouraged) with subject “NCN Postdoc” to:  felix.huber@ug.edu.pl
 
 Applications will be reviewed until the position is filled.
 
