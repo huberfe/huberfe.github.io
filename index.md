@@ -16,6 +16,10 @@ I'm an Editor at [Quantum](https://quantum-journal.org/) (2024-) and program com
 
 Contact: felix.huber@physik.uni-siegen.de
 
+--
+> PhD and Postdoc positions available. See [Jobs](https://huberfe.github.io/jobs)
+--
+
 ## Research Interests
 I work on the characterization of quantum correlations like entanglement and nonlocality, on quantum error correction (theory & experimental proposals), and on mathematical optimization in quantum information and computation. I also do a bit of mathematics in the field of non-commutative algebra.
 
