@@ -22,7 +22,6 @@ Contact: felix.huber@physik.uni-siegen.de
 My interests are in quantum correlations like entanglement and nonlocality, quantum error correction (theory & experimental proposals), and mathematical optimization in quantum information and computation, and non-commutative algebra.
 
 I like problems such as [quantum Max Cut](https://arxiv.org/abs/2411.04120v1), the [quantum marginal problem](https://arxiv.org/abs/2211.06349), [uncertainty relations](https://arxiv.org/abs/2310.00612), the [detection](https://arxiv.org/abs/2108.08720) of [entanglement](https://arxiv.org/abs/1708.06298), quantum zero-error communication, and [coding bounds](https://arxiv.org/abs/2408.10323).
-
 I also enjoy noncommutative algebra, including [tensor polynomial identities](https://arxiv.org/abs/2011.04362) and [matrix inequalities](https://arxiv.org/abs/2002.12887).
 
 ## Team
