@@ -7,7 +7,7 @@ layout: page
 
 > **PhD and Postdoc positions available in my group at U. Gdańsk! See [Jobs](https://huberfe.github.io/jobs).**
 
-Since November 2024, I am Assistant Professor at the Institute of Theoretical Physics and Astrophysics of the University of Gdańsk.
+I am a researcher at the Institute of Theoretical Physics and Astrophysics of the University of Gdańsk.
 From January 2024 to October 2024 I was Junior Professor (tenure-track) for Quantum Algorithms at the [Bordeaux Computer Science Laboratory](https://www.labri.fr), heading the [Quantum information and Computation Group](https://quantique.labri.fr/).
 From 2021 to 2023 I led the [Quantum Error Correction Group](https://nisq.pl/quantum-error-correction-group)
 at the Jagiellonian University in Kraków.
