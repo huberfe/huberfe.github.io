@@ -6,7 +6,7 @@ layout: page
 ## PhD (4 years).
 
 We are seeking a motivated PhD student with interest to work on quantum information and mathematical optimization.
-Possible topics are:
+Possible research topics are:
 
 - approximation algorithms in QIT (e.g. ground state energies)
 - symmetry- and size reduction of polynomial optimization problems.
@@ -30,7 +30,7 @@ We welcome applicants from all backgrounds, and promote a friendly, safe, and su
 ## Postdoc (2 years).
 
 We are seeking a motivated postdoctoral researcher with interest to work on quantum information and mathematical optimization.
-Possible topics are:
+Possible research topics are:
 
 - approximation algorithms in QIT (e.g. ground state energies)
 - symmetry- and size reduction of polynomial optimization problems.
