@@ -7,12 +7,11 @@ layout: page
 
 > **PhD and Postdoc positions available in my group at U. Gdańsk! See [Jobs](https://huberfe.github.io/jobs).**
 
-I am a researcher at the Institute of Theoretical Physics and Astrophysics of the University of Gdańsk.
-From January 2024 to October 2024 I was Junior Professor (tenure-track) for Quantum Algorithms at the [Bordeaux Computer Science Laboratory](https://www.labri.fr), heading the [Quantum information and Computation Group](https://quantique.labri.fr/).
-From 2021 to 2023 I led the [Quantum Error Correction Group](https://nisq.pl/quantum-error-correction-group)
+I am a researcher at the Institute of Informatics at the University of Gdańsk.
+Previously, I was Junior Professor (tenure-track) for Quantum Algorithms at the [Bordeaux Computer Science Laboratory](https://www.labri.fr), heading the [Quantum information and Computation Group](https://quantique.labri.fr/). Between 2021 to 2023 I led the [Quantum Error Correction Group](https://nisq.pl/quantum-error-correction-group)
 at the Jagiellonian University in Kraków.
 
-I was a postdoctoral fellow in the groups of [Antonio Acín](https://www.icfo.eu/research-group/7/quantum-information/home/437/) at ICFO Barcelona and [David Gross](https://qi.uni-koeln.de/) at the University of Cologne (2018-2020). I was PhD student at the University of Siegen (2014-2017), advised by [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/). My [thesis](https://dspace.ub.uni-siegen.de/handle/ubsi/1272) won the [2019 Dissertation Prize](https://www.dpg-physik.de/auszeichnungen/preise-der-dpg-vereinigungen/preistraeger-dissertationspreis-samop) by the section AMOP of the German Physical Society.
+I was a postdoctoral fellow in the groups of [Antonio Acín](https://www.icfo.eu/research-group/7/quantum-information/home/437/) at ICFO Barcelona and [David Gross](https://qi.uni-koeln.de/) at the University of Cologne. I was PhD student at the University of Siegen, advised by [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/). My [thesis](https://dspace.ub.uni-siegen.de/handle/ubsi/1272) won the [2019 Dissertation Prize](https://www.dpg-physik.de/auszeichnungen/preise-der-dpg-vereinigungen/preistraeger-dissertationspreis-samop) by the section AMOP of the German Physical Society.
 
 I'm an Editor at [Quantum](https://quantum-journal.org/) (2024-) and program committee member for [QIP 2025](https://rsvp.duke.edu/event/qip2025).
 
@@ -20,7 +19,7 @@ Contact: felix.huber@physik.uni-siegen.de
 
 
 ## Research Interests
-I work on the characterization of quantum correlations like entanglement and nonlocality, on quantum error correction (theory & experimental proposals), and on mathematical optimization in quantum information and computation. I also do a bit of mathematics in the field of non-commutative algebra.
+My interests are in quantum correlations like entanglement and nonlocality, quantum error correction (theory & experimental proposals), and mathematical optimization in quantum information and computation, and non-commutative algebra.
 
 I like problems such as [quantum Max Cut](https://arxiv.org/abs/2411.04120v1), the [quantum marginal problem](https://arxiv.org/abs/2211.06349), [uncertainty relations](https://arxiv.org/abs/2310.00612), the [detection](https://arxiv.org/abs/2108.08720) of [entanglement](https://arxiv.org/abs/1708.06298), quantum zero-error communication, and [coding bounds](https://arxiv.org/abs/2408.10323).
 
