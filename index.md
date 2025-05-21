@@ -5,7 +5,7 @@ layout: page
 
 ![](Huber_wide.jpeg)
 
-> **PhD and Postdoc positions available! See [Jobs](https://huberfe.github.io/jobs).**
+> **PhD and Postdoc positions available in my group at U. Gdańsk! See [Jobs](https://huberfe.github.io/jobs).**
 
 Since November 2024, I am Assistant Professor at the Institute of Theoretical Physics and Astrophysics of the University of Gdańsk.
 From January 2024 to October 2024 I was Junior Professor (tenure-track) for Quantum Algorithms at the [Bordeaux Computer Science Laboratory](https://www.labri.fr), where I also headed the [Quantum information and Computation Group](https://quantique.labri.fr/).
@@ -175,7 +175,7 @@ Felix Huber and Otfried Gühne\\
 - [Python library for quantum information](https://gitlab.com/qgeo/qgeo)
 
 
-## Teaching
+## Teaching Experience
 - TA, Bioinformatics with Python (Mar 2025 -- Jun 2025)
 - TA, Linear Algebra (Mar 2025 -- Jun 2025)
 - TA, Mathematical Analysis for Physicists (Mar 2025 -- Jun 2025)
