@@ -173,7 +173,7 @@ Felix Huber and Otfried Gühne\\
 - [Python library for quantum information](https://gitlab.com/qgeo/qgeo)
 
 
-## Teaching Experience
+## Teaching
 - TA, Bioinformatics with Python (Mar 2025 -- Jun 2025)
 - TA, Linear Algebra (Mar 2025 -- Jun 2025)
 - TA, Mathematical Analysis for Physicists (Mar 2025 -- Jun 2025)
