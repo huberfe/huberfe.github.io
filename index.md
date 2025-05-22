@@ -13,7 +13,7 @@ at the Jagiellonian University in Kraków.
 
 I was a postdoctoral fellow in the groups of [Antonio Acín](https://www.icfo.eu/research-group/7/quantum-information/home/437/) at ICFO Barcelona and [David Gross](https://qi.uni-koeln.de/) at the University of Cologne. I received my PhD at the University of Siegen under the supervision of [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/). My [thesis](https://dspace.ub.uni-siegen.de/handle/ubsi/1272) won the [2019 Dissertation Prize](https://www.dpg-physik.de/auszeichnungen/preise-der-dpg-vereinigungen/preistraeger-dissertationspreis-samop) by the section AMOP of the German Physical Society.
 
-Currently I am an Editor at [Quantum](https://quantum-journal.org/) (2024-) and program committee member for [QIP 2025](https://rsvp.duke.edu/event/qip2025).
+I am an Editor at [Quantum](https://quantum-journal.org/) (2024-) and program committee member for [QIP 2025](https://rsvp.duke.edu/event/qip2025).
 
 Contact: felix.huber@physik.uni-siegen.de
 
