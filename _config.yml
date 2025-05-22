@@ -25,5 +25,7 @@ nav:
    link: "ame"
  - name: "Jobs"
    link: "jobs"
+ - name: "Student projects"
+   link: "projects"
  - name: "Contact"
    link: "contact"
