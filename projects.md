@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-## Student projects (MSc/BSc)
+## Possible MSc/BSc projects
 
 ### Symmetry-reduction of semidefinite programs with sparse Pauli constraints.
 
