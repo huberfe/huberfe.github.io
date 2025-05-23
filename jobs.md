@@ -18,7 +18,7 @@ This four-year position is part of the project “Mathematical Optimization in Q
 
 Candidates should have training or experience in the following areas: physics, mathematics, informatics. The ideal candidate took courses on quantum information and computation, mathematical programming, combinatorial optimization, or coding theory. We appreciate a proactive personality with a good ability for cooperation, a methodological way of working, and proficiency in English. Programming experience (Python/Julia, Sage, GAP, semidefinite programming) is a plus.
 
-The positions are offered for 4 years, with a salary of approx. (to be announced) PLN gross and travel funding. The positions includes Polish social security coverage, including health insurance. See [Calculla](https://calculla.com/polish_net_gross_earnings_calculator) for approximate net earnings, and [Numbeo](https://www.numbeo.com/cost-of-living/in/Gdansk) for cost of living estimates.
+The positions are offered for 4 years, with a stipend of approx. 5000 PLN net + 3466 PLN gross (5000 PLN net + 5340 PLN gross after successful midterm evaluation) and travel funding. The positions includes Polish social security coverage, including health insurance. See [Calculla](https://calculla.com/polish_net_gross_earnings_calculator) for approximate net earnings, and [Numbeo](https://www.numbeo.com/cost-of-living/in/Gdansk) for cost of living estimates.
 
 Applicants can send their applications (CV, names + email of two references, copy or link to MSc thesis, a motivation/cover letter is strongly encouraged, signed [data processing statement](data_processing_statement.pdf)) with subject “NCN PhD” to:  felix.huber@ug.edu.pl
 
