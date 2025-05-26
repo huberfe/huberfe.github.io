@@ -23,7 +23,7 @@ The positions are offered for 4 years, with a stipend of approx. 5000 PLN net + 
 Applicants can send their applications (CV, names + email of two references, copy or link to MSc thesis, a motivation/cover letter is strongly encouraged, signed [data processing statement](data_processing_statement.pdf)) with subject “NCN PhD” to:  felix.huber@ug.edu.pl
 
 **Application deadline: 30.06.2025**. More [details](https://mfi.ug.edu.pl/sites/mfi.ug.edu.pl/files/_nodes/strona/112337/files/ogloszenie-phd-2025-fh.pdf).
-Please fill out the following [form](https://docs.google.com/forms/d/e/1FAIpQLScsISiAgHkL6VeIKm4zZxY45Y33R9sopEbu-laN9_ATinC32g/viewform?usp=header).
+Please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLScsISiAgHkL6VeIKm4zZxY45Y33R9sopEbu-laN9_ATinC32g/viewform?usp=header).
 
 We welcome applicants from all backgrounds, and promote a friendly, safe, and supporting team work environment.
 
@@ -47,6 +47,6 @@ The position is offered for 2 years, with a salary of approx. 8.900 PLN gross an
 
 Applicants can send their applications (CV, names + email of two references, copy or link to PhD thesis, a research statement is strongly encouraged, signed [data processing statement](data_processing_statement.pdf)) with subject “NCN Postdoc” to:  felix.huber@ug.edu.pl
 
-**Application deadline: 30.06.2025**. More [details](https://mfi.ug.edu.pl/sites/mfi.ug.edu.pl/files/_nodes/strona/112309/files/ogloszenie-postdoc-1-fh.pdf). Please also fill out the following [form](https://docs.google.com/forms/d/e/1FAIpQLSea5Y6h-VHQM1xb6BLaL8EgXoIyHCgcUNK4s3jyl5MPI7Bqxw/viewform?usp=header).
+**Application deadline: 30.06.2025**. More [details](https://mfi.ug.edu.pl/sites/mfi.ug.edu.pl/files/_nodes/strona/112309/files/ogloszenie-postdoc-1-fh.pdf). Please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSea5Y6h-VHQM1xb6BLaL8EgXoIyHCgcUNK4s3jyl5MPI7Bqxw/viewform?usp=header).
 
 We welcome applicants from all backgrounds, and promote a friendly, safe, and supporting team work environment.
