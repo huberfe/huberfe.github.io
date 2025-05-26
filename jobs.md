@@ -28,8 +28,6 @@ Please fill out the following [form](https://docs.google.com/forms/d/e/1FAIpQLSc
 We welcome applicants from all backgrounds, and promote a friendly, safe, and supporting team work environment.
 
 
-
-
 ## Postdoc (2 years).
 
 We are seeking a motivated postdoctoral researcher with interest to work on quantum information and mathematical optimization.
