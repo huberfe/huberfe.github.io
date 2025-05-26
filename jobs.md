@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-## PhD (4 years).  Postdoc (2 years) below
+## PhD (4 years).  [Postdoc call below]
 
 We are seeking two motivated PhD students with interest to work on quantum information and mathematical optimization.
 Possible research topics are:
