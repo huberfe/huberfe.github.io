@@ -26,6 +26,8 @@ Applicants can send their applications (CV, names + email of two references, cop
 
 We welcome applicants from all backgrounds, and promote a friendly, safe, and supporting team work environment.
 
+Please also fill out the following [form](https://docs.google.com/forms/d/e/1FAIpQLScsISiAgHkL6VeIKm4zZxY45Y33R9sopEbu-laN9_ATinC32g/viewform?usp=header)
+
 
 ## Postdoc (2 years).
 
