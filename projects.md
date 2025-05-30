@@ -32,6 +32,6 @@ Reference: https://arxiv.org/abs/2103.04317
 
 ### Quantum Weight enumerators for entanglement-assisted codes (BSc)
 
-Quantum codes are an indispensable component for quantum computers. The aim of this project to derive obtain bounds on entanglement-assisted quantum codes through the theory of quantum weight enumerators.
+Quantum codes are an indispensable component for quantum computers. The aim of this project to derive bounds on entanglement-assisted quantum codes through the theory of quantum weight enumerators.
 
 Reference: https://arxiv.org/abs/1708.06298
