@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<link rel="canonical" href="https://huberfe.github.io/" />
 
 
 ![](Huber_wide.jpeg)
