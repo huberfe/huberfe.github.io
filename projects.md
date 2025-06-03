@@ -41,3 +41,5 @@ Reference: https://arxiv.org/abs/1708.06298
 
 Multi-qubit states show an intricate geometry. For a one-qubit system, the Bloch sphere characterizes the state space, but for two or more parties this simple description breaks down.
 The aim of the project is to derive existing state space inequalities and to find new ones using a moment matrix approach.
+
+Reference: https://arxiv.org/abs/2303.11400
