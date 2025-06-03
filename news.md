@@ -9,7 +9,7 @@ layout: page
 - 7 April 2025: The group receives the Sonata-Bis 14 grant "Mathematical Optimization in Quantum Information".
 A big thank you to the Polish National Science Centre!
 
-- 3 March 2025: We join the [KLAR](https://klar.ug.edu.pl/) NAWA Strategic Partnership grant with U. Lund.
+- 3 March 2025: We join the NAWA Strategic Partnership grant [KLAR](https://klar.ug.edu.pl/) with U. Lund.
 
 - 10 March 2025: Moisés Bermejo Morán defended his thesis
 "Characterizing quantum behaviours: Polynomial optimization in quantum information".
