@@ -35,3 +35,9 @@ Reference: https://arxiv.org/abs/2103.04317
 Quantum codes are an indispensable component for quantum computers. The aim of this project to derive bounds on entanglement-assisted quantum codes through the theory of quantum weight enumerators.
 
 Reference: https://arxiv.org/abs/1708.06298
+
+
+### Geometry of quantum states from moment matrices.
+
+Multi-qubit states show an intricate geometry. For a one-qubit system, the Bloch sphere characterizes the state space, but for two or more parties this simple description breaks down.
+The aim of the project is to derive existing state space inequalities and to find new ones using a moment matrix approach.
