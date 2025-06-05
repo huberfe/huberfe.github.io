@@ -34,7 +34,7 @@ Reference: https://arxiv.org/abs/2103.04317
 
 Quantum codes are an indispensable component for quantum computers. The aim of this project to derive bounds on entanglement-assisted quantum codes through the theory of quantum weight enumerators.
 
-Reference: https://arxiv.org/abs/1708.06298
+Reference: https://arxiv.org/abs/1708.06298, https://arxiv.org/abs/2206.13040
 
 
 ### Geometry of quantum states from moment matrices.
