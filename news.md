@@ -30,11 +30,13 @@ Joint work with Victor Magron (LAAS-CNRS Toulouse) and Jurij Volčič (U. Auckla
 
 ## Guests
 
-- Erwan Don, U. Geneva, 7-10 July
-- Leonardo Silva Vieira Santos, U. Siegen, 7-10 July
-- Jendrzej Stempin, U. Poznań, 23 June 2025
-- Claudio Procesi, U. Sapienzia 16-20 June 2025
-- Muhammet Taha Çakmak, Sabanci University, 24 June - 16 Sept 2024
+- Erwan Don, U. Geneva, 7-10 Jul 2025
+- Leonardo Silva Vieira Santos, U. Siegen, 7-10 Jul 2025
+- Jendrzej Stempin, U. Poznań, 23 Jun 2025
+- Claudio Procesi, U. Sapienzia 16-20 Jun 2025
+- Tomás Crosta, U. Bordeaux, 23 April - 15 May 2025
+- Muhammet Taha Çakmak, Sabanci University, 24 Jun - 16 Sept 2024
+- Sébastien Designolle, Zuse-Institut Berlin, 6-9 Mar 2023
 - Simon Morelli, U. del País Vasco, 22-25 May 2023
 - Andrew Nemec, Texas A&M University, 23 Nov - 14 Dec 2022
 - Joel Klassen, U. Delft, 19-24 Nov 2018
