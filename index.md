@@ -179,17 +179,17 @@ Felix Huber and Otfried Gühne\\
 
 
 ## Teaching
-- Lecturer, Mathematical Optimization (Oct 2025 -- Feb 2026)
-- TA, Bioinformatics with Python (Mar 2025 -- Jun 2025)
-- TA, Linear Algebra (Mar 2025 -- Jun 2025)
-- TA, Mathematical Analysis for Physicists (Mar 2025 -- Jun 2025)
-- TA, Group Theory and Chemistry (Nov 2024 -- Feb 2025)
-- TA, Equations of Mathematical Physics (Nov 2024 -- Feb 2025)
-- TA, Advanced numerical methods of medical physics (Nov 2024 -- Feb 2025)
-- TA, Mathematical methods of bioinformatics - calculus (Nov 2024 -- Feb 2025)
-- Lecturer, Mathematical Optimization (within “The infinitely large and infinitely small”), University of Bordeaux (Jan 2024 --- Jun 2024)
+- Lecturer, Mathematical Optimization, U. Gdańsk, Oct 2025 -- Feb 2026
+- TA, Bioinformatics with Python, U. Gdańsk, Mar 2025 -- Jun 2025
+- TA, Linear Algebra, U. Gdańsk, Mar 2025 -- Jun 2025
+- TA, Mathematical Analysis for Physicists, U. Gdańsk, Mar 2025 -- Jun 2025
+- TA, Group Theory and Chemistry, U. Gdańsk, Nov 2024 -- Feb 2025
+- TA, Equations of Mathematical Physics, U. Gdańsk, Nov 2024 -- Feb 2025
+- TA, Advanced numerical methods of medical physics, U. Gdańsk, Nov 2024 -- Feb 2025
+- TA, Mathematical methods of bioinformatics - calculus, U. Gdańsk, Nov 2024 -- Feb 2025
+- Lecturer, Mathematical Optimization (within “The infinitely large and infinitely small”), University of Bordeaux, Jan 2024 --- Jun 2024
 - TA for Algorithmique des tableaux, University of Bordeaux (Jan 2024 --- Jun 2024)
-- Lecturer, [Quantum Error-Correcting Codes](https://bgsmath.cat/event/quantum-error-correcting-codes/), jointly with Simeon Ball for the Barcelona Graduate School of Mathematics (Jan 2020)
-- TA, Complex Systems, Universität Siegen (Oct 2015 --- Feb 2016)
-- TA, Quantum Mechanics, Universität Siegen (Oct 2014 --- Feb 2015)
-- TA, Linear Algebra II, ETH Zürich (Feb 2011 --- May 2011)
+- Lecturer, [Quantum Error-Correcting Codes](https://bgsmath.cat/event/quantum-error-correcting-codes/), jointly with Simeon Ball for the Barcelona Graduate School of Mathematics, Jan 2020
+- TA, Complex Systems, Universität Siegen, Oct 2015 --- Feb 2016
+- TA, Quantum Mechanics, Universität Siegen, Oct 2014 --- Feb 2015
+- TA, Linear Algebra II, ETH Zürich, Feb 2011 --- May 2011
