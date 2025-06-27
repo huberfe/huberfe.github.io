@@ -179,6 +179,7 @@ Felix Huber and Otfried Gühne\\
 
 
 ## Teaching
+- Lecturer, Mathematical Optimization (Oct 2025 -- Feb 2026)
 - TA, Bioinformatics with Python (Mar 2025 -- Jun 2025)
 - TA, Linear Algebra (Mar 2025 -- Jun 2025)
 - TA, Mathematical Analysis for Physicists (Mar 2025 -- Jun 2025)
