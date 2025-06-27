@@ -58,9 +58,13 @@ Previous members:
 ## Publications
 You can find my work on [arXiv](https://arxiv.org/a/huber_f_1.html), [ORCiD](https://orcid.org/0000-0002-3856-4018), and [Google Scholar](https://scholar.google.com/citations?user=1O58f3gAAAAJ&hl=en&oi=ao).
 
+[28] **On two maximally entangled couples**\\
+Felix Huber and Jens Siewert\\
+[arXiv:2506.21282](https://arxiv.org/abs/2506.21282)
+
 [27] **Positivity of state, trace, and moment polynomials, and applications in quantum information**\\
 Felix Huber, Victor Magron, and Jurij Volčič\\
-[arXiv](https://arxiv.org/abs/2412.12342). In: Alpay, D., Sabadini, I., Colombo, F. (eds) [Operator Theory](https://doi.org/10.1007/978-3-0348-0692-3_88-1) (2025).
+[arXiv](https://arxiv.org/abs/2412.12342). In: Alpay, D., Sabadini, I., Colombo, F. (eds) [Operator Theory](https://doi.org/10.1007/978-3-0348-0692-3_88-1) (2025)
 
 [26] **Second order cone relaxations for quantum Max Cut**\\
 Felix Huber, Kevin Thompson, Ojas Parekh, and Sevag Gharibian\\
