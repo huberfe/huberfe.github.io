@@ -20,7 +20,7 @@ Candidates should have a MSc in Physics, Mathematics, or Computer Science. The i
 
 The positions are offered for 4 years, with a stipend of approx. 5000 PLN net + 3466 PLN gross (5000 PLN net + 5340 PLN gross after successful midterm evaluation) and travel funding. The positions includes Polish social security coverage, including health insurance. See [Calculla](https://calculla.com/polish_net_gross_earnings_calculator) for approximate net earnings, and [Numbeo](https://www.numbeo.com/cost-of-living/in/Gdansk) for cost of living estimates.
 
-Applicants can send their applications (CV, names + email of two references, copy or link to MSc thesis, a motivation/cover letter is strongly encouraged, signed [data processing statement](data_processing_statement.pdf)) with subject “NCN PhD” to:  felix.huber@ug.edu.pl
+Applicants can send their applications (CV, names + email of two references, copy or link to MSc thesis, a motivation/cover letter is strongly encouraged, signed [data processing statement](data_processing_statement_PHD.pdf)) with subject “NCN PhD” to:  felix.huber@ug.edu.pl
 
 **Application deadline: 30.06.2025**. More [details](https://mfi.ug.edu.pl/sites/mfi.ug.edu.pl/files/_nodes/strona/112337/files/ogloszenie-phd-2025-fh.pdf).
 Please also fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLScsISiAgHkL6VeIKm4zZxY45Y33R9sopEbu-laN9_ATinC32g/viewform?usp=header).
@@ -45,7 +45,7 @@ Candidates should have a PhD in Physics, Mathematics, or Computer Science with a
 
 The position is offered for 2 years, with a salary of approx. 8.900 PLN gross and travel funding. The position includes Polish social security coverage, including health insurance. See [Calculla](https://calculla.com/polish_net_gross_earnings_calculator) for approximate net earnings, and [Numbeo](https://www.numbeo.com/cost-of-living/in/Gdansk) for cost of living estimates.
 
-Applicants can send their applications (CV, names + email of two references, copy or link to PhD thesis, a research statement is strongly encouraged, signed [data processing statement](data_processing_statement.pdf)) with subject “NCN Postdoc” to:  felix.huber@ug.edu.pl
+Applicants can send their applications (CV, names + email of two references, copy or link to PhD thesis, a research statement is strongly encouraged, signed [data processing statement](data_processing_statement_POSTDOC.pdf)) with subject “NCN Postdoc” to:  felix.huber@ug.edu.pl
 
 **Application deadline: 30.06.2025**. More [details](https://mfi.ug.edu.pl/sites/mfi.ug.edu.pl/files/_nodes/strona/112309/files/ogloszenie-postdoc-1-fh.pdf). Please also fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSea5Y6h-VHQM1xb6BLaL8EgXoIyHCgcUNK4s3jyl5MPI7Bqxw/viewform?usp=header).
 
