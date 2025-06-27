@@ -60,7 +60,7 @@ You can find my work on [arXiv](https://arxiv.org/a/huber_f_1.html), [ORCiD](htt
 
 [28] **On two maximally entangled couples**\\
 Felix Huber and Jens Siewert\\
-[arXiv:2506.21282](https://arxiv.org/abs/2506.21282)
+[arXiv](https://arxiv.org/abs/2506.21282)
 
 [27] **Positivity of state, trace, and moment polynomials, and applications in quantum information**\\
 Felix Huber, Victor Magron, and Jurij Volčič\\
