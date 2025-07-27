@@ -33,6 +33,7 @@ Joint work with Victor Magron (LAAS-CNRS Toulouse) and Jurij Volčič (U. Auckla
 
 ## Guests
 
+- Joseph Malkoun, Notre Dame U. Louaize, 30 Jul 2025
 - Erwan Don, U. Geneva, 7-10 Jul 2025
 - Leonardo Silva Vieira Santos, U. Siegen, 7-10 Jul 2025
 - Jendrzej Stempin, U. Poznań, 23 Jun 2025
