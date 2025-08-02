@@ -28,11 +28,11 @@ In noncommutative algebra I worked on [tensor polynomial identities](https://arx
 ## Team
 
 - Tomás Crosta (PhD student, U. Bordeaux)
-- Paulina Janowicz (MSc student, U. Gdańsk)
-- Marcin Hyla (BSc student, U. Gdańsk)
+- Dariusz Zielonka (intern, U. Gdańsk)
 
 Previous members:
-
+- Paulina Janowicz (MSc student, U. Gdańsk)
+- Marcin Hyla (BSc student, U. Gdańsk)
 - Moises Bermejo Moran (PhD 2025, Jagiellonian U. Kraków. Now postdoc at Bilkent U.)
 - Gerard Munné (PhD student, Jagiellonian U. Kraków. Now postdoc at U. Gdańsk)
 - Albert Rico (PhD 2025, Jagiellonian U. Kraków. Now postdoc at UAB Barcelona)
