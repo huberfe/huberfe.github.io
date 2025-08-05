@@ -58,6 +58,10 @@ Previous members:
 ## Publications
 You can find my work on [arXiv](https://arxiv.org/a/huber_f_1.html), [ORCiD](https://orcid.org/0000-0002-3856-4018), and [Google Scholar](https://scholar.google.com/citations?user=1O58f3gAAAAJ&hl=en&oi=ao).
 
+[29] **Quasi-Clifford to qubit mappings**\\
+Felix Huber\\
+[arXiv:2508.01470](https://arxiv.org/abs/2508.01470)
+
 [28] **On two maximally entangled couples**\\
 Felix Huber and Jens Siewert\\
 [arXiv](https://arxiv.org/abs/2506.21282)
