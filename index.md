@@ -132,7 +132,7 @@ Markus Grassl, Felix Huber, and Andreas Winter\\
 
 [11] **Quantum error-correcting codes and their geometries**\\
 Simeon Ball, Aina Centelles, and Felix Huber\\
-[arXiv:2007.05992(https://arxiv.org/abs/2007.05992). [Annales de l’Institut Henri Poincaré D: Combinatorics, Physics and their Interactions, 10(2), 337-405 (2023)](https://doi.org/10.4171/aihpd/160)
+[arXiv:2007.05992](https://arxiv.org/abs/2007.05992). [Annales de l’Institut Henri Poincaré D: Combinatorics, Physics and their Interactions, 10(2), 337-405 (2023)](https://doi.org/10.4171/aihpd/160)
 
 [10] **Positive maps and trace polynomials from the symmetric group**\\
 Felix Huber\\
