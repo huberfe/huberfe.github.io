@@ -64,43 +64,43 @@ Felix Huber\\
 
 [28] **On two maximally entangled couples**\\
 Felix Huber and Jens Siewert\\
-[arXiv](https://arxiv.org/abs/2506.21282)
+[arXiv:2506.21282](https://arxiv.org/abs/2506.21282)
 
 [27] **Positivity of state, trace, and moment polynomials, and applications in quantum information**\\
 Felix Huber, Victor Magron, and Jurij Volčič\\
-[arXiv](https://arxiv.org/abs/2412.12342). In: Alpay, D., Sabadini, I., Colombo, F. (eds) [Operator Theory](https://doi.org/10.1007/978-3-0348-0692-3_88-1) (2025)
+[arXiv:2412.12342](https://arxiv.org/abs/2412.12342). In: Alpay, D., Sabadini, I., Colombo, F. (eds) [Operator Theory](https://doi.org/10.1007/978-3-0348-0692-3_88-1) (2025)
 
 [26] **Second order cone relaxations for quantum Max Cut**\\
 Felix Huber, Kevin Thompson, Ojas Parekh, and Sevag Gharibian\\
-[arxiv](https://arxiv.org/abs/2411.04120)
+[arxiv:2411.04120](https://arxiv.org/abs/2411.04120)
 
 [25] **SDP bounds on quantum codes**\\
 Gerard Anglès Munné, Andrew Nemec, and Felix Huber\\
-[arXiv](https://arxiv.org/abs/2408.10323)
+[arXiv:2408.10323](https://arxiv.org/abs/2408.10323)
 
 [24] **Uncertainty relations from state polynomial optimization**\\
 Moisés Bermejo Morán and Felix Huber\\
-[arXiv](https://arxiv.org/abs/2310.00612). [Physical Review Letters 132, 200202 (2024)](https://doi.org/10.1103/PhysRevLett.132.200202)
+[arXiv:2310.00612](https://arxiv.org/abs/2310.00612). [Physical Review Letters 132, 200202 (2024)](https://doi.org/10.1103/PhysRevLett.132.200202)
 
 [23] **Entanglement detection with trace polynomials**\\
 Albert Rico and Felix Huber\\
-[arXiv](https://arxiv.org/abs/2303.07761). [Physical Review Letters 132, 070202 (2024)](https://doi.org/10.1103/PhysRevLett.132.070202)
+[arXiv:2303.07761](https://arxiv.org/abs/2303.07761). [Physical Review Letters 132, 070202 (2024)](https://doi.org/10.1103/PhysRevLett.132.070202)
 
 [22] **Bell inequalities with overlapping measurements**\\
 Moisés Bermejo Morán, Alejandro Pozas-Kerstjens, and Felix Huber\\
-[arXiv](https://arxiv.org/abs/2303.02127). [Physical Review Letters 131, 080201 (2023)](https://doi.org/10.1103/PhysRevLett.131.080201)
+[arXiv:2303.02127](https://arxiv.org/abs/2303.02127). [Physical Review Letters 131, 080201 (2023)](https://doi.org/10.1103/PhysRevLett.131.080201)
 
 [21] **Refuting spectral compatibility of quantum marginals**\\
 Felix Huber and Nikolai Wyderka\\
-[arXiv](https://arxiv.org/abs/2211.06349)
+[arXiv:2211.06349](https://arxiv.org/abs/2211.06349)
 
 [20] **Engineering holography with stabilizer graph codes**\\
 Gerard Anglès Munné, Valentin Kasper, and Felix Huber\\
-[arXiv](https://arxiv.org/abs/2209.08954). [npj Quantum Information 10, 48 (2024)](https://doi.org/10.1038/s41534-024-00822-z)
+[arXiv:2209.08954](https://arxiv.org/abs/2209.08954). [npj Quantum Information 10, 48 (2024)](https://doi.org/10.1038/s41534-024-00822-z)
 
 [19] **Positive maps from the walled Brauer algebra**\\
 Maria Balanzó-Juandó, Michał Studziński, and Felix Huber\\
-[arXiv](https://arxiv.org/abs/2112.12738). [Journal of Physics A: Mathematical and Theoretical 57 115202 (2024)](https://doi.org/10.1088/1751-8121/ad2b86)
+[arXiv:2112.12738](https://arxiv.org/abs/2112.12738). [Journal of Physics A: Mathematical and Theoretical 57 115202 (2024)](https://doi.org/10.1088/1751-8121/ad2b86)
 
 [18] **Dimension-free entanglement detection in multipartite Werner states**\\
 Felix Huber\\
@@ -108,47 +108,47 @@ Felix Huber\\
 
 [17] **Dimension-free entanglement detection in multipartite Werner states**\\
 Felix Huber, Igor Klep, Victor Magron, and Jurij Volčič\\
-[arXiv](https://arxiv.org/abs/2108.08720). [Communications in Mathematical Physics 396, 1051–1070 (2022)](https://doi.org/10.1007/s00220-022-04485-9)
+[arXiv:2108.08720](https://arxiv.org/abs/2108.08720). [Communications in Mathematical Physics 396, 1051–1070 (2022)](https://doi.org/10.1007/s00220-022-04485-9)
 
 [16] **Matrix forms of immanant inequalities**\\
 Felix Huber and Hans Maassen\\
-[arXiv](https://arxiv.org/abs/2103.04317)
+[arXiv:2103.04317](https://arxiv.org/abs/2103.04317)
 
 [15] **Conjugate logic**\\
 Niklas Johansson, Felix Huber, and Jan-Åke Larsson\\
-[arXiv](https://arxiv.org/abs/2102.06572). Chapter in The Quantum-Like Revolution: A Festschrift for Andrei Khrennikov, 157-180, Springer International Publishing (2023)
+[arXiv:2102.06572](https://arxiv.org/abs/2102.06572). Chapter in The Quantum-Like Revolution: A Festschrift for Andrei Khrennikov, 157-180, Springer International Publishing (2023)
 
 [14] **Tensor polynomial identities**\\
 Felix Huber and Claudio Procesi\\
-[arXiv](https://arxiv.org/abs/2011.04362). [Israel Journal of Mathematics 247, 125-147 (2022)](https://doi.org/10.1007/s11856-021-2262-6)
+[arXiv:2011.04362](https://arxiv.org/abs/2011.04362). [Israel Journal of Mathematics 247, 125-147 (2022)](https://doi.org/10.1007/s11856-021-2262-6)
 
 [13] **Universal quantum computation and quantum error correction with ultracold atomic mixtures**\\
 Valentin Kasper, Daniel González-Cuadra, Apoorva Hegde, Andy Xia, Alexandre Dauphin, Felix Huber, Eberhard Tiemann, Maciej Lewenstein, Fred Jendrzejewski, and Philipp Hauke\\
-[arXiv](https://arxiv.org/abs/2010.15923). [Quantum Science and Technology 7, 015008 (2021)](https://doi.org/10.1088/2058-9565/ac2d39)
+[arXiv:2010.15923](https://arxiv.org/abs/2010.15923). [Quantum Science and Technology 7, 015008 (2021)](https://doi.org/10.1088/2058-9565/ac2d39)
 
 [12] **Entropic proofs of Singleton bounds for quantum error-correcting codes**\\
 Markus Grassl, Felix Huber, and Andreas Winter\\
-[arXiv](https://arxiv.org/abs/2010.07902). [IEEE Transactions on Information Theory 68, 6 (2022)](https://doi.org/10.1109/TIT.2022.3149291)
+[arXiv:2010.07902](https://arxiv.org/abs/2010.07902). [IEEE Transactions on Information Theory 68, 6 (2022)](https://doi.org/10.1109/TIT.2022.3149291)
 
 [11] **Quantum error-correcting codes and their geometries**\\
 Simeon Ball, Aina Centelles, and Felix Huber\\
-[arXiv](https://arxiv.org/abs/2007.05992). [Annales de l’Institut Henri Poincaré D: Combinatorics, Physics and their Interactions, 10(2), 337-405 (2023)](https://doi.org/10.4171/aihpd/160)
+[arXiv:2007.05992(https://arxiv.org/abs/2007.05992). [Annales de l’Institut Henri Poincaré D: Combinatorics, Physics and their Interactions, 10(2), 337-405 (2023)](https://doi.org/10.4171/aihpd/160)
 
 [10] **Positive maps and trace polynomials from the symmetric group**\\
 Felix Huber\\
-[arXiv](https://arxiv.org/abs/2002.12887). [Journal of Mathematical Physics 62, 022203 (2021)](https://doi.org/10.1063/5.0028856)
+[arXiv:2002.12887](https://arxiv.org/abs/2002.12887). [Journal of Mathematical Physics 62, 022203 (2021)](https://doi.org/10.1063/5.0028856)
 
 [9] **Quantum codes of maximal distance and highly entangled subspaces**\\
 Felix Huber and Markus Grassl\\
-[arXiv](https://arxiv.org/abs/1907.07733). [Quantum 4, 284 (2020)](https://doi.org/10.22331/q-2020-06-18-284)
+[arXiv:1907.07733](https://arxiv.org/abs/1907.07733). [Quantum 4, 284 (2020)](https://doi.org/10.22331/q-2020-06-18-284)
 
 [8] **Exponentially many entanglement and correlation constraints for multipartite quantum states**\\
 Christopher Eltschka, Felix Huber, Otfried Gühne, and Jens Siewert\\
-[arXiv](https://arxiv.org/abs/1807.09165). [Physical Review A 98, 052317 (2018)](https://doi.org/10.1103/PhysRevA.98.052317)
+[arXiv:1807.09165](https://arxiv.org/abs/1807.09165). [Physical Review A 98, 052317 (2018)](https://doi.org/10.1103/PhysRevA.98.052317)
 
 [7] **Some Ulam's reconstruction problems for quantum states**\\
 Felix Huber and Simone Severini\\
-[arXiv](https://arxiv.org/abs/1802.00783). [Journal of Physics A: Mathematical and Theoretical 51, 435301 (2018)](https://doi.org/10.1088/1751-8121/aadd1e)
+[arXiv:1802.00783](https://arxiv.org/abs/1802.00783). [Journal of Physics A: Mathematical and Theoretical 51, 435301 (2018)](https://doi.org/10.1088/1751-8121/aadd1e)
 
 [6] **Quantum States and their Marginals: From Multipartite Entanglement to Quantum Error-Correcting Codes**\\
 Felix Huber\\
@@ -156,24 +156,24 @@ Felix Huber\\
 
 [5] **Constraints on correlations in multiqubit systems**\\
 Nikolai Wyderka, Felix Huber, and Otfried Gühne\\
-[arXiv](https://arxiv.org/abs/1710.00758). [Physical Review A 97, 060101(R) (2018)](https://doi.org/10.1103/PhysRevA.97.060101)
+[arXiv:1710.00758](https://arxiv.org/abs/1710.00758). [Physical Review A 97, 060101(R) (2018)](https://doi.org/10.1103/PhysRevA.97.060101)
 
 [4] **Bounds on absolutely maximally entangled states from shadow inequalities, and the quantum MacWilliams identity**\\
 Felix Huber, Christopher Eltschka, Jens Siewert, and Otfried Gühne\\
-[arXiv](https://arxiv.org/abs/1708.06298). [Journal of Physics A: Mathematical and Theoretical 51, 175301 (2018)](https://doi.org/10.1088/1751-8121/aaade5)\\
+[arXiv:1708.06298](https://arxiv.org/abs/1708.06298). [Journal of Physics A: Mathematical and Theoretical 51, 175301 (2018)](https://doi.org/10.1088/1751-8121/aaade5)\\
 Selected for [Highlights 2018](https://iopscience.iop.org/journal/1751-8121/page/Highlights-of-2018) of the Journal of Physics A: Mathematical and Theoretical.
 
 [3] **Almost all four-particle pure states are determined by their two-body marginals**\\
 Nikolai Wyderka, Felix Huber, and Otfried Gühne;\\
- [arXiv](https://arxiv.org/abs/1703.10950). [Physical Review A 96, 010102(R) (2017)](https://doi.org/10.1103/PhysRevA.96.010102)
+ [arXiv:1703.10950](https://arxiv.org/abs/1703.10950). [Physical Review A 96, 010102(R) (2017)](https://doi.org/10.1103/PhysRevA.96.010102)
 
 [2] **Absolutely maximally entangled states of seven qubits do not exist**\\
 Felix Huber, Otfried Gühne, and Jens Siewert\\
-[arXiv](https://arxiv.org/abs/1608.06228). [Physical Review Letters 118, 200502 (2017)](https://doi.org/10.1103/PhysRevLett.118.200502)
+[arXiv:1608.06228](https://arxiv.org/abs/1608.06228). [Physical Review Letters 118, 200502 (2017)](https://doi.org/10.1103/PhysRevLett.118.200502)
 
 [1] **Characterizing ground and thermal states of few-body Hamiltonians**\\
 Felix Huber and Otfried Gühne\\
-[arXiv](https://arxiv.org/abs/1601.01630). [Physical Review Letters 117, 010403 (2016)](https://doi.org/10.1103/PhysRevLett.117.010403)
+[arXiv:1601.01630](https://arxiv.org/abs/1601.01630). [Physical Review Letters 117, 010403 (2016)](https://doi.org/10.1103/PhysRevLett.117.010403)
 
 
 ## Software
