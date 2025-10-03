@@ -27,5 +27,7 @@ nav:
    link: "projects"
  - name: "AME Table"
    link: "ame"
+ - name: "Teaching"
+   link: "teaching"
  - name: "Contact"
    link: "contact"
