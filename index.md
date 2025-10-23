@@ -29,7 +29,7 @@ In noncommutative algebra I worked on [tensor polynomial identities](https://arx
 
 - Tomás Crosta (PhD student, U. Bordeaux)
 - Jędrzej Stempin (PhD student, U. Gdańsk)
-- Dariusz Zielonka (intern, U. Gdańsk)
+- Dariusz Zielonka (project student, U. Gdańsk)
 
 Previous members:
 - Paulina Janowicz (MSc student, U. Gdańsk)
@@ -37,8 +37,8 @@ Previous members:
 - Moises Bermejo Moran (PhD 2025, Jagiellonian U. Kraków. Now postdoc at Bilkent U.)
 - Gerard Munné (PhD student, Jagiellonian U. Kraków. Now postdoc at U. Gdańsk)
 - Albert Rico (PhD 2025, Jagiellonian U. Kraków. Now postdoc at UAB Barcelona)
-- Muhammet Taha Çakmak (intern, U. Sabanci)
-- Shannon Jeffries (intern, U. Waterloo)
+- Muhammet Taha Çakmak (summer student, U. Sabanci)
+- Shannon Jeffries (summer student, U. Waterloo)
 - Stefan Kessler (MSc Thesis 2023, TU Munich)
 - Vinayak Jagadish (Postdoc, Jagiellonian U. Kraków)
 
@@ -65,7 +65,7 @@ Felix Huber\\
 
 [28] **On two maximally entangled couples**\\
 Felix Huber and Jens Siewert\\
-[arXiv:2506.21282](https://arxiv.org/abs/2506.21282)
+[arXiv:2506.21282](https://arxiv.org/abs/2506.21282); Accepted at Quantum Science and Technology.
 
 [27] **Positivity of state, trace, and moment polynomials, and applications in quantum information**\\
 Felix Huber, Victor Magron, and Jurij Volčič\\
