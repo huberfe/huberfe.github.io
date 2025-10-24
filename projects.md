@@ -9,7 +9,7 @@ layout: page
 
 Semidefinite Programming (SDP) is a work horse of computational quantum information theory (QIT). The optimization problems that are typically encountered in QIT have constraints that are formulated in terms of Pauli matrices. The aim of this project is to develop a computational method to symmetry-reduce such Pauli-constrained SDPs, making existing solvers for such cases vastly more efficient.
 
-Reference: https://arxiv.org/abs/1608.02090
+Reference: https://arxiv.org/abs/2508.01470, https://arxiv.org/abs/1608.02090
 
 
 
