@@ -33,6 +33,7 @@ Joint work with Victor Magron (LAAS-CNRS Toulouse) and Jurij Volčič (U. Auckla
 
 ## Guests
 
+- Balázs Pozsgay, Hungarian Academy of Sciences, 15-17 Dec 2025
 - Joseph Malkoun, Notre Dame U. Louaize, 30 Jul 2025
 - Erwan Don, U. Geneva, 7-10 Jul 2025
 - Leonardo Silva Vieira Santos, U. Siegen, 7-10 Jul 2025
