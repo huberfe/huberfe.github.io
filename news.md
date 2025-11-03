@@ -6,6 +6,8 @@ layout: page
 
 ## News
 
+- 1 October 2025: Jendrzej Stempin joins the group as PhD student to on quantum capacities.
+
 - 11 July 2025: Gerard Munné defended his thesis "Existence and implementation of quantum error-correcting codes".
 He will join the University of Gdańsk. Congratulations Gerard!
 
