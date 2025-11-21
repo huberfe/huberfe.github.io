@@ -94,7 +94,7 @@ Moisés Bermejo Morán, Alejandro Pozas-Kerstjens, and Felix Huber\\
 
 [21] **Refuting spectral compatibility of quantum marginals**\\
 Felix Huber and Nikolai Wyderka\\
-[arXiv:2211.06349](https://arxiv.org/abs/2211.06349). Accepted at Quantum.
+[arXiv:2211.06349](https://arxiv.org/abs/2211.06349). [Quantum 9, 1918 (2025)](https://doi.org/10.22331/q-2025-11-20-1918)
 
 [20] **Engineering holography with stabilizer graph codes**\\
 Gerard Anglès Munné, Valentin Kasper, and Felix Huber\\
