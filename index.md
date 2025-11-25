@@ -34,7 +34,7 @@ In noncommutative algebra I worked on [tensor polynomial identities](https://arx
 Previous members:
 - Paulina Janowicz (MSc student, U. Gdańsk)
 - Marcin Hyla (BSc student, U. Gdańsk)
-- Moises Bermejo Moran (PhD 2025, Jagiellonian U. Kraków. Now postdoc at Bilkent U.)
+- Moisés Bermejo Morán (PhD 2025, Jagiellonian U. Kraków. Now postdoc at Bilkent U.)
 - Gerard Munné (PhD 2025, Jagiellonian U. Kraków. Now postdoc at U. Gdańsk)
 - Albert Rico (PhD 2025, Jagiellonian U. Kraków. Now postdoc at UAB Barcelona)
 - Shannon Jeffries (project student, U. Waterloo)
