@@ -66,11 +66,11 @@ Felix Huber\\
 
 [28] **On two maximally entangled couples**\\
 Felix Huber and Jens Siewert\\
-[arXiv:2506.21282](https://arxiv.org/abs/2506.21282); Accepted at Quantum Science and Technology.
+[arXiv:2506.21282](https://arxiv.org/abs/2506.21282); [Quantum Science and Technology 11 015025 (2026)](https://doi.org/10.1088/2058-9565/ae23f4)
 
 [27] **Positivity of state, trace, and moment polynomials, and applications in quantum information**\\
 Felix Huber, Victor Magron, and Jurij Volčič\\
-[arXiv:2412.12342](https://arxiv.org/abs/2412.12342). In: Alpay, D., Sabadini, I., Colombo, F. (eds) [Operator Theory](https://doi.org/10.1007/978-3-0348-0692-3_88-1) (2025)
+[arXiv:2412.12342](https://arxiv.org/abs/2412.12342). In: Alpay, D., Sabadini, I., Colombo, F. (eds) (2025) [Operator Theory](https://doi.org/10.1007/978-3-0348-0692-3_88-1)
 
 [26] **Second order cone relaxations for quantum Max Cut**\\
 Felix Huber, Kevin Thompson, Ojas Parekh, and Sevag Gharibian\\
