@@ -27,6 +27,7 @@ In noncommutative algebra I worked on [tensor polynomial identities](https://arx
 
 ## Team
 
+- Santiago Llorens Fernández (postdoc, U. Gdańsk)
 - Tomás Crosta (PhD student, U. Bordeaux)
 - Jędrzej Stempin (PhD student, U. Gdańsk)
 - Dariusz Zielonka (project student, U. Gdańsk)
