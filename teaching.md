@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Mathematical Optimization.
+## Mathematical Optimization (winter 2025/2026).
 
 [Course details](Teaching/MathOpt_questions.pdf)
 
