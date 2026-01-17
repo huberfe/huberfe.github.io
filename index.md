@@ -6,8 +6,6 @@ layout: page
 
 ![](Huber_wide.jpeg)
 
-> **Postdoc position available in my group at U. Gdańsk! See [Jobs](https://huberfe.github.io/jobs).**
-
 I am an Assistant Professor at the Institute of Informatics at the University of Gdańsk.
 Previously, I was Junior Professor (tenure-track) for Quantum Algorithms at the [Bordeaux Computer Science Laboratory](https://www.labri.fr), heading the [Quantum information and Computation Group](https://quantique.labri.fr/). Between 2021 to 2023 I led the [Quantum Error Correction Group](https://nisq.pl/quantum-error-correction-group)
 at the Jagiellonian University in Kraków.
