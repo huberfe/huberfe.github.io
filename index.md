@@ -44,7 +44,7 @@ Previous members:
 
 
 ## Projects/Grants
-- NCN Sonata Bis grant "Mathematical Optimization in Quantum Information" (2025 - 2030)
+- NCN Sonata Bis grant "Mathematical Optimization in Quantum Information" [MOQI](https://projekty.ncn.gov.pl/en/index.php?projekt_id=627287) (2025 - 2030)
 - NAWA Strategic Partnership grant [KLAR](https://klar.ug.edu.pl/) (2025 - 2026)
 - Coordinator for the “Maison du quantique - HybQuant” grant (2024)
 - Nouvelle-Aquitaine Chair for Emergence, Science & Society (CHESS) "Invariant Topological Quantum Codes" (2024)
