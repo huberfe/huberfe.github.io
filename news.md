@@ -35,6 +35,7 @@ Joint work with Victor Magron (LAAS-CNRS Toulouse) and Jurij Volčič (U. Auckla
 
 ## Guests
 
+- Vito Viesti, U. Bari, 3-6 Mar 2026
 - Balázs Pozsgay, Hungarian Academy of Sciences, 15-17 Dec 2025
 - Santiago Llorens Fernández, Universitat Autònoma de Barcelona, 15-17 Dec 2025
 - Joseph Malkoun, Notre Dame U. Louaize, 30 Jul 2025
