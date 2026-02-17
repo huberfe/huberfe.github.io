@@ -56,3 +56,9 @@ Reference: https://arxiv.org/abs/1807.09165, https://arxiv.org/abs/2002.12887
 The project aims to understand and characterize the difference between classical and quantum moment inequalities.
 
 Reference: https://arxiv.org/abs/2306.05761
+
+### Interactive theorem proving with Lean (MSc)
+
+The project aims to formalize a simple proof from quantum information in the Interactive theorem proving system Lean.
+
+Reference: https://www.youtube.com/watch?v=I2zaPoj3G50
