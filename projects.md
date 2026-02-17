@@ -23,9 +23,7 @@ Reference: https://www.nature.com/articles/s41586-022-05172-4
 
 ### Matrix inequalities for Terwilliger subspaces (BSc/MSc)
 
-The Terwilliger algebra can be used to block-diagonalizes the n-qubit space of permutation symmetric matrices, satisfying \pi A \pi^{-1} = A for all permutations \pi of the symmetric group S_n. In analogy to determinant and immanant inequalities,
-the aim of this project is to find inequalities for positive semidefinite matrices
-that relate different subspaces.
+The Terwilliger algebra can be used to block-diagonalizes the n-qubit space of permutation symmetric matrices, satisfying \pi A \pi^{-1} = A for all permutations \pi of the symmetric group S_n. In analogy to determinant and immanant inequalities, the aim of this project is to find inequalities for positive semidefinite matrices that relate different subspaces.
 
 Reference: https://arxiv.org/abs/2103.04317
 
@@ -37,9 +35,24 @@ Quantum codes are an indispensable component for quantum computers. The aim of t
 Reference: https://arxiv.org/abs/1708.06298, https://arxiv.org/abs/2206.13040
 
 
-### Geometry of quantum states from moment matrices.
+### Geometry of quantum states from moment matrices. (BSc/MSc)
 
 Multi-qubit states show an intricate geometry. For a one-qubit system, the Bloch sphere characterizes the state space, but for two or more parties this simple description breaks down.
 The aim of the project is to derive existing state space inequalities and to find new ones using a moment matrix approach.
 
 Reference: https://arxiv.org/abs/2303.11400
+
+
+### Monogamy of entanglement inequalities (BSc)
+
+The sharing of multipartite entanglement is constrained by monogamy inequalities. The aim of the project is to derive higher-order purity inequalities 
+from the generalized shadow inequalities, and to apply them to the disprove the existence of certain quantum codes.
+
+Reference: https://arxiv.org/abs/1807.09165, https://arxiv.org/abs/2002.12887
+
+
+### Classical and quantum moment inequalities (MSc)
+
+The project aims to understand and characterize the difference between classical and quantum moment inequalities.
+
+Reference: https://arxiv.org/abs/2306.05761
