@@ -12,7 +12,7 @@ layout: page
 - 11 July 2025: Gerard Munné defended his thesis "Existence and implementation of quantum error-correcting codes".
 He will join the University of Gdańsk. Congratulations Gerard!
 
-- 7 April 2025: The group receives the Sonata-Bis 14 grant "Mathematical Optimization in Quantum Information".
+- 7 April 2025: The group receives the Sonata-Bis 14 grant [Mathematical Optimization in Quantum Information](https://projekty.ncn.gov.pl/opisy/627287-en.pdf).
 A big thank you to the Polish National Science Centre!
 
 - 3 March 2025: We join the NAWA Strategic Partnership grant [KLAR](https://klar.ug.edu.pl/) with U. Lund.
