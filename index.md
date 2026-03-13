@@ -183,7 +183,8 @@ Felix Huber and Otfried Gühne\\
 
 ## Software
 
-- [Table of absolutely maximally entangled states](https://tp.nt.uni-siegen.de/ame/ame.html)
+- [Table of absolutely maximally entangled states](https://huberfe.github.io/ame)
+- [Code bounds](https://huberfe.github.io/quantum-code-bounds/)
 - [Python library for quantum information](https://gitlab.com/qgeo/qgeo)
 
 
