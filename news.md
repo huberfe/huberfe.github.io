@@ -35,6 +35,7 @@ Joint work with Victor Magron (LAAS-CNRS Toulouse) and Jurij Volčič (U. Auckla
 
 
 ## Guests
+- Thomas Coolican Fraser, University of Copenhagen, 11 - 15 May 2026
 - Ansgar Burchards, FU Berlin, 27 April - 1 May 2026
 - Vito Viesti, U. Bari, 3-6 Mar 2026
 - Balázs Pozsgay, Hungarian Academy of Sciences, 15-17 Dec 2025
