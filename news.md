@@ -7,7 +7,7 @@ layout: page
 ## News
 - 1 March 2026: Santiago Llorens Fernández joins the group as postdoc working on representation theory in QIT. Welcome!
 
-- 1 October 2025: Jędrzej Stempin joins the group as PhD student to work on quantum capacities.
+- 1 October 2025: Jędrzej Stempin joins the group as PhD student to work on quantum capacities. Welcome!
 
 - 11 July 2025: Gerard Munné defended his thesis "Existence and implementation of quantum error-correcting codes".
 He will join the University of Gdańsk. Congratulations Gerard!
