@@ -59,6 +59,10 @@ Previous members:
 ## Publications
 You can find my work on [arXiv](https://arxiv.org/a/huber_f_1.html), [ORCiD](https://orcid.org/0000-0002-3856-4018), and [Google Scholar](https://scholar.google.com/citations?user=1O58f3gAAAAJ&hl=en&oi=ao).
 
+[32] **Combining moment matrices, symmetric extension, and Lovász theta: Φ_E8 is entangled** \\
+Jȩdrzej Stempin, Gerard A. Munné, Santiago Llorens, and Felix Huber \\
+[arXiv:2605.13832](https://arxiv.org/abs/2605.13832)
+
 [31] **SDP bounds on quantum codes: rational certificates**\\
 Gerard A. Munné and Felix Huber \\
 [arXiv:2603.19901](https://arxiv.org/abs/2603.19901)
