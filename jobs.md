@@ -67,3 +67,25 @@ We welcome applicants from all backgrounds, and promote a friendly, safe, and su
 - By the time of starting the position, you need to have finished the previous degree.
 
 - I prefer applications that were written by yourself, not AI.
+
+
+## Details on the recruiting procedure for PhD students
+
+This call above is for the stipend of 5000 PLN net.
+At U. Gdansk, every PhD student _also_ needs to be part of the Doctoral school. 
+The doctoral school then provides an _additional_ salary of 3466 PLN gross.
+
+The timeline is as follows:
+
+With me:
+Application deadline: 31 June
+Interview: 6-10 July
+Decision: 10 July
+
+With the doctoral school: 
+The successful candidate will then have to apply (with my support) to the doctoral school of the university of Gdansk.
+You will need all your documents (diploma etc) ready.
+Application dealine: July 12 (an application fee of 250 PLN is needed for that)
+Decision: 30 July.
+
+The start of the position can then not be earlier than 1 October (beginning of the semester).
