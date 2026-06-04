@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-![](baltic.jpg)
+![](beach.jpg)
 
 
 [felix.huber@ug.edu.pl](felix.huber@ug.edu.pl),
