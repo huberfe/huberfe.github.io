@@ -5,6 +5,9 @@ layout: page
 
 
 ## News
+
+- The group receives the two QuantERA grants SDPCode and ToDiQT. A big thank you to QuantERA and the Polish National Science Centre!
+
 - 1 March 2026: Santiago Llorens Fernández joins the group as postdoc working on representation theory in QIT. Welcome!
 
 - 1 October 2025: Jędrzej Stempin joins the group as PhD student to work on quantum capacities. Welcome!
