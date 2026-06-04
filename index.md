@@ -44,6 +44,8 @@ Previous members:
 
 
 ## Projects/Grants
+- QuantERA grant [SDPCode](https://quantera-sdpcode.github.io/) (2026-2029)
+- QuantERA grant [ToDiQT](https://quantera-sdpcode.github.io/) (2026-2029)
 - NCN Sonata Bis grant "Mathematical Optimization in Quantum Information" [MOQI](https://projekty.ncn.gov.pl/en/index.php?projekt_id=627287) (2025 - 2030)
 - NAWA Strategic Partnership grant [KLAR](https://klar.ug.edu.pl/) (2025 - 2026)
 - Coordinator for the “Maison du quantique - HybQuant” grant (2024)
