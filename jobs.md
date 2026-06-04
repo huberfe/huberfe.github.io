@@ -61,4 +61,6 @@ If the prize or ranking is not international, consider explaining it. Note for P
 
 - To answer some of the questions above, it will help if to look at some recent works: [arxiv](https://arxiv.org/a/huber_f_1.html).
 
+- By the time of starting the position, you need to have finished the previous degree.
+
 - I prefer applications that were written by yourself, not AI.
