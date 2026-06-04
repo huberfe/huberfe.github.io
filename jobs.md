@@ -78,14 +78,16 @@ The doctoral school then provides an _additional_ salary of 3466 PLN gross.
 The timeline is as follows:
 
 With me:
-Application deadline: 31 June
-Interview: 6-10 July
-Decision: 10 July
+
+- Application deadline: 31 June
+- Interview: 6-10 July
+- Decision: 10 July
 
 With the doctoral school: 
 The successful candidate will then have to apply (with my support) to the doctoral school of the university of Gdansk.
 You will need all your documents (diploma etc) ready.
-Application dealine: July 12 (an application fee of 250 PLN is needed for that)
-Decision: 30 July.
+
+- Application dealine: July 12 (an application fee of 250 PLN is needed for that)
+- Decision: 30 July.
 
 The start of the position can then not be earlier than 1 October (beginning of the semester).
