@@ -5,7 +5,7 @@ layout: page
 ![](beach.jpeg)
 
 
-## PhD student (4 years)
+## PhD student (4 years).
 
 We are seeking a motivated PhD student that is interested to work on quantum information and mathematical optimization in the group of Felix Huber (https://huberfe.github.io/). Topics they can expect to work on are:
 
