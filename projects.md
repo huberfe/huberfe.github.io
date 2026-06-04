@@ -2,6 +2,8 @@
 layout: page
 ---
 
+![](baltic_green.jpg)
+
 
 ## Possible MSc and BSc projects
 

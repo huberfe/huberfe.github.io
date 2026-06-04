@@ -3,6 +3,9 @@ layout: default
 is_contact: true
 ---
 
+![](baltic.jpg)
+
+
 [felix.huber@ug.edu.pl](felix.huber@ug.edu.pl),
 [felix.huber@physik.uni-siegen.de](felix.huber@physik.uni-siegen.de)
 
