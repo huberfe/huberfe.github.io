@@ -2,6 +2,7 @@
 layout: page
 ---
 
+![](harbor.jpg)
 
 
 ## News
