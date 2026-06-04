@@ -2,8 +2,7 @@
 layout: page
 ---
 
-![](beach.jpeg)
-
+![](beach.jpg)
 
 ## PhD student (4 years).
 
