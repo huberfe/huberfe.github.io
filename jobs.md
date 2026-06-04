@@ -6,6 +6,8 @@ layout: page
 
 ## PhD student (4 years).
 
+(Hints for applications below)
+
 We are seeking a motivated PhD student that is interested to work on quantum information and mathematical optimization in the group of [Felix Huber](https://huberfe.github.io/). Topics they can expect to work on are:
 
 - approximation algorithms in QIT (e.g. ground state energies)
