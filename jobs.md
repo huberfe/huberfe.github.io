@@ -55,7 +55,7 @@ We welcome applicants from all backgrounds, and promote a friendly, safe, and su
 
 ## Hints for applicants:
 
-- In your CV, detail your education and research experience, your publications/projects, any awards, and any other activities or interests that you consider relevant. Make it easy to read: add dates and links to material that is available online (e.g arxiv and journal links for papers, thesis, code..). Ideally, any claim (e.g. rank X in national competition) should be easily verifiable. 
+- In your CV, detail your education and research experience, your publications/projects, any awards, and any other activities or interests that you consider relevant. Make it easy to read: add dates and links to material that is available online (e.g arxiv and journal links for papers, thesis, code..). Ideally, any claim (e.g. rank X in national competition, member of university robot team) should be easily verifiable. 
 If the prize or ranking is not international, consider explaining it. Note for PhD applications: I will consider project and MSc works much higher than any kind of online certificates.
 
 - For your cover letter, consider the following questions:
