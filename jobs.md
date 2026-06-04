@@ -18,7 +18,7 @@ Candidates should have training or experience in the following areas: quantum in
 
 The position is offered for 4 years. The candidate will join the doctoral school at U. Gdańsk, receiving a stipend of approx. 5000 PLN net + salary of 3466 PLN gross (5000 PLN net + 5340 PLN gross after successful midterm evaluation) and travel funding. The position includes Polish social security coverage and health insurance. See [Numbeo](https://www.numbeo.com/cost-of-living/in/Gdansk) for cost of living estimates.
 
-Applicants should send their applications (one pdf file containing: CV, motivation letter, diploma, contact details of two references, signed data processing statement, Msc thesis) with subject “NCN PhD 2026: Surname” to:  felix.huber@ug.edu.pl
+Applicants should send their applications (one pdf file containing: CV, motivation letter, diploma, contact details of two references, signed [data processing statement](data_processing_statement_POSTDOC.pdf)), Msc thesis) with subject “NCN PhD 2026: Surname” to:  felix.huber@ug.edu.pl
 
 Application deadline: **30.06.2026**. More details on the recruitment process can be found at [NCN](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=232709). 
 The starting date is negotiable, preferably 01.10.2025.
