@@ -6,11 +6,11 @@ layout: page
 
 We are seeking a motivated PhD student that is interested to work on quantum information and mathematical optimization in the group of Felix Huber (https://huberfe.github.io/). Topics they can expect to work on are:
 
-• approximation algorithms in QIT (e.g. ground state energies)
-• symmetry- and size reduction of polynomial optimization problems.
-• characterization of quantum codes and quantum capacities
-• characterization of quantum correlations, entanglement, nonlocality
-• machine learning for optimization problems
+- approximation algorithms in QIT (e.g. ground state energies)
+- symmetry- and size reduction of polynomial optimization problems.
+- characterization of quantum codes and quantum capacities
+- characterization of quantum correlations, entanglement, nonlocality
+- machine learning for optimization problems
 
 This four-year position is part of the project “Mathematical Optimization in Quantum Information”, funded by the National Science Centre in Poland, and profits from vibrant quantum research in at the Institutes of Theoretical Physics and Informatics of [U. Gdańsk](https://en.mfi.ug.edu.pl/) and the [ICQT Gdańsk](https://ictqt.ug.edu.pl/).
 
