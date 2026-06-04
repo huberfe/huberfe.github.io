@@ -26,7 +26,7 @@ Applicants should send their applications (one pdf file containing: CV, motivati
 See also below: hints for applicants.
 
 Application deadline: **30.06.2026**. More details on the recruitment process can be found at [NCN](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=232709). 
-The starting date is negotiable, preferably 01.10.2025.
+The starting date is negotiable, preferably 01.10.2026.
 
 We welcome applicants from all backgrounds, and promote a friendly, safe, and supporting team work environment.
 
