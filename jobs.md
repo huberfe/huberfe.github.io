@@ -21,6 +21,7 @@ Candidates should have training or experience in the following areas: quantum in
 The position is offered for 4 years. The candidate will join the doctoral school at U. Gdańsk, receiving a stipend of approx. 5000 PLN net + salary of 3466 PLN gross (5000 PLN net + 5340 PLN gross after successful midterm evaluation) and travel funding. The position includes Polish social security coverage and health insurance. See [Calculla](https://calculla.com/polish_net_gross_earnings_calculator) for approximate net earnings, and [Numbeo](https://www.numbeo.com/cost-of-living/in/Gdansk) for cost of living estimates.
 
 Applicants should send their applications (one pdf file containing: CV, motivation letter, diploma, contact details of two references, signed [data processing statement](https://huberfe.github.io/data_processing_statement_PHD.pdf)), Msc thesis) with subject “NCN PhD 2026: Surname” to:  felix.huber@ug.edu.pl
+See also below: hints for applicants.
 
 Application deadline: **30.06.2026**. More details on the recruitment process can be found at [NCN](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=232709). 
 The starting date is negotiable, preferably 01.10.2025.
@@ -48,3 +49,16 @@ The position is offered for 2 years, with a salary of approx. 8.900 PLN gross an
 Applicants can send their applications (CV, names + email of two references, copy or link to PhD thesis, a research statement is strongly encouraged, signed [data processing statement](data_processing_statement_POSTDOC.pdf)) with subject “NCN Postdoc” to:  felix.huber@ug.edu.pl
 
 We welcome applicants from all backgrounds, and promote a friendly, safe, and supporting team work environment.
+
+
+## Hints for applicants:
+
+- In your CV, detail your education and research experience, your publications/projects, any awards, and any other activities or interests that you consider relevant. Make it easy to read: add dates and links to material that is available online (e.g arxiv and journal links for papers, thesis, code..). Ideally, any claim (e.g. rank X in national competition) should be easily verifiable. 
+If the prize or ranking is not international, consider explaining it. Note for PhD applications: I will consider project and MSc works much higher than any kind of online certificates.
+
+- For your cover letter, consider the following questions:
+(1) How does your background relate to the position? (2) How do you intend to contribute to the research project? (3) How does the position relate to your motivation in research and your long-term goals? (4) Which of your previous works best represents you as a suitable candidate, and why? This could be, for example, a publication or part of your PhD/MSc thesis. If you choose a publication with multiple authors, please explain your own contribution.
+
+- To answer some of the questions above, it will help if to look at some recent works: [arxiv](https://arxiv.org/a/huber_f_1.html).
+
+- I prefer applications that were written by yourself, not AI.
