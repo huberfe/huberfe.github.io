@@ -20,7 +20,8 @@ The position is offered for 4 years. The candidate will join the doctoral school
 
 Applicants should send their applications (one pdf file containing: CV, motivation letter, diploma, contact details of two references, signed data processing statement, Msc thesis) with subject “NCN PhD 2026: Surname” to:  felix.huber@ug.edu.pl
 
-Application deadline: 30.06.2026. More details on the recruitment process can be found at NCN. The starting date is negotiable, preferably 01.10.2025.
+Application deadline: **30.06.2026**. More details on the recruitment process can be found at [NCN](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=232709). 
+The starting date is negotiable, preferably 01.10.2025.
 
 We welcome applicants from all backgrounds, and promote a friendly, safe, and supporting team work environment.
 
