@@ -56,7 +56,9 @@ We welcome applicants from all backgrounds, and promote a friendly, safe, and su
 
 ## Hints for applicants:
 
-- In your CV, detail your education and research experience, publications/projects, any awards, and any other activities or interests that you consider relevant. Make it easy to read: add dates and links to material that is available online (e.g arxiv _and_ journal links for papers, thesis, code..). Ideally, any claim (e.g. rank X in national competition, member of university robot team) should be easily verifiable. If the prize/ranking/competition is not international, consider explaining it. 
+- In your CV, detail your education and research experience, publications/projects, any awards, and any other activities or interests that you consider relevant. Make it easy to read: add dates and links to material that is available online (e.g arxiv _and_ journal links for papers, thesis, code..). 
+
+- Ideally, any claim (e.g. rank X in national competition, member of university robot team) should be easily verifiable. If the prize/ranking/competition is not international, consider explaining it. 
 
 - Note for PhD applications: I will consider MSc and project works much higher than any kind of online certificates. If you did an exciting project, point it out in the cover letter, and explain why it is interesting.
 
@@ -76,15 +78,16 @@ This call above is for the stipend of 5000 PLN net.
 At U. Gdansk, every PhD student _also_ needs to be part of the Doctoral school. 
 The doctoral school then provides an _additional_ salary of 3466 PLN gross.
 
-The timeline is as follows:
+The timeline is as follows.
 
-With me:
+1) With me:
 
 - Application deadline: 31 June
 - Interview: 6-10 July
 - Decision: 10 July
 
-With the doctoral school: 
+2) With the doctoral school: 
+
 The successful candidate will then have to apply (with my support) to the doctoral school of the University of Gdańsk. 
 You will need all your documents (diploma etc) ready.
 
