@@ -18,7 +18,8 @@ We are seeking a motivated PhD student that is interested to work on quantum inf
 
 This four-year position is part of the project “Mathematical Optimization in Quantum Information”, funded by the National Science Centre in Poland, and profits from vibrant quantum research in at the Institutes of Theoretical Physics and Informatics of [U. Gdańsk](https://en.mfi.ug.edu.pl/) and the [ICQT Gdańsk](https://ictqt.ug.edu.pl/).
 
-Candidates should have training or experience in the following areas: quantum information and computation, mathematical programming, combinatorial optimization, or coding theory. We appreciate a proactive personality with a good ability for cooperation, a methodological way of working, and proficiency in English. Programming experience (Python/Julia, Sage, GAP, semidefinite programming) is a plus.
+
+Candidates should have a MSc in Physics, Mathematics, or Computer Science with training or experience in one the following areas: quantum information and computation, mathematical programming, combinatorial optimization, or coding theory. We appreciate a proactive personality with a good ability for cooperation, a methodological way of working, and proficiency in English. Programming experience (Python/Julia, Sage, GAP, semidefinite programming) is a plus.
 
 The position is offered for 4 years. The candidate will join the doctoral school at U. Gdańsk, receiving a stipend of approx. 5000 PLN net + salary of 3466 PLN gross (5000 PLN net + 5340 PLN gross after successful midterm evaluation) and travel funding. The position includes Polish social security coverage and health insurance. See [Calculla](https://calculla.com/polish_net_gross_earnings_calculator) for approximate net earnings, and [Numbeo](https://www.numbeo.com/cost-of-living/in/Gdansk) for cost of living estimates.
 
