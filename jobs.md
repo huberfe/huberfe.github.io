@@ -85,7 +85,7 @@ With me:
 - Decision: 10 July
 
 With the doctoral school: 
-The successful candidate will then have to apply (with my support) to the doctoral school of the university of Gdansk.
+The successful candidate will then have to apply (with my support) to the doctoral school of the University of Gdańsk. 
 You will need all your documents (diploma etc) ready.
 
 - Application dealine: July 12 (an application fee of 250 PLN is needed for that)
