@@ -65,7 +65,8 @@ We welcome applicants from all backgrounds, and promote a friendly, safe, and su
 - For your cover letter, consider the following questions:
 (1) How does your background relate to the position? (2) How do you intend to contribute to the research project? (3) How does the position relate to your motivation in research and your long-term goals? (4) Which of your previous works best represents you as a suitable candidate, and why? This could be, for example, a publication or part of your PhD/MSc thesis. If you choose a publication with multiple authors, please explain your own contribution.
 
-- To answer some of the questions above, it will help if to look at some recent works: [arxiv](https://arxiv.org/a/huber_f_1.html). Note that we use a lot of semidefinite programming, graph theory, tensors, representation theory, algebra, non-commutative polynomials, and finally quantum information (see the book by Nielsen Chuang).
+- To answer some of the questions above, it will help if to look at some recent works: [arxiv](https://arxiv.org/a/huber_f_1.html), for example
+[arXiv:2605.13832](https://arxiv.org/abs/2605.13832), [arXiv:2411.04120](https://arxiv.org/abs/2411.04120), [arXiv:2512.20326](https://arxiv.org/abs/2512.20326), [arXiv2310.00612](https://arxiv.org/abs/2310.00612). Note that we use a lot of semidefinite programming, graph theory, tensors, representation theory, non-commutative algebras, and finally quantum information (see the book by Nielsen Chuang).
 
 - By the time of starting the position, you need to have finished the previous degree.
 
