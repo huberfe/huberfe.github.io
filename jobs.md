@@ -56,7 +56,7 @@ We welcome applicants from all backgrounds, and promote a friendly, safe, and su
 
 ## Hints for applicants:
 
-- In your CV, detail your education and research experience, publications/projects, any awards, and any other activities or interests that you consider relevant. Make it easy to read: add dates and links to material that is available online (e.g journal _and_ arxiv links for papers, thesis, code, projects..). 
+- In your CV, detail your education and research experience, publications/projects, any awards, and any other activities or interests that you consider relevant. Make it easy to read: Add clear dates including months, add links to material (e.g journal _and_ arxiv links for papers, thesis, code, projects..).
 
 - Ideally, any claim (e.g. rank X in national competition, member of university robot team) should be easily verifiable. If the prize/ranking/competition is not international, consider explaining it. 
 
