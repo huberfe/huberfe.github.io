@@ -83,7 +83,7 @@ The timeline is as follows.
 
 1) With me:
 
-- Application deadline: 31 June
+- Application deadline: 30 June
 - Interview: 6-10 July
 - Decision: 10 July
 
