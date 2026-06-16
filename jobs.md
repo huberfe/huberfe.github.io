@@ -60,7 +60,7 @@ We welcome applicants from all backgrounds, and promote a friendly, safe, and su
 
 - Ideally, any claim (e.g. rank X in national competition, member of university robot team) should be easily verifiable (e.g. by a link to the respective website or report). If the prize/ranking/competition is not international, consider explaining it. 
 
-- Note for PhD applications: I will consider MSc and project works much higher than any kind of online certificates. If you did an exciting project, point it out in the cover letter (and if you wrote a report on it, link it or add it in the single pdf), and explain why it is interesting.
+- Note for PhD applications: I will consider MSc/BSc thesis and project works much higher than any kind of online certificates or course contents. If you did an exciting project, point it out in the cover letter (and if you wrote a report on it, link it or add it in the single pdf), and explain why it is interesting.
 
 - For your cover letter, consider the following questions:
 (1) How does your background relate to the position? (2) How do you see yourself contributing to the research project (with which skills or strenghts)? (3) How does the position relate to your motivation in research and your long-term goals? (4) Which of your previous works best represents you as a suitable candidate, and why? This could be, for example, a publication or part of your PhD/MSc thesis. If you choose a publication with multiple authors, please explain your own contribution.
