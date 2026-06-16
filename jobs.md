@@ -6,7 +6,7 @@ layout: page
 
 ## PhD student (4 years).
 
-**(Hints for applicants at bottom)**
+**(Hints for applicants and details on recruiting procedure at bottom)**
 
 We are seeking a motivated PhD student that is interested to work on quantum information and mathematical optimization in the group of Felix Huber. Topics they can expect to work on are:
 
