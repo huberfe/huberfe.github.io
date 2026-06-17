@@ -7,7 +7,8 @@ layout: page
 
 ## News
 
-- The group receives the two QuantERA grants [SDPCode](https://quantera-sdpcode.github.io) and [ToDiQT](https://quantera-todiqt.github.io/). A big thank you to QuantERA and the Polish National Science Centre!
+- The group receives the two QuantERA grants [SDPCode](https://quantera-sdpcode.github.io) (Joint with Jens Eisert, Sevag Gharibian, Igor Klep, and Victor Magron) and [ToDiQT](https://quantera-todiqt.github.io/) (joint with Jean-Daniel Bancal, Peter Brown, Gláucia Murta, Stefano Pironio, and Ramona Wolf).
+A big thank you to QuantERA and the Polish National Science Centre!
 
 - 1 March 2026: Santiago Llorens Fernández joins the group as postdoc working on representation theory in QIT. Welcome!
 

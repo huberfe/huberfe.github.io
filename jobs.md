@@ -59,7 +59,7 @@ We welcome applicants from all backgrounds, and promote a friendly, safe, and su
 
 ## Postdoc (3 years). Deadline 01.09.2026
 
-Postdoc position available within the QuantERA [SDPCod](https://quantera-sdpcode.github.io/) on bounds on quantum codes and randomized constructions. More details following soon.
+Postdoc position available within the QuantERA [SDPCode](https://quantera-sdpcode.github.io/) on bounds on quantum codes and randomized constructions. More details following soon.
 
 ## Postdoc (3 years). Deadline 01.09.2026
 
