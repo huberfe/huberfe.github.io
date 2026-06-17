@@ -4,7 +4,9 @@ layout: page
 
 ![](beach.jpg)
 
-(Several PhD and Postdoc positions available. For postdoc positions see below)
+##  Several PhD and Postdoc positions available. For postdoc positions see below
+
+--------------------------------------
 
 ## PhD student (4 years).
 
