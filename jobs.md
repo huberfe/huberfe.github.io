@@ -4,7 +4,7 @@ layout: page
 
 ![](beach.jpg)
 
-##  Several PhD and Postdoc positions available. For postdoc positions see below
+##  Several PhD and Postdoc positions available. See further calls below.
 
 --------------------------------------
 
