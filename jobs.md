@@ -8,7 +8,7 @@ layout: page
 
 --------------------------------------
 
-## PhD student (4 years).
+## PhD student (4 years). Deadline 30.06.2026
 
 **(Hints for applicants and details on recruiting procedure at bottom)**
 
@@ -36,7 +36,7 @@ The starting date is negotiable, preferably 01.10.2026.
 We welcome applicants from all backgrounds, and promote a friendly, safe, and supporting team work environment.
 
 
-## Postdoc (2 years).
+## Postdoc (2 years). Open till filled.
 
 We are seeking a motivated postdoctoral researcher with interest to work on quantum information and mathematical optimization.
 Possible research topics are:
@@ -56,6 +56,14 @@ The position is offered for 2 years, with a salary of approx. 8.900 PLN gross an
 Applicants can send their applications (CV, names + email of two references, copy or link to PhD thesis, a research statement is strongly encouraged, signed [data processing statement](data_processing_statement_POSTDOC.pdf)) with subject “NCN Postdoc” to:  felix.huber@ug.edu.pl
 
 We welcome applicants from all backgrounds, and promote a friendly, safe, and supporting team work environment.
+
+## Postdoc (3 years). Deadline 01.09.2026
+
+Postdoc position available within the QuantERA [SDPCod](https://quantera-sdpcode.github.io/) on bounds on quantum codes and randomized constructions. More details following soon.
+
+## Postdoc (3 years). Deadline 01.09.2026
+
+Postdoc position available within the QuantERA [ToDiQT](https://quantera-todiqt.github.io/) on device independent code certification. More details following soon.
 
 
 ## Hints for applicants:
