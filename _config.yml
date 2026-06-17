@@ -21,7 +21,7 @@ nav:
    link: "index"
  - name: "News"
    link: "news"
- - name: "Openings"
+ - name: "Open Positions"
    link: "jobs"
  - name: "Student projects"
    link: "projects"
