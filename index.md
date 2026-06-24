@@ -29,36 +29,37 @@ In noncommutative algebra I worked on [tensor polynomial identities](https://arx
 ## Team
 
 - Santiago Llorens Fernández (postdoc, U. Gdańsk)
-- Tomás Crosta (PhD student, U. Bordeaux)
+- Tomás Crosta (PhD student, U. Bordeaux / U. National de la Plata)
 - Jędrzej Stempin (PhD student, U. Gdańsk)
 - Dariusz Zielonka (project student, U. Gdańsk)
 
 Previous members:
-- Paulina Janowicz (MSc student, U. Gdańsk)
+- Paulina Janowicz (MSc student, U. Gdańsk. Now PhD student at U. Gdańsk)
 - Marcin Hyla (BSc student, U. Gdańsk)
 - Moisés Bermejo Morán (PhD 2025, Jagiellonian U. Kraków. Now postdoc at Bilkent U.)
 - Gerard Munné (PhD 2025, Jagiellonian U. Kraków. Now postdoc at U. Gdańsk)
-- Albert Rico (PhD 2025, Jagiellonian U. Kraków. Now postdoc at UAB Barcelona)
+- Albert Rico (PhD 2025, Jagiellonian U. Kraków. Now postdoc at U. Siegen)
 - Shannon Jeffries (project student, U. Waterloo)
-- Muhammet Taha Çakmak (summer student, U. Sabanci)
-- Shannon Jeffries (summer student, U. Waterloo)
+- Muhammet Taha Çakmak (summer student, U. Sabanci. Now MSc student at U. Delft)
+- Shannon Jeffries (summer student, U. Waterloo. Now ICFO Barcelona)
 - Stefan Kessler (MSc Thesis 2023, TU Munich)
 - Vinayak Jagadish (Postdoc, Jagiellonian U. Kraków)
 
 
 ## Projects/Grants
+- Unitary Fund Microgrant _reinforceSDP_ (2026)
 - QuantERA grant [SDPCode](https://quantera-sdpcode.github.io/) (2026-2029)
 - QuantERA grant [ToDiQT](https://quantera-todiqt.github.io/) (2026-2029)
-- NCN Sonata Bis grant "Mathematical Optimization in Quantum Information" [MOQI](https://projekty.ncn.gov.pl/en/index.php?projekt_id=627287) (2025 - 2030)
+- NCN Sonata Bis grant _Mathematical Optimization in Quantum Information_ [MOQI](https://projekty.ncn.gov.pl/en/index.php?projekt_id=627287) (2025 - 2030)
 - NAWA Strategic Partnership grant [KLAR](https://klar.ug.edu.pl/) (2025 - 2026)
-- Coordinator for the “Maison du quantique - HybQuant” grant (2024)
-- Nouvelle-Aquitaine Chair for Emergence, Science & Society (CHESS) "Invariant Topological Quantum Codes" (2024)
-- PhD grant CMA Quantum Technologies "QuanTEdu-France" (2024)
-- Agence National de la Recherche (ANR) Chaire professeur junior "Algorithmique quantique" (2024)
-- [Quantum error correction group](https://nisq.pl/quantum-error-correction-group) of the [“Near-term quantum computers, optimal implementations and applications”](nisq.pl) consortium, supported by the TEAM-NET grant of the Foundation for Polish Science (FNP) (2021 --- 2023)
+- Coordinator for the _Maison du quantique - HybQuant_ grant (2024)
+- Nouvelle-Aquitaine Chair for Emergence, Science & Society (CHESS) _Invariant Topological Quantum Codes_ (2024)
+- PhD grant CMA Quantum Technologies _QuanTEdu-France_ (2024)
+- Agence National de la Recherche (ANR) Chaire professeur junior _Algorithmique quantique_ (2024)
+- [Quantum error correction group](https://nisq.pl/quantum-error-correction-group) of the [_Near-term quantum computers, optimal implementations and applications_](nisq.pl) consortium, supported by the TEAM-NET grant of the Foundation for Polish Science (FNP) (2021 --- 2023)
 - [Marie Skłodowska-Curie Cofund](https://bist.eu/probist) fellowship (2020)
 - Cellex ICFO-MPQ fellowship (2018 --- 2019)
-- Swiss National Science Foundation (SNF) Doc.Mobility fellowship, ["Thermal and ground states of local Hamiltonians"](http://p3.snf.ch/project-165024) (2016 --- 2017).
+- Swiss National Science Foundation (SNF) Doc.Mobility fellowship, [_Thermal and ground states of local Hamiltonians_](http://p3.snf.ch/project-165024) (2016 --- 2017).
 
 
 ## Publications
