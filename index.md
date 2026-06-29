@@ -81,7 +81,7 @@ Jȩdrzej Stempin, Gerard A. Munné, Santiago Llorens, and Felix Huber \\
 Gerard A. Munné and Felix Huber \\
 [arXiv:2603.19901](https://arxiv.org/abs/2603.19901)
 
-[30] **A Lovász theta lower bound on Quantum Max Cut**\\
+[30] **Lovász theta and Shearer lower bounds on Quantum Max Cut**\\
 Felix Huber\\
 [arXiv:2512.20326](https://arxiv.org/abs/2512.20326)
 
