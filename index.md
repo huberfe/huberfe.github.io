@@ -13,7 +13,7 @@ I am an Assistant Professor at the Institute of Informatics at the University of
 Previously, I was Junior Professor (tenure-track) for Quantum Algorithms at the [Bordeaux Computer Science Laboratory](https://www.labri.fr), heading the [Quantum information and Computation Group](https://quantique.labri.fr/). Between 2021 to 2023 I led the [Quantum Error Correction Group](https://nisq.pl/quantum-error-correction-group)
 at the Jagiellonian University in Kraków.
 
-I was a postdoctoral fellow in the groups of [Antonio Acín](https://www.icfo.eu/research-group/7/quantum-information/home/437/) at ICFO Barcelona and [David Gross](https://qi.uni-koeln.de/) at the University of Cologne. I received my PhD at the University of Siegen under the supervision of [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/). My [thesis](https://dspace.ub.uni-siegen.de/handle/ubsi/1272) won the [2019 Dissertation Prize](https://www.dpg-physik.de/auszeichnungen/preise-der-dpg-vereinigungen/preistraeger-dissertationspreis-samop) by the section AMOP of the German Physical Society.
+I was a postdoctoral fellow in the groups of [Antonio Acín](https://www.icfo.eu/research-group/7/quantum-information/home/437/) at ICFO Barcelona and [David Gross](https://qi.uni-koeln.de/) at the University of Cologne. I received my PhD at the University of Siegen under the supervision of [Otfried Gühne](https://www.uni-siegen.de/en/physics/tqo). My [thesis](https://dspace.ub.uni-siegen.de/handle/ubsi/1272) won the [2019 Dissertation Prize](https://www.dpg-physik.de/auszeichnungen/preise-der-dpg-vereinigungen/preistraeger-dissertationspreis-samop) by the section AMOP of the German Physical Society.
 
 I am an Editor at [Quantum](https://quantum-journal.org/) (2024-) and served as program committee member for [QIP 2025](https://rsvp.duke.edu/event/qip2025).
 
@@ -36,12 +36,12 @@ In noncommutative algebra I worked on [tensor polynomial identities](https://arx
 Previous members:
 - Paulina Janowicz (MSc student, U. Gdańsk. Now PhD student at U. Gdańsk)
 - Marcin Hyla (BSc student, U. Gdańsk)
-- Moisés Bermejo Morán (PhD 2025, Jagiellonian U. Kraków. Now postdoc at Bilkent U.)
+- Moisés Bermejo Morán (PhD 2025, Jagiellonian U. Kraków. Now postdoc at Hong Kong U.)
 - Gerard Munné (PhD 2025, Jagiellonian U. Kraków. Now postdoc at U. Gdańsk)
 - Albert Rico (PhD 2025, Jagiellonian U. Kraków. Now postdoc at U. Siegen)
-- Shannon Jeffries (project student, U. Waterloo)
+- Shannon Jeffries (project student, U. Waterloo. Now PhD at U. Waterloo)
 - Muhammet Taha Çakmak (summer student, U. Sabanci. Now MSc student at U. Delft)
-- Shannon Jeffries (summer student, U. Waterloo. Now ICFO Barcelona)
+- Fionnuala Curran (summer student, U. Waterloo. Now PhD at ICFO Barcelona)
 - Stefan Kessler (MSc Thesis 2023, TU Munich)
 - Vinayak Jagadish (Postdoc, Jagiellonian U. Kraków)
 
