@@ -59,11 +59,13 @@ We welcome applicants from all backgrounds, and promote a friendly, safe, and su
 
 ## Postdoc (3 years). Deadline 01.09.2026
 
-Postdoc position available within the QuantERA [SDPCode](https://quantera-sdpcode.github.io/) on bounds on quantum codes and randomized constructions. More details following soon.
+Postdoc position available within the QuantERA [SDPCode](https://quantera-sdpcode.github.io/) on bounds on quantum codes and randomized constructions. 
+Expression of interest to be sent to felix.huber@uj.edu.pl, with the same material as stated for the postdoc position above.
 
-## Postdoc (3 years). Deadline 01.09.2026
+## Postdoc (3 years). Deadline 30.09.2026
 
-Postdoc position available within the QuantERA [ToDiQT](https://quantera-todiqt.github.io/) on device independent code certification. More details following soon.
+Postdoc position available within the QuantERA [ToDiQT](https://quantera-todiqt.github.io/) on device independent code certification. 
+Expression of interest to be sent to felix.huber@uj.edu.pl, with the same material as stated for the postdoc position above.
 
 
 ## Hints for applicants:
