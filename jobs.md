@@ -57,7 +57,7 @@ Expression of interest to be sent to felix.huber@ug.edu.pl, with the same materi
 
 - By the time of starting the position, you need to have finished the previous degree.
 
-- I prefer applications that were written by yourself, not AI.
+- I prefer applications that were written by yourself, not AI. (I will reject applications that are clearly AI written)
 
 
 ## Details on the recruiting procedure for PhD students
