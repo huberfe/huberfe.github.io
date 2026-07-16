@@ -4,7 +4,7 @@ layout: page
 
 ![](beach.jpg)
 
-##  Several Postdoc positions available. See calls below.
+##  Several positions available. See calls below.
 
 --------------------------------------
 
