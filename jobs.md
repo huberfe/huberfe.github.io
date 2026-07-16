@@ -18,9 +18,8 @@ We welcome applicants from all backgrounds, and promote a friendly, safe, and su
 ## QuantERA Postdoc (3 years). Deadline 01.09.2026
 
 Postdoc position available within the QuantERA project [SDPCode](https://quantera-sdpcode.github.io/) on bounds on quantum codes 
-and randomized code and tensor-network constructions. 
+and randomized code and tensor-network constructions. Possible research topics are:
 
-Possible research topics are:
 - establishing bounds on quantum codes (LDPC, spherical, codes for magic state distillation)
 - randomized rounding algorithms for quantum ground states, quantum codes
 - approximate quantum colorings
@@ -33,7 +32,6 @@ Applicants should send their application (CV, names + email of two references, c
 ## QuantERA Postdoc (3 years). Deadline 30.09.2026
 
 Postdoc position available within the QuantERA project [ToDiQT](https://quantera-todiqt.github.io/) on device independent code certification. 
-
 Possible research topics are:
 
 - device independent certification of quantun codes
