@@ -10,7 +10,7 @@ layout: page
 
 Postdoc/PhD candidates should have a PhD/MSc in Physics, Mathematics, or Computer Science with a thesis in one the following areas: quantum information and computation, mathematical programming, combinatorial optimization, or coding theory. We appreciate proactive researchers with a good ability for cooperation, a methodological way of working, and proficiency in English. Programming experience (Python/Julia, Sage, GAP, semidefinite programming) is a plus.
 
-The positions profit from vibrant quantum research in at the Institutes of Theoretical Physics and Informatics of U. Gdańsk and the [ICTQT Gdańsk](https://ictqt.ug.edu.pl/).
+The positions profit from a vibrant quantum community at the Institutes of Theoretical Physics and Informatics of U. Gdańsk and the [ICTQT Gdańsk](https://ictqt.ug.edu.pl/).
 We welcome applicants from all backgrounds, and promote a friendly, safe, and supporting team work environment.
 
 --------------------------------------
