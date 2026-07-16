@@ -15,7 +15,7 @@ We welcome applicants from all backgrounds, and promote a friendly, safe, and su
 
 --------------------------------------
 
-## Postdoc (3 years). Deadline 01.09.2026
+## QuantERA Postdoc (3 years). Deadline 01.09.2026
 
 Postdoc position available within the QuantERA project [SDPCode](https://quantera-sdpcode.github.io/) on bounds on quantum codes 
 and randomized code and tensor-network constructions. 
@@ -30,7 +30,7 @@ The position is offered for 2 years, with a salary of approx. 140'000 PLN gross 
 Applicants should send their application (CV, names + email of two references, copy or link to PhD thesis, a research statement is strongly encouraged, signed [data processing statement](data_processing_statement_POSTDOC.pdf)) with subject “SDPCode Postdoc” to: felix.huber@ug.edu.pl
 
 
-## Postdoc (3 years). Deadline 30.09.2026
+## QuantERA Postdoc (3 years). Deadline 30.09.2026
 
 Postdoc position available within the QuantERA project [ToDiQT](https://quantera-todiqt.github.io/) on device independent code certification. 
 
