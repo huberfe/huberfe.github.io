@@ -60,7 +60,7 @@ The position is offered for 2 years, with a salary of approx. 140'000 PLN gross 
 Applicants should send their application (CV, names + email of two references, copy or link to PhD thesis, a research statement is strongly encouraged, signed [data processing statement](data_processing_statement_POSTDOC.pdf)) with subject “NCN Postdoc” to:  felix.huber@ug.edu.pl
 
 
-## Hints for applicants:
+## Hints for PhD applicants:
 
 - In your CV, detail your education and research experience, publications/projects, any awards, and any other activities or interests that you consider relevant. Make it easy to read: Add clear dates including months, add links to material (e.g journal _and_ arxiv links for papers, thesis, code, projects..).
 
@@ -78,27 +78,3 @@ Applicants should send their application (CV, names + email of two references, c
 
 - I prefer applications that were written by yourself, not AI. (I will reject applications that are clearly AI written)
 
-
-## Some details on the 2026 recruiting procedure for PhD students
-
-This call above is for the stipend of 5000 PLN net.
-At U. Gdansk, every PhD student _also_ needs to be part of the Doctoral school. 
-The doctoral school then provides an _additional_ salary of 3466 PLN gross.
-
-The timeline is as follows.
-
-1) With me:
-
-- Application deadline: 30 June
-- Interview: 6-10 July
-- Decision: 10 July
-
-2) With the doctoral school: 
-
-The successful candidate will then have to apply (with my support) to the doctoral school of the University of Gdańsk. 
-You will need all your documents (diploma etc) ready.
-
-- Application dealine: July 12 (an application fee of 250 PLN is needed for that)
-- Decision: 30 July.
-
-The start of the position can then not be earlier than 1 October (beginning of the semester).
