@@ -37,7 +37,7 @@ Possible research topics are:
 - device independent certification of quantum codes
 - device independent certification of error correction protocols
 
-The position is offered for 2 years, with a salary of approx. 140'000 PLN gross / year and travel funding. 
+The position is offered for 2 years, with a salary of approx. 140'000 PLN gross / year and travel funding. The position includes Polish social security coverage, including health insurance. See [Calculla](https://calculla.com/polish_net_gross_earnings_calculator) for approximate net earnings, and [Numbeo](https://www.numbeo.com/cost-of-living/in/Gdansk) for cost of living estimates.
 
 Applicants should send their application (CV, names + email of two references, copy or link to PhD thesis, a research statement is strongly encouraged, signed [data processing statement](data_processing_statement_POSTDOC.pdf)) with subject “ToDiQT Postdoc” to: felix.huber@ug.edu.pl
 
