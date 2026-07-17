@@ -34,7 +34,7 @@ Applicants should send their application (CV, names + email of two references, c
 Postdoc position available within the QuantERA project [ToDiQT](https://quantera-todiqt.github.io/) on device independent code certification. 
 Possible research topics are:
 
-- device independent certification of quantun codes
+- device independent certification of quantum codes
 - device independent certification of error correction protocols
 
 The position is offered for 2 years, with a salary of approx. 140'000 PLN gross / year and travel funding. 
