@@ -58,23 +58,3 @@ This two-year position is part of the project “Mathematical Optimization in Qu
 The position is offered for 2 years, with a salary of approx. 140'000 PLN gross / year and travel funding. The position includes Polish social security coverage, including health insurance. See [Calculla](https://calculla.com/polish_net_gross_earnings_calculator) for approximate net earnings, and [Numbeo](https://www.numbeo.com/cost-of-living/in/Gdansk) for cost of living estimates.
 
 Applicants should send their application (CV, names + email of two references, copy or link to PhD thesis, a research statement is strongly encouraged, signed [data processing statement](data_processing_statement_POSTDOC.pdf)) with subject “NCN Postdoc” to:  felix.huber@ug.edu.pl
-
-
-## Hints for PhD applicants:
-
-- In your CV, detail your education and research experience, publications/projects, any awards, and any other activities or interests that you consider relevant. Make it easy to read: Add clear dates including months, add links to material (e.g journal _and_ arxiv links for papers, thesis, code, projects..).
-
-- Ideally, any claim (e.g. rank X in national competition, member of university robot team) should be easily verifiable (e.g. by a link to the respective website or report). If the prize/ranking/competition is not international, consider explaining it. 
-
-- Note for PhD applications: I will consider MSc/BSc thesis and project works much higher than any kind of online certificates or course contents. If you did an exciting project, point it out in the cover letter (and if you wrote a report on it, link it or add it in the single pdf), and explain why it is interesting.
-
-- For your cover letter, consider the following questions:
-(1) How does your background relate to the position? (2) How do you see yourself contributing to the research project (with which skills or strenghts)? (3) How does the position relate to your motivation in research and your long-term goals? (4) Which of your previous works best represents you as a suitable candidate, and why? This could be, for example, a publication or part of your PhD/MSc thesis. If you choose a publication with multiple authors, please explain your own contribution.
-
-- To answer some of the questions above, it will help if to look at some recent works: [arxiv](https://arxiv.org/a/huber_f_1.html), for example
-[arXiv:2605.13832](https://arxiv.org/abs/2605.13832), [arXiv:2411.04120](https://arxiv.org/abs/2411.04120), [arXiv:2512.20326](https://arxiv.org/abs/2512.20326), [arXiv2310.00612](https://arxiv.org/abs/2310.00612). Note that we use a lot of semidefinite programming, graph theory, tensors, representation theory, non-commutative algebras, and finally quantum information (Nielsen \& Chuang).
-
-- By the time of starting the position, you need to have finished the previous degree.
-
-- I prefer applications that were written by yourself, not AI. (I will reject applications that are clearly AI written)
-
