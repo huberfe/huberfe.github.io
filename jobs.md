@@ -1,4 +1,4 @@
-shou---
+---
 layout: page
 ---
 
@@ -27,7 +27,8 @@ and randomized code and tensor-network constructions. Possible research topics a
 - randomized rounding algorithms for quantum ground states, quantum codes
 - approximate quantum colorings
 
-The position is offered for 2 years, with a salary of approx. 140'000 PLN gross / year and travel funding. 
+The position is offered for 2 years, with a salary of approx. 140'000 PLN gross / year and generous travel funding. 
+
 Applicants should send their application (CV, names + email of two references, copy or link to PhD thesis, a research statement is strongly encouraged, signed [data processing statement](data_processing_statement_POSTDOC.pdf)) with subject “SDPCode Postdoc” to: felix.huber@ug.edu.pl
 
 
@@ -39,7 +40,7 @@ Possible research topics are:
 - device independent certification of quantum codes
 - device independent certification of error correction protocols
 
-The position is offered for 2 years, with a salary of approx. 140'000 PLN gross / year and travel funding.
+The position is offered for 2 years, with a salary of approx. 140'000 PLN gross / year and generous travel funding.
 
 Applicants should send their application (CV, names + email of two references, copy or link to PhD thesis, a research statement is strongly encouraged, signed [data processing statement](data_processing_statement_POSTDOC.pdf)) with subject “ToDiQT Postdoc” to: felix.huber@ug.edu.pl
 
@@ -57,6 +58,6 @@ Possible research topics are:
 
 This two-year position is part of the project “Mathematical Optimization in Quantum Information”, funded by the National Science Centre in Poland. 
 
-The position is offered for 2 years, with a salary of approx. 140'000 PLN gross / year and travel funding.
+The position is offered for 2 years, with a salary of approx. 140'000 PLN gross / year and generous travel funding.
 
 Applicants should send their application (CV, names + email of two references, copy or link to PhD thesis, a research statement is strongly encouraged, signed [data processing statement](data_processing_statement_POSTDOC.pdf)) with subject “NCN Postdoc” to:  felix.huber@ug.edu.pl
