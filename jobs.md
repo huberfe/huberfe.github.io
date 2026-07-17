@@ -1,4 +1,4 @@
----
+shou---
 layout: page
 ---
 
@@ -57,7 +57,7 @@ This two-year position is part of the project “Mathematical Optimization in Qu
 
 The position is offered for 2 years, with a salary of approx. 140'000 PLN gross / year and travel funding. The position includes Polish social security coverage, including health insurance. See [Calculla](https://calculla.com/polish_net_gross_earnings_calculator) for approximate net earnings, and [Numbeo](https://www.numbeo.com/cost-of-living/in/Gdansk) for cost of living estimates.
 
-Applicants shhould send their application (CV, names + email of two references, copy or link to PhD thesis, a research statement is strongly encouraged, signed [data processing statement](data_processing_statement_POSTDOC.pdf)) with subject “NCN Postdoc” to:  felix.huber@ug.edu.pl
+Applicants should send their application (CV, names + email of two references, copy or link to PhD thesis, a research statement is strongly encouraged, signed [data processing statement](data_processing_statement_POSTDOC.pdf)) with subject “NCN Postdoc” to:  felix.huber@ug.edu.pl
 
 
 ## Hints for applicants:
