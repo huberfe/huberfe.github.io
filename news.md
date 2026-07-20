@@ -7,7 +7,7 @@ layout: page
 
 ## News
 
-- We receive the UF Microgrant _ReinforceSDP_. A big thanks to the Unitary Foundation!
+- We receive the UF Microgrant [ReinforceSDP](https://unitary.foundation/grants/2026_reinforcesdp/). A big thank you to the Unitary Foundation!
 
 - The group receives the two QuantERA grants [SDPCode](https://quantera-sdpcode.github.io) (Joint with Jens Eisert, Sevag Gharibian, Igor Klep, and Victor Magron) and [ToDiQT](https://quantera-todiqt.github.io/) (joint with Jean-Daniel Bancal, Peter Brown, Gláucia Murta, Stefano Pironio, and Ramona Wolf).
 A big thank you to QuantERA and the Polish National Science Centre!

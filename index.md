@@ -47,7 +47,7 @@ Previous members:
 
 
 ## Projects/Grants
-- Unitary Fund Microgrant _reinforceSDP_ (2026)
+- Unitary Fund Microgrant [ReinforceSDP](https://unitary.foundation/grants/2026_reinforcesdp/) (2026)
 - QuantERA grant [SDPCode](https://quantera-sdpcode.github.io/) (2026-2029)
 - QuantERA grant [ToDiQT](https://quantera-todiqt.github.io/) (2026-2029)
 - NCN Sonata Bis grant _Mathematical Optimization in Quantum Information_ [MOQI](https://projekty.ncn.gov.pl/en/index.php?projekt_id=627287) (2025 - 2030)
