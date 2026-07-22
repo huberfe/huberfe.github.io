@@ -215,13 +215,14 @@ Felix Huber and Otfried Gühne\\
 
 
 ## Teaching
-- Lecturer, Mathematical Optimization, U. Gdańsk, Oct 2025 -- Feb 2026
-- TA, Bioinformatics with Python, U. Gdańsk, Mar 2025 -- Jun 2025
-- TA, Linear Algebra, U. Gdańsk, Mar 2025 -- Jun 2025
-- TA, Mathematical Analysis for Physicists, U. Gdańsk, Mar 2025 -- Jun 2025
-- TA, Group Theory and Chemistry, U. Gdańsk, Nov 2024 -- Feb 2025
-- TA, Equations of Mathematical Physics, U. Gdańsk, Nov 2024 -- Feb 2025
-- TA, Advanced numerical methods of medical physics, U. Gdańsk, Nov 2024 -- Feb 2025
+- TA, Bioinformatics with Python, U. Gdańsk, SS 26
+- Lecturer, Mathematical optimization, U. Gdańsk, WS 25/26
+- TA, Linear Algebra, U. Gdańsk, SS 25
+- TA, Analysis for Medical Physicists, U. Gdańsk, SS 25
+- TA, Bioinformatics with Python, U. Gdańsk, SS 25
+- TA, Group Theory for Chemistry, U. Gdańsk, WS 24/25
+- TA, Equations of Mathematical Physics, U. Gdańsk, WS 24/25
+- TA, Advanced numerical methods of Medical Physics, U. Gdańsk, WS 24/25
 - TA, Mathematical methods of bioinformatics - calculus, U. Gdańsk, Nov 2024 -- Feb 2025
 - Lecturer, Mathematical Optimization (within “The infinitely large and infinitely small”), University of Bordeaux, Jan 2024 --- Jun 2024
 - TA for Algorithmique des tableaux, University of Bordeaux (Jan 2024 --- Jun 2024)
