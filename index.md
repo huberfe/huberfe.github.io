@@ -65,6 +65,10 @@ Previous members:
 ## Publications
 You can find my work on [arXiv](https://arxiv.org/a/huber_f_1.html), [ORCiD](https://orcid.org/0000-0002-3856-4018), and [Google Scholar](https://scholar.google.com/citations?user=1O58f3gAAAAJ&hl=en&oi=ao).
 
+[36] **On the two-copy distillability of Werner states and a new partial trace inequality**\\
+Thomas C. Fraser, Felix Huber, Balázs Pozsgay, István Vona \\
+[arXiv:2607.24309](https://arxiv.org/abs/2607.24309)
+
 [35] **Holographic quantum codes with trapped ions** \\
 Alex Steiner, Gerard Anglès Munné, Robert Freund, Ivan Pogorelov, Michael Meth, Robert J. Harris, Gavin Brennen, Thomas M. Stace, Thomas Monz, Rainer Blatt, Felix Huber, Martin Ringbauer\\
 [arxXiv:2607.16503](https://arxiv.org/abs/2607.16503)
