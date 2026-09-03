@@ -41,7 +41,8 @@ Joint work with Gerard Munné (Jagiellonian U.) and Andrew Nemec (Duke U.).
 Joint work with Victor Magron (LAAS-CNRS Toulouse) and Jurij Volčič (U. Auckland).
 
 
-## Guests
+## Visitors
+- Shawn Skelton, U. Hannover, 8-9 September 2026
 - David González Lociga, Universitat de Barcelona, 22 - 25 June 2026
 - Ojas Parekh, Sandia National Laboratory, 7 - 13 June 2026
 - Thomas Coolican Fraser, University of Copenhagen, 11 - 15 May 2026
