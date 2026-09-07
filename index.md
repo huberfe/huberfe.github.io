@@ -64,7 +64,11 @@ Previous members:
 
 ## Talks
 
-[Counterexamples to the fractional coloring conjecture for shadow tomography](talks/fractional_coloring_Krakow.pdf), Jagiellonian U. Kraków
+[Counterexamples to the fractional coloring conjecture for shadow tomography](talks/fractional_coloring_Krakow_2026.pdf), 7 Sept 2026, Jagiellonian U. Kraków
+[SDP bounds on quantum codes](talks/SDP_bounds_talk_Edinburgh_2026.pdf), SIAM Conference on Optimization (OP26), Jun 2-6 2026, Edinburgh 
+[Second order cone relaxations for quantum Max Cut](talks/QMC_IWOTA_2025.pdf), IWOTA 2025, 14 - 18 Jul 2025, Enschede
+...
+
 
 ## Papers
 You can find my work on [arXiv](https://arxiv.org/a/huber_f_1.html), [ORCiD](https://orcid.org/0000-0002-3856-4018), and [Google Scholar](https://scholar.google.com/citations?user=1O58f3gAAAAJ&hl=en&oi=ao).
