@@ -65,8 +65,11 @@ Previous members:
 ## Talks
 
 [Counterexamples to the fractional coloring conjecture for shadow tomography](talks/fractional_coloring_Krakow_2026.pdf), 7 Sept 2026, Jagiellonian U. Kraków
+
 [SDP bounds on quantum codes](talks/SDP_bounds_talk_Edinburgh_2026.pdf), SIAM Conference on Optimization (OP26), Jun 2-6 2026, Edinburgh 
+
 [Second order cone relaxations for quantum Max Cut](talks/QMC_IWOTA_2025.pdf), IWOTA 2025, 14 - 18 Jul 2025, Enschede
+
 ...
 
 
