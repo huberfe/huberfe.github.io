@@ -66,7 +66,7 @@ Previous members:
 
 [Counterexamples to the fractional coloring conjecture for shadow tomography](talks/fractional_coloring_Krakow.pdf), Jagiellonian U. Kraków
 
-## Publications
+## Papers
 You can find my work on [arXiv](https://arxiv.org/a/huber_f_1.html), [ORCiD](https://orcid.org/0000-0002-3856-4018), and [Google Scholar](https://scholar.google.com/citations?user=1O58f3gAAAAJ&hl=en&oi=ao).
 
 [37] **Counterexamples to the fractional coloring conjecture for triply efficient shadow tomography**\\
