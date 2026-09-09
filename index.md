@@ -17,7 +17,7 @@ I was a postdoctoral fellow in the groups of [Antonio Acín](https://www.icfo.eu
 
 I am an Editor at [Quantum](https://quantum-journal.org/) (2024-) and served as program committee member for [QIP 2025](https://rsvp.duke.edu/event/qip2025).
 
-Contact: felix.huber@physik.uni-siegen.de
+Contact: felix.huber@ug.edu.pl
 
 
 ## Research Interests
