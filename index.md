@@ -235,6 +235,7 @@ Felix Huber and Otfried Gühne\\
 
 
 ## Teaching
+- Lecturer, Mathematical optimization, U. Gdańsk, WS 26/27
 - TA, Bioinformatics with Python, U. Gdańsk, SS 26
 - Lecturer, Mathematical optimization, U. Gdańsk, WS 25/26
 - TA, Linear Algebra, U. Gdańsk, SS 25
