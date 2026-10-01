@@ -7,6 +7,8 @@ layout: page
 
 ## News
 
+- 1 October 2026: Om Joglekar joins the group as PhD student to work on Hamiltonians and token graphs. Welcome!
+
 - We receive the UF Microgrant [ReinforceSDP](https://unitary.foundation/grants/2026_reinforcesdp/). A big thank you to the Unitary Foundation!
 
 - The group receives the two QuantERA grants [SDPCode](https://quantera-sdpcode.github.io) (Joint with Jens Eisert, Sevag Gharibian, Igor Klep, and Victor Magron) and [ToDiQT](https://quantera-todiqt.github.io/) (joint with Jean-Daniel Bancal, Peter Brown, Gláucia Murta, Stefano Pironio, and Ramona Wolf).
