@@ -61,7 +61,7 @@ Joint work with Victor Magron (LAAS-CNRS Toulouse) and Jurij Volčič (U. Auckla
 - Muhammet Taha Çakmak, Sabanci University, 24 Jun - 16 Sept 2024
 - Sofia Denker, U. Siegen, 9-10 November 2023
 - Lisa Weinbrenner, U. Siegen, 9-10 November 2023
-- Fynn Otto, , U. Siegen, 8-10 November 2023
+- Fynn Otto, U. Siegen, 8-10 November 2023
 - Sébastien Designolle, Zuse-Institut Berlin, 6-9 Mar 2023
 - Simon Morelli, U. del País Vasco, 22-25 May 2023
 - Andrew Nemec, Texas A&M University, 23 Nov - 14 Dec 2022
