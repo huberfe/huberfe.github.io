@@ -35,6 +35,7 @@ In noncommutative algebra I worked on [tensor polynomial identities](https://arx
 - Dariusz Zielonka (project student, U. Gdańsk)
 
 Previous members:
+
 - Paulina Janowicz (MSc student, U. Gdańsk. Now PhD student at U. Gdańsk)
 - Marcin Hyla (BSc student, U. Gdańsk)
 - Moisés Bermejo Morán (PhD 2025, Jagiellonian U. Kraków. Now postdoc at Hong Kong U.)
@@ -57,7 +58,7 @@ Previous members:
 - Nouvelle-Aquitaine Chair for Emergence, Science & Society (CHESS) _Invariant Topological Quantum Codes_ (2024)
 - PhD grant CMA Quantum Technologies _QuanTEdu-France_ (2024)
 - Agence National de la Recherche (ANR) Chaire professeur junior _Algorithmique quantique_ (2024)
-- [Quantum error correction group](https://nisq.pl/quantum-error-correction-group) of the [_Near-term quantum computers, optimal implementations and applications_](nisq.pl) consortium, supported by the TEAM-NET grant of the Foundation for Polish Science (FNP) (2021 --- 2023)
+- [Quantum error correction group](https://nisq.pl/quantum-error-correction-group) of the [_Near-term quantum computers, optimal implementations and applications_](https://nisq.pl) consortium, supported by the TEAM-NET grant of the Foundation for Polish Science (FNP) (2021 --- 2023)
 - [Marie Skłodowska-Curie Cofund](https://bist.eu/probist) fellowship (2020)
 - Cellex ICFO-MPQ fellowship (2018 --- 2019)
 - Swiss National Science Foundation (SNF) Doc.Mobility fellowship, [_Thermal and ground states of local Hamiltonians_](http://p3.snf.ch/project-165024) (2016 --- 2017).
@@ -87,7 +88,7 @@ Thomas C. Fraser, Felix Huber, Balázs Pozsgay, István Vona\\
 
 [35] **Holographic quantum codes with trapped ions** \\
 Alex Steiner, Gerard Anglès Munné, Robert Freund, Ivan Pogorelov, Michael Meth, Robert J. Harris, Gavin Brennen, Thomas M. Stace, Thomas Monz, Rainer Blatt, Felix Huber, Martin Ringbauer\\
-[arxXiv:2607.16503](https://arxiv.org/abs/2607.16503)
+[arXiv:2607.16503](https://arxiv.org/abs/2607.16503)
 
 [34] **A 0.651-approximation to quantum Max Cut via Rydberg atoms** \\
 Tomás Crosta, Matthieu Saubanere, and Felix Huber \\
@@ -155,7 +156,7 @@ Maria Balanzó-Juandó, Michał Studziński, and Felix Huber\\
 
 [18] **Dimension-free entanglement detection in multipartite Werner states**\\
 Felix Huber\\
-[Oberwohlfach report Geometry and Optimization in Quantum Information (2021)](https://publications.mfo.de/handle/mfo/3902)
+[Oberwolfach report Geometry and Optimization in Quantum Information (2021)](https://publications.mfo.de/handle/mfo/3902)
 
 [17] **Dimension-free entanglement detection in multipartite Werner states**\\
 Felix Huber, Igor Klep, Victor Magron, and Jurij Volčič\\
