@@ -45,6 +45,7 @@ Joint work with Victor Magron (LAAS-CNRS Toulouse) and Jurij Volčič (U. Auckla
 
 ## Visitors
 - Robin Nicolas Simeons, Ghent University/UPC Barcelona, 15-19 November 2026
+- Jens Siewert, University of the Basque Country, 19-23 October 2026
 - Shawn Skelton, U. Hannover, 8-9 September 2026
 - David González Lociga, Universitat de Barcelona, 22 - 25 June 2026
 - Ojas Parekh, Sandia National Laboratory, 7 - 13 June 2026
