@@ -6,4 +6,6 @@ layout: page
 
 [Course details](Teaching/MathOpt_orga.pdf)
 
-[Lab Tasks](Teaching/MathOpt_LAB.pdf)
+[Lab tasks](Teaching/MathOpt_LAB.pdf)
+
+[Lecture notes](Teaching/lecture_notes_math_opt.pdf)
