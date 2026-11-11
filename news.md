@@ -7,6 +7,8 @@ layout: page
 
 ## News
 
+- 24-26 November 2026: Kick-off meeting of the [ToDiQT QuantERA consortium](https://quantera-todiqt.github.io/). 
+
 - 1 October 2026: Om Joglekar joins the group as PhD student to work on Hamiltonians and token graphs. Welcome!
 
 - We receive the UF Microgrant [ReinforceSDP](https://unitary.foundation/grants/2026_reinforcesdp/). A big thank you to the Unitary Foundation!
