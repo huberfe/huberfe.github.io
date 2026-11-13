@@ -46,6 +46,7 @@ Joint work with Victor Magron (LAAS-CNRS Toulouse) and Jurij Volčič (U. Auckla
 
 
 ## Visitors
+- Masoud Gharahi, Jagiellonian  University, 1-5 December 2026
 - Jennifer Ahiable, U. Cologne/Universitat Autònoma de Barcelona, 24-28 November 2026
 - Robin Nicolas Simeons, Ghent University/UPC Barcelona, 15-19 November 2026
 - Jens Siewert, University of the Basque Country, 19-23 October 2026
