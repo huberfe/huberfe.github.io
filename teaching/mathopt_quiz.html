@@ -499,7 +499,7 @@ function buildLecture(lec, li) {
         const ok = oi === qu.a;
         buttons[qu.a].classList.add("correct");
         if (!ok) b.classList.add("wrong");
-        expl.innerHTML = `<b>${ok ? "Correct." : "Not quite. The answer is " + LETTERS[qu.a] + "."}</b>` + qu.e;
+        expl.innerHTML = `<b>${ok ? "😃 Correct." : "🤔 Not quite. The answer is " + LETTERS[qu.a] + "."}</b>` + qu.e;
         expl.classList.toggle("miss", !ok);
         expl.classList.add("show");
         typeset(expl);
