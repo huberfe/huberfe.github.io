@@ -4,10 +4,10 @@ layout: page
 
 ## Mathematical Optimization (winter 2026/2027).
 
-[Course details](Teaching/MathOpt_orga.pdf)
+[Course details](teaching/MathOpt_orga.pdf)
 
-[Lab tasks](Teaching/MathOpt_LAB.pdf)
+[Lab tasks](teaching/MathOpt_LAB.pdf)
 
-[Lecture notes](Teaching/lecture_notes_math_opt.pdf)
+[Lecture notes](teaching/lecture_notes_math_opt.pdf)
 
-[quiz](Teaching/mathopt_quiz.html)
+[quiz](teaching/mathopt_quiz.html)
