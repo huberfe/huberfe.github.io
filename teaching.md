@@ -10,4 +10,4 @@ layout: page
 
 [Lecture notes](teaching/lecture_notes_math_opt.pdf)
 
-[quiz](teaching/mathopt_quiz.html)
+[Quiz](teaching/mathopt_quiz.html)
