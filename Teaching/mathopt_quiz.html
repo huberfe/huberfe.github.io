@@ -1,0 +1,561 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Optimization Quiz</title>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['\\(', '\\)']],
+      displayMath: [['\\[', '\\]']],
+      macros: { R: '\\mathbb{R}', tr: '\\operatorname{tr}' }
+    },
+    startup: { typeset: false }
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js" defer></script>
+<style>
+  :root {
+    --bg: #fafaf8; --card: #ffffff; --text: #1d1d1f; --muted: #5f6368;
+    --border: #d9d9d4; --accent: #2a5db0; --accent-bg: #e8effa;
+    --ok: #1e7a3c; --ok-bg: #e5f4ea; --bad: #b3261e; --bad-bg: #fbe9e7;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #17181a; --card: #222326; --text: #e8e8e6; --muted: #a0a3a8;
+      --border: #3a3b3f; --accent: #7fa8ee; --accent-bg: #253248;
+      --ok: #6fcf8d; --ok-bg: #1c3324; --bad: #f08a80; --bad-bg: #3a2220;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 760px; margin: 0 auto; padding: 24px 16px 64px; }
+  h1 { font-size: 1.5rem; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 20px; }
+  nav { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 20px; }
+  nav button {
+    border: 1px solid var(--border); background: var(--card); color: var(--text);
+    padding: 6px 12px; border-radius: 6px; cursor: pointer; font: inherit; font-size: .9rem;
+  }
+  nav button.active { background: var(--accent); border-color: var(--accent); color: var(--bg); }
+  .lecture { display: none; }
+  .lecture.active { display: block; }
+  .lecture h2 { font-size: 1.2rem; margin: 0 0 4px; }
+  .score { color: var(--muted); margin: 0 0 12px; font-size: .95rem; }
+  .note {
+    background: var(--accent-bg); border-radius: 6px; padding: 10px 14px;
+    margin-bottom: 16px; font-size: .95rem;
+  }
+  .q {
+    background: var(--card); border: 1px solid var(--border); border-radius: 8px;
+    padding: 14px 16px; margin-bottom: 14px;
+  }
+  .q .num { font-weight: 600; color: var(--accent); }
+  .q p { margin: 0 0 10px; }
+  .opts { display: grid; gap: 6px; }
+  .opt {
+    display: flex; gap: 10px; align-items: baseline; text-align: left; width: 100%;
+    border: 1px solid var(--border); background: transparent; color: var(--text);
+    padding: 8px 12px; border-radius: 6px; cursor: pointer; font: inherit;
+  }
+  .opt:hover:not(:disabled) { border-color: var(--accent); }
+  .opt:disabled { cursor: default; }
+  .opt .letter { font-weight: 600; min-width: 1.2em; }
+  .opt.correct { border-color: var(--ok); background: var(--ok-bg); }
+  .opt.wrong { border-color: var(--bad); background: var(--bad-bg); }
+  .expl {
+    display: none; margin-top: 10px; padding: 10px 12px; border-radius: 6px;
+    border-left: 4px solid var(--ok); background: var(--ok-bg); font-size: .95rem;
+  }
+  .expl.miss { border-left-color: var(--bad); background: var(--bad-bg); }
+  .expl.show { display: block; }
+  .expl b { display: block; margin-bottom: 2px; }
+  .reset {
+    border: 1px solid var(--border); background: var(--card); color: var(--text);
+    padding: 6px 14px; border-radius: 6px; cursor: pointer; font: inherit;
+  }
+  mjx-container { overflow-x: auto; overflow-y: hidden; max-width: 100%; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Quiz: Mathematical Optimization and Applications</h1>
+  <p class="sub">Click an answer to see whether it is correct and a short explanation. Nothing is graded or saved.</p>
+  <nav id="nav"></nav>
+  <div id="lectures"></div>
+</main>
+
+<script>
+const R = String.raw;
+
+// Each question: q = question, o = options, a = index of correct option, e = explanation.
+const LECTURES = [
+{
+  title: "Lecture 1: Farkas Lemma and linear programming",
+  questions: [
+  { q: R`In the plane \(\R^2\), what is the set \(\{x : x_1 + 2x_2 \le 4\}\)?`,
+    o: [R`A line`, R`A half-plane bounded by the line \(x_1 + 2x_2 = 4\)`, R`A bounded triangle`, R`A single point`],
+    a: 1,
+    e: R`The equation \(x_1 + 2x_2 = 4\) is a line. The inequality keeps all points on one side of it, which is a half-plane. Test a point: \(x = 0\) gives \(0 \le 4\), so the origin lies in the half-plane. The vector \(a = (1,2)\) is orthogonal to the line and points out of the half-plane, in the direction in which \(a^T x\) increases.` },
+  { q: R`Let \(A \in \R^{m \times n}\) and \(b \in \R^m\). The set \(P = \{x \in \R^n : Ax \le b\}\) is`,
+    o: [R`always convex (it may be empty)`, R`convex only if \(b \ge 0\)`, R`convex only if \(A\) is square`, R`never convex`],
+    a: 0,
+    e: R`Each row \(a_i^T x \le b_i\) describes a half-space, and a half-space is convex. \(P\) is the intersection of \(m\) half-spaces. An intersection of convex sets is convex: if \(x\) and \(y\) lie in every half-space, then so does the segment between them. \(P\) can be empty; Farkas Lemma tells us when.` },
+  { q: R`A set \(C\) is convex if \(\lambda x + (1-\lambda) y \in C\) for all \(x, y \in C\) and all \(\lambda \in [0,1]\). Which set in \(\R^2\) is <em>not</em> convex?`,
+    o: [R`A filled disk`, R`A filled square`, R`The ring \(\{x : 1 \le \|x\| \le 2\}\)`, R`A straight line`],
+    a: 2,
+    e: R`Convex means: the segment between any two points of the set stays inside the set. In the ring, take \(x = (1.5, 0)\) and \(y = (-1.5, 0)\). The midpoint \(\tfrac12 x + \tfrac12 y = (0,0)\) lies in the hole. The disk, the square and the line contain every such segment.` },
+  { q: R`Which of the following is a convex combination of the points \(x\) and \(y\)?`,
+    o: [R`\(x + y\)`, R`\(2x - y\)`, R`\(\tfrac12 x - \tfrac12 y\)`, R`\(\tfrac13 x + \tfrac23 y\)`],
+    a: 3,
+    e: R`In a convex combination the coefficients are \(\ge 0\) and sum to \(1\). Only \(\tfrac13, \tfrac23\) satisfy both. Geometrically, the convex combinations of \(x\) and \(y\) are exactly the points on the segment from \(x\) to \(y\). The point \(\tfrac13 x + \tfrac23 y\) lies one third of the way from \(y\) to \(x\).` },
+  { q: R`A set \(K\) is a convex cone if \(\lambda x + \mu y \in K\) for all \(x, y \in K\) and all \(\lambda, \mu \ge 0\). Which set in \(\R^2\) is a convex cone?`,
+    o: [R`The quadrant \(\{x : x_1 \ge 0,\ x_2 \ge 0\}\)`, R`The triangle \(\{x : x_1, x_2 \ge 0,\ x_1 + x_2 \le 1\}\)`, R`The half-plane \(\{x : x_1 \ge 1\}\)`, R`The unit disk`],
+    a: 0,
+    e: R`With \(y = x\) the definition contains \(\lambda x\) for all \(\lambda \ge 0\): a cone contains the whole ray from the origin through each of its points. The triangle and the disk are bounded, so \(100 x\) leaves them. The half-plane \(x_1 \ge 1\) does not contain \(0 = 0 \cdot x\). In the quadrant, non-negative combinations of non-negative vectors are non-negative.` },
+  { q: R`Farkas Lemma. For given \(A, b\), consider<br>(i) there is \(x\) with \(Ax \le b\);<br>(ii) there is \(\lambda \ge 0\) with \(A^T \lambda = 0\) and \(b^T \lambda = -1\).<br>What does the lemma say?`,
+    o: [R`Exactly one of (i), (ii) holds`, R`(i) and (ii) can hold at the same time`, R`It can happen that neither (i) nor (ii) holds`, R`(ii) holds if and only if (i) holds`],
+    a: 0,
+    e: R`"Not both" is the easy part: from (i) and (ii) we get \(0 = (A^T\lambda)^T x = \lambda^T A x \le \lambda^T b = -1\), a contradiction. "At least one" is the hard part. So the system \(Ax \le b\) has no solution exactly when such a certificate \(\lambda\) exists.` },
+  { q: R`The system \(x \le 1\), \(-x \le -2\) in one variable \(x\) has no solution. Here \(A = \begin{pmatrix} 1 \\ -1 \end{pmatrix}\) and \(b = (1, -2)\). Which \(\lambda\) is a Farkas certificate?`,
+    o: [R`\(\lambda = (1, -1)\)`, R`\(\lambda = (2, 1)\)`, R`\(\lambda = (1, 1)\)`, R`\(\lambda = (0, 0)\)`],
+    a: 2,
+    e: R`Check the three conditions for \(\lambda = (1,1)\): \(\lambda \ge 0\); \(A^T\lambda = 1 - 1 = 0\); \(b^T \lambda = 1 - 2 = -1\). In words: adding the two inequalities gives \(x - x \le 1 - 2\), i.e. \(0 \le -1\). The other options fail: \((1,-1)\) has a negative entry, \((2,1)\) gives \(A^T \lambda = 1 \ne 0\), and \((0,0)\) gives \(b^T\lambda = 0\).` },
+  { q: R`Why must the Farkas multipliers satisfy \(\lambda \ge 0\)?`,
+    o: [R`So that \(b^T \lambda = -1\) is possible`, R`Multiplying an inequality by a negative number reverses it, so the combined inequality would no longer follow from \(Ax \le b\)`, R`Because \(x \ge 0\)`, R`It is only a convention; any \(\lambda\) works`],
+    a: 1,
+    e: R`From \(a_i^T x \le b_i\) and \(\lambda_i \ge 0\) we get \(\lambda_i a_i^T x \le \lambda_i b_i\). Summing over \(i\) gives \(\lambda^T A x \le \lambda^T b\). For \(\lambda_i < 0\) the inequality flips: from \(x \le 1\) and \(\lambda_1 = -1\) we get \(-x \ge -1\), not \(-x \le -1\).` },
+  { q: R`The standard form is \(\max\, c^T x\) s.t. \(Ax \le b\). Bring the LP<br>\(\min\, x_1 + 2x_2\) s.t. \(x_1 + x_2 \ge 1\), \(x_1 \ge 0\), \(x_2 \ge 0\)<br>into standard form.`,
+    o: [R`\(\max\, x_1 + 2x_2\) s.t. \(x_1 + x_2 \le 1\), \(x_1 \ge 0\), \(x_2 \ge 0\)`, R`\(\max\, -x_1 - 2x_2\) s.t. \(-x_1 - x_2 \le -1\), \(-x_1 \le 0\), \(-x_2 \le 0\)`, R`\(\max\, -x_1 - 2x_2\) s.t. \(-x_1 - x_2 \le -1\)`, R`\(\max\, -x_1 - 2x_2\) s.t. \(x_1 + x_2 \le -1\), \(x_1 \le 0\), \(x_2 \le 0\)`],
+    a: 1,
+    e: R`Three steps. (1) Minimizing \(f\) is the same as maximizing \(-f\); the optimal values differ by the sign. (2) Multiply each \(\ge\) inequality by \(-1\) to get \(\le\). (3) The constraints \(x_i \ge 0\) are also rows of \(Ax \le b\): \(-x_i \le 0\). So \(c = (-1, -2)\), \(A = \begin{pmatrix} -1 & -1 \\ -1 & 0 \\ 0 & -1 \end{pmatrix}\), \(b = (-1, 0, 0)\). The third option forgets \(x \ge 0\); the fourth flips the signs on only one side.` },
+  { q: R`A polytope is a bounded polyhedron. Which set is a polyhedron but not a polytope?`,
+    o: [R`The square \([0,1]^2\)`, R`The probability simplex \(\Delta_3\)`, R`The non-negative orthant \(\R^2_+\)`, R`The unit disk`],
+    a: 2,
+    e: R`\(\R^2_+ = \{x : -x_1 \le 0,\ -x_2 \le 0\}\) is an intersection of two half-planes, so it is a polyhedron. It is unbounded, so it is not a polytope. The square and the simplex are polytopes. The disk is convex but not a polyhedron: finitely many half-planes give a region with straight edges, but the circle is curved.` },
+  { q: R`The probability simplex is \(\Delta_3 = \{x \in \R^3 : x \ge 0,\ x_1 + x_2 + x_3 = 1\} = \operatorname{conv}\{e_1, e_2, e_3\}\). Which point lies in \(\Delta_3\)?`,
+    o: [R`\((1, 1, 0)\)`, R`\((\tfrac12, \tfrac12, \tfrac12)\)`, R`\((-1, 1, 1)\)`, R`\((\tfrac12, \tfrac14, \tfrac14)\)`],
+    a: 3,
+    e: R`The entries must be \(\ge 0\) and sum to \(1\). As a convex combination: \((\tfrac12, \tfrac14, \tfrac14) = \tfrac12 e_1 + \tfrac14 e_2 + \tfrac14 e_3\). The other points have sum \(2\), sum \(\tfrac32\), or a negative entry. Geometrically, \(\Delta_3\) is the triangle with corners \(e_1, e_2, e_3\).` },
+  { q: R`Maximize \(x_1 + x_2\) over the square \([0,1]^2\). Where is the optimum attained?`,
+    o: [R`At the vertex \((1,1)\)`, R`At the center \((\tfrac12, \tfrac12)\)`, R`At every point of the square`, R`Nowhere, the problem is unbounded`],
+    a: 0,
+    e: R`The objective is largest when both coordinates are as large as possible: value \(2\) at \((1,1)\). Geometrically, move the line \(x_1 + x_2 = \gamma\) in the direction \(c = (1,1)\) until it last touches the square. In general (Section 1.2 of the notes): if a linear objective has a finite optimal value over a polytope, then some vertex is optimal. Other points can be optimal too: for the objective \(x_1\), every point of the edge \(x_1 = 1\) is optimal.` },
+  ]
+},
+{
+  title: "Lecture 2: Duality, complementary slackness, flows, matchings",
+  note: R`Convention: (P) \(\max\, c^T x\) s.t. \(Ax \le b\). (D) \(\min\, b^T y\) s.t. \(A^T y = c\), \(y \ge 0\). Optimal values \(\alpha\) (primal) and \(\beta\) (dual).`,
+  questions: [
+  { q: R`\(x\) is feasible for (P) with \(c^T x = 5\), and \(y\) is feasible for (D) with \(b^T y = 8\). What do we know about the primal optimal value \(\alpha\)?`,
+    o: [R`\(\alpha = 5\)`, R`\(\alpha = 8\)`, R`\(5 \le \alpha \le 8\)`, R`Nothing`],
+    a: 2,
+    e: R`\(\alpha \ge 5\), since \(\alpha\) is a maximum and \(x\) is feasible. Weak duality gives \(c^T x' \le b^T y\) for every feasible \(x'\), so \(\alpha \le 8\). Proof of weak duality: \(c^T x = (A^T y)^T x = y^T A x \le y^T b\), using \(y \ge 0\) and \(Ax \le b\).` },
+  { q: R`(P): \(\max\, x_1 + x_2\) s.t. \(x_1 \le 3\), \(x_2 \le 2\). So \(A = I\), \(b = (3,2)\), \(c = (1,1)\), and (D) is \(\min\, 3y_1 + 2y_2\) s.t. \(y_1 = 1\), \(y_2 = 1\), \(y \ge 0\). What are \(\alpha\) and \(\beta\)?`,
+    o: [R`\(\alpha = \beta = 5\)`, R`\(\alpha = 5\), \(\beta = 6\)`, R`\(\alpha = 3\), \(\beta = 2\)`, R`\(\alpha = 5\), and (D) is infeasible`],
+    a: 0,
+    e: R`The primal optimum is at \(x = (3,2)\), so \(\alpha = 5\). The dual has the single feasible point \(y = (1,1)\), so \(\beta = 3 + 2 = 5\). The two values agree, as strong duality says.` },
+  { q: R`Strong duality: if (P) has a finite optimal value \(\alpha\), then`,
+    o: [R`(D) is infeasible`, R`(D) has an optimal solution and \(\beta = \alpha\)`, R`\(\beta > \alpha\) always`, R`\(\beta < \alpha\) is possible`],
+    a: 1,
+    e: R`Weak duality gives \(\beta \ge \alpha\), so \(\beta < \alpha\) is impossible. Strong duality says that for linear programs the duality gap \(\Delta = \beta - \alpha\) is zero.` },
+  { q: R`Let \(x^*, y^*\) be optimal for (P), (D). Suppose constraint \(i\) is not tight: \(a_i^T x^* < b_i\). What does complementary slackness say?`,
+    o: [R`\(y^*_i = 0\)`, R`\(y^*_i = 1\)`, R`\(y^*_i < 0\)`, R`\(x^*_i = 0\)`],
+    a: 0,
+    e: R`\(b^T y^* - c^T x^* = (y^*)^T (b - Ax^*) = \sum_i y^*_i\,(b_i - a_i^T x^*)\). Each term is \(\ge 0\), and the sum is \(\Delta = 0\). So each term is \(0\): if \(b_i - a_i^T x^* > 0\), then \(y^*_i = 0\).` },
+  { q: R`The system \(x_1 \le 1\), \(x_2 \le 1\), \(-x_1 - x_2 \le -3\) has no solution. Which \(y\) is an infeasibility certificate (\(y \ge 0\), \(A^T y = 0\), \(b^T y = -1\))?`,
+    o: [R`\(y = (1, 0, 1)\)`, R`\(y = (1, 1, -1)\)`, R`\(y = (0, 0, 0)\)`, R`\(y = (1, 1, 1)\)`],
+    a: 3,
+    e: R`\(A^T y = (1 - 1,\ 1 - 1) = (0,0)\) and \(b^T y = 1 + 1 - 3 = -1\). In words: the first two inequalities give \(x_1 + x_2 \le 2\), the third says \(x_1 + x_2 \ge 3\). The other options: \((1,0,1)\) gives \(A^T y = (0,-1)\); \((1,1,-1)\) has a negative entry; \((0,0,0)\) gives \(b^T y = 0\). Note: the certificate is dual feasible only if \(c = 0\).` },
+  { q: R`Which combination of outcomes for the pair (P), (D) is possible?`,
+    o: [R`(P) has optimal value 3 and (D) is unbounded`, R`(P) and (D) are both infeasible`, R`(P) is unbounded and (D) is feasible`, R`(P) has optimal value 3 and (D) has optimal value 4`],
+    a: 1,
+    e: R`Example: (P) \(\max\, x\) s.t. \(0 \cdot x \le -1\) is infeasible, and (D) \(\min\, -y\) s.t. \(0 \cdot y = 1\), \(y \ge 0\) is infeasible. The other options contradict duality. If (D) is feasible, weak duality bounds (P) from above, so (P) is not unbounded; likewise (D) cannot go below a feasible primal value 3. Finite optimal values are equal by strong duality.` },
+  { q: R`In the LP for the maximum \(s\)-\(t\) flow, \(f_{uv}\) is the flow on the directed edge \((u,v)\). What does flow conservation say?`,
+    o: [R`\(0 \le f_{uv} \le c_{uv}\) for every edge`, R`For every vertex \(v \ne s, t\): \(\sum_{u : (u,v) \in E} f_{uv} = \sum_{w : (v,w) \in E} f_{vw}\)`, R`The same equation also for \(v = s\) and \(v = t\)`, R`The flow out of \(s\) equals the sum of all capacities`],
+    a: 1,
+    e: R`At every vertex other than \(s\) and \(t\), what flows in also flows out. Flow is created at \(s\) and absorbed at \(t\), so conservation does not hold there; the value of the flow is the net flow out of \(s\). The first option is the capacity constraint, the other constraint of the LP.` },
+  { q: R`LP relaxation of perfect matching: \(\sum_{e \ni v} x_e = 1\) for every vertex \(v\), and \(x \ge 0\). The triangle \(K_3\) has no perfect matching, since it has an odd number of vertices. What about the LP?`,
+    o: [R`The LP is infeasible as well`, R`The LP has the feasible point \(x_e = \tfrac12\) for all three edges`, R`The LP has only integer solutions`, R`The LP is unbounded`],
+    a: 1,
+    e: R`Each vertex of the triangle lies on two edges, and \(\tfrac12 + \tfrac12 = 1\). So the LP is feasible although there is no perfect matching: for the triangle the relaxation is not exact. For bipartite graphs the vertices of this polytope are integer (stated without proof); the triangle is not bipartite.` },
+  { q: R`(P) has \(n\) variables and \(m\) inequality constraints \(a_i^T x \le b_i\). What does (D) have?`,
+    o: [R`\(n\) variables and \(m\) equality constraints`, R`\(m\) variables and \(m\) constraints`, R`\(n\) variables and \(n\) constraints`, R`\(m\) variables, \(n\) equality constraints, and \(m\) sign constraints \(y \ge 0\)`],
+    a: 3,
+    e: R`(D) has one variable \(y_i\) for each primal constraint, and one equality constraint for each primal variable \(x_j\) (row \(j\) of \(A^T y = c\)). Example: in Question 2, \(m = n = 2\), so (D) has variables \(y_1, y_2\) and the two equalities \(y_1 = 1\), \(y_2 = 1\).` },
+  { q: R`Consider (P): \(\max\, x_1\) s.t. \(-x_1 \le 0\). What is the outcome?`,
+    o: [R`Optimal value \(0\)`, R`(P) is unbounded, and (D) is infeasible`, R`(P) is infeasible`, R`Optimal value \(1\)`],
+    a: 1,
+    e: R`The constraint says \(x_1 \ge 0\). The points \(x_1 = t\), \(t \ge 0\), are feasible with value \(t \to \infty\). The dual is \(\min\, 0\) s.t. \(-y_1 = 1\), \(y_1 \ge 0\), which is infeasible. This must be so: a feasible \(y\) would give the upper bound \(b^T y\) on all primal values (weak duality).` },
+  { q: R`(P): \(\max\, x_1 + 2x_2\) s.t. \(x_1 \le 1\), \(x_2 \le 1\), \(x_1 + x_2 \le \tfrac32\). The point \(x = (\tfrac12, 1)\) has value \(\tfrac52\), and only the first constraint is not tight. The dual constraints are \(y_1 + y_3 = 1\), \(y_2 + y_3 = 2\), \(y \ge 0\). Which \(y\) proves that \(x\) is optimal?`,
+    o: [R`\(y = (1, 2, 0)\)`, R`\(y = (0, 1, 1)\)`, R`\(y = (0, 0, 2)\)`, R`\(y = (1, 1, 0)\)`],
+    a: 1,
+    e: R`By complementary slackness, \(y_1 = 0\), since the first constraint is not tight. Then \(y_3 = 1\) and \(y_2 = 1\). So \(y = (0,1,1) \ge 0\) is dual feasible with \(b^T y = 0 + 1 + \tfrac32 = \tfrac52 = c^T x\). By weak duality, \(x\) and \(y\) are both optimal. \(y = (1,2,0)\) is also dual feasible, but its value \(3\) only shows \(\alpha \le 3\). The last two options violate a dual constraint.` },
+  { q: R`\(x\) is feasible for (P), \(y\) is feasible for (D), and \(c^T x = b^T y\). What follows?`,
+    o: [R`Only \(x\) is optimal`, R`Neither is necessarily optimal`, R`\(x\) and \(y\) are both optimal`, R`(P) is unbounded`],
+    a: 2,
+    e: R`By weak duality, every feasible \(x'\) has \(c^T x' \le b^T y = c^T x\), so \(x\) is optimal. In the same way, every feasible \(y'\) has \(b^T y' \ge c^T x = b^T y\), so \(y\) is optimal. To prove that a point is optimal, it is enough to find a feasible point of the other program with the same value.` },
+  { q: R`The two directed edges leaving the source \(s\) have capacities \(3\) and \(2\), and no edge enters \(s\). What is an upper bound on the value of every \(s\)-\(t\) flow?`,
+    o: [R`\(5\)`, R`\(3\)`, R`\(6\)`, R`There is no upper bound`],
+    a: 0,
+    e: R`\(\mathrm{val}(f) = \sum_{w : (s,w) \in E} f_{sw} \le 3 + 2 = 5\). So the maximum flow LP is bounded. It is also feasible (\(f = \mathbf{0}\)), so by the duality theorem it has an optimal solution. Whether the value \(5\) is reached depends on the rest of the graph. If all capacities are integers, there is a maximum flow with integer values.` },
+  ]
+},
+{
+  title: "Lecture 3: Matchings and rounding for minimum vertex cover",
+  questions: [
+  { q: R`A vertex cover of a graph \(G = (V, E)\) is a set \(C \subseteq V\) such that`,
+    o: [R`no two vertices of \(C\) are adjacent`, R`every edge has at least one endpoint in \(C\)`, R`every vertex has a neighbour in \(C\)`, R`\(C\) contains all vertices of odd degree`],
+    a: 1,
+    e: R`The vertex cover number \(\tau(G)\) is the smallest size of a vertex cover. The first option is the definition of a stable set (Lecture 4). Example: for the path \(1 - 2 - 3\), the set \(C = \{2\}\) is a smallest vertex cover, so \(\tau = 1\).` },
+  { q: R`Which integer program gives the vertex cover number \(\tau(G)\)?`,
+    o: [R`\(\min \sum_v y_v\) s.t. \(y_u + y_v \ge 1\) for all \(\{u,v\} \in E\), \(y \in \{0,1\}^V\)`, R`\(\max \sum_v y_v\) s.t. \(y_u + y_v \le 1\) for all \(\{u,v\} \in E\), \(y \in \{0,1\}^V\)`, R`\(\min \sum_v y_v\) s.t. \(y_u + y_v \le 1\) for all \(\{u,v\} \in E\), \(y \in \{0,1\}^V\)`, R`\(\min \sum_v y_v\) s.t. \(y_u + y_v \ge 1\) for all \(\{u,v\} \in E\), \(y \in \R^V\)`],
+    a: 0,
+    e: R`\(y_v = 1\) means \(v \in C\). The constraint \(y_u + y_v \ge 1\) says that edge \(\{u,v\}\) has an endpoint in \(C\). The second option is the stable set problem \(\alpha(G)\). The third has optimum \(y = 0\). The fourth is not an integer program, and \(y\) may even be negative.` },
+  { q: R`We now relax this to the LP with \(y \ge 0\) instead of \(y \in \{0,1\}^V\). Let \(\tau^*(G)\) be its optimal value. Which is always true?`,
+    o: [R`\(\tau^*(G) \ge \tau(G)\)`, R`\(\tau^*(G) = \tau(G)\)`, R`\(\tau^*(G) \le \tau(G)\)`, R`There is no relation`],
+    a: 2,
+    e: R`Every feasible point of the integer program is feasible for the LP. The LP minimizes over a larger set than the integer program, so its minimum is at most the minimum of the integer program. (For a maximization problem, the LP value is at least the value of the integer program.)` },
+  { q: R`For the triangle \(K_3\), what is \(\tau^*(K_3)\), the optimal value of the vertex cover LP?`,
+    o: [R`\(1\)`, R`\(3/2\)`, R`\(2\)`, R`\(3\)`],
+    a: 1,
+    e: R`\(y_v = \tfrac12\) for all \(v\) is feasible, with value \(3/2\). It is optimal: adding the three edge constraints gives \(2(y_1 + y_2 + y_3) \ge 3\). A smallest vertex cover of the triangle has \(2\) vertices, so \(\tau^*(K_3) = 3/2 < 2 = \tau(K_3)\).` },
+  { q: R`Rounding: from an optimal LP solution \(y^*\), take \(C = \{v : y^*_v \ge \tfrac12\}\). Why is \(C\) a vertex cover?`,
+    o: [R`Because \(y^*\) is integer`, R`Because \(C\) contains all vertices`, R`Because \(\sum_v y^*_v \ge |V|/2\)`, R`For each edge, \(y^*_u + y^*_v \ge 1\), so at least one of \(y^*_u, y^*_v\) is \(\ge \tfrac12\)`],
+    a: 3,
+    e: R`If both \(y^*_u < \tfrac12\) and \(y^*_v < \tfrac12\), then \(y^*_u + y^*_v < 1\), which violates the LP constraint. So every edge has an endpoint in \(C\).` },
+  { q: R`Why is \(|C| \le 2 \sum_{v \in V} y^*_v\)?`,
+    o: [R`Every \(v \in C\) has \(2y^*_v \ge 1\), so \(|C| = \sum_{v \in C} 1 \le \sum_{v \in C} 2y^*_v \le 2\sum_{v \in V} y^*_v\)`, R`Because \(|C| \le |V|\)`, R`Because \(y^*\) is integer`, R`Because \(\sum_v y^*_v \ge |V|\)`],
+    a: 0,
+    e: R`The last step uses \(y^*_v \ge 0\) for the vertices not in \(C\).` },
+  { q: R`Combining the last questions, the rounding gives a vertex cover \(C\) with`,
+    o: [R`\(|C| \le 2\,\tau(G)\)`, R`\(|C| = \tau(G)\)`, R`\(|C| \le \tfrac12\,\tau(G)\)`, R`\(|C| \ge 2\,\tau(G)\)`],
+    a: 0,
+    e: R`\(|C| \le 2\,\tau^*(G) \le 2\,\tau(G)\). So LP rounding has approximation ratio \(2\): it solves one LP, which can be done efficiently, and returns a vertex cover at most twice as large as a smallest one. Computing \(\tau(G)\) exactly is NP-hard.` },
+  { q: R`For the triangle \(K_3\) with optimal LP solution \(y^* = (\tfrac12, \tfrac12, \tfrac12)\), what does the rounding return?`,
+    o: [R`\(C = \{1\}\)`, R`\(C = \{1, 2\}\)`, R`\(C = \{1, 2, 3\}\)`, R`\(C = \emptyset\)`],
+    a: 2,
+    e: R`All entries satisfy \(y^*_v = \tfrac12 \ge \tfrac12\), so all three vertices are taken: \(|C| = 3\). A smallest vertex cover has \(\tau(K_3) = 2\) vertices. So the rounding is not optimal here, but \(|C| = 3 \le 2\,\tau(K_3) = 4\), as guaranteed.` },
+  { q: R`A matching in \(G = (V,E)\) is a set \(M \subseteq E\) such that`,
+    o: [R`no two edges of \(M\) share a vertex`, R`every vertex lies on an edge of \(M\)`, R`\(M\) contains all edges at some vertex`, R`the edges of \(M\) form a cycle`],
+    a: 0,
+    e: R`The matching number \(\nu(G)\) is the largest size of a matching. The second option describes a perfect matching, which is a special matching. Example: in the path \(1 - 2 - 3 - 4\), the matching \(M = \{\{1,2\}, \{3,4\}\}\) is perfect, and \(\nu = 2\).` },
+  { q: R`The LP relaxations of maximum matching (\(\max \sum_e x_e\) s.t. \(\sum_{u : \{u,v\} \in E} x_{uv} \le 1\) for all \(v\), \(x \ge 0\)) and of minimum vertex cover (\(\min \sum_v y_v\) s.t. \(y_u + y_v \ge 1\) for all \(\{u,v\} \in E\), \(y \ge 0\)) are`,
+    o: [R`unrelated`, R`the same LP`, R`dual to each other`, R`both always integer`],
+    a: 2,
+    e: R`The matching LP has one constraint per vertex and one variable per edge; the vertex cover LP has one variable per vertex and one constraint per edge (the transposed matrix). So \(\nu(G) \le \nu^*(G) = \tau^*(G) \le \tau(G)\): the outer inequalities hold because these are relaxations, and the middle equality is LP duality. For the triangle: \(\nu = 1\), \(\nu^* = \tau^* = \tfrac32\), \(\tau = 2\).` },
+  { q: R`For the 5-cycle \(C_5\), which values are correct?`,
+    o: [R`\(\nu = 2\), \(\nu^* = \tau^* = \tfrac52\), \(\tau = 3\)`, R`\(\nu = \nu^* = \tau^* = \tau = 2\)`, R`\(\nu = 2\), \(\nu^* = \tau^* = 3\), \(\tau = 3\)`, R`\(\nu = 3\), \(\nu^* = \tau^* = \tfrac52\), \(\tau = 2\)`],
+    a: 0,
+    e: R`Each matching edge uses \(2\) of the \(5\) vertices, so \(\nu = 2\). A vertex cover needs \(3\) vertices, since one vertex covers only \(2\) of the \(5\) edges, so \(\tau = 3\). The point \(x_e = \tfrac12\) on all edges and the point \(y_v = \tfrac12\) on all vertices are feasible for the two LPs, both with value \(\tfrac52\), so both are optimal by weak duality. The last option violates \(\nu \le \tau\).` },
+  { q: R`In a graph, you find a matching with \(3\) edges and a vertex cover with \(3\) vertices. What follows?`,
+    o: [R`Nothing, since we do not know whether the graph is bipartite`, R`The matching can perhaps be made larger`, R`\(\nu(G) = \tau(G) = 3\), and both are optimal`, R`Only \(\nu(G) \le 3\)`],
+    a: 2,
+    e: R`In every graph \(\nu(G) \le \tau(G)\): a vertex cover must contain an endpoint of each matching edge, and these endpoints are distinct. So \(3 \le \nu(G) \le \tau(G) \le 3\). This works like weak duality: two feasible solutions with the same value are both optimal. For bipartite graphs, König's theorem says that such a pair always exists (\(\nu = \tau\)); for the triangle it does not.` },
+  ]
+},
+{
+  title: "Lecture 4: Stable sets, STAB, FSTAB, QSTAB, Chvátal–Gomory cuts",
+  questions: [
+  { q: R`A stable set (independent set) in \(G = (V, E)\) is a set \(S \subseteq V\) such that`,
+    o: [R`no two vertices of \(S\) are joined by an edge`, R`every edge has an endpoint in \(S\)`, R`all vertices of \(S\) are pairwise adjacent`, R`\(S\) is connected`],
+    a: 0,
+    e: R`The stability number \(\alpha(G)\) is the size of a largest stable set. The second option defines a vertex cover, the third a clique. \(S\) is stable if and only if \(V \setminus S\) is a vertex cover.` },
+  { q: R`What is \(\alpha(C_5)\), the stability number of the 5-cycle?`,
+    o: [R`\(1\)`, R`\(5/2\)`, R`\(2\)`, R`\(3\)`],
+    a: 2,
+    e: R`Label the vertices \(1, \dots, 5\) around the cycle. \(\{1, 3\}\) is stable. Any 3 of the 5 vertices contain two neighbours. \(\alpha(G)\) is an integer, so \(5/2\) is impossible (but \(5/2\) appears in Question 6).` },
+  { q: R`\(\mathrm{STAB}(G)\) is the convex hull of the characteristic vectors \(\chi^S \in \{0,1\}^V\) of the stable sets \(S\). For the graph with two vertices and one edge, \(\mathrm{STAB}(G)\) is`,
+    o: [R`the square \([0,1]^2\)`, R`the segment from \((1,0)\) to \((0,1)\)`, R`the single point \((0,0)\)`, R`the triangle with corners \((0,0)\), \((1,0)\), \((0,1)\)`],
+    a: 3,
+    e: R`The stable sets are \(\emptyset, \{1\}, \{2\}\), with vectors \((0,0), (1,0), (0,1)\). The set \(\{1,2\}\) is not stable, so \((1,1)\) is missing. The convex hull of the three points is a triangle, described by \(x \ge 0\), \(x_1 + x_2 \le 1\).` },
+  { q: R`\(\mathrm{FSTAB}(G) = \{x : 0 \le x \le \mathbf{1},\ x_u + x_v \le 1 \text{ for all } \{u,v\} \in E\}\) and \(\mathrm{QSTAB}(G) = \{x \ge 0 : x(K) \le 1 \text{ for all cliques } K\}\), where \(x(K) = \sum_{v \in K} x_v\). For the triangle \(K_3\), where does \(x = (\tfrac12, \tfrac12, \tfrac12)\) lie?`,
+    o: [R`In FSTAB, but not in QSTAB`, R`In QSTAB, but not in FSTAB`, R`In both`, R`In STAB`],
+    a: 0,
+    e: R`The edge constraints hold: \(\tfrac12 + \tfrac12 = 1 \le 1\). The whole triangle is a clique, and \(\tfrac32 > 1\) violates its constraint. So \(x \notin \mathrm{QSTAB}\), and hence also \(x \notin \mathrm{STAB}\).` },
+  { q: R`Which chain of inclusions holds for every graph?`,
+    o: [R`\(\mathrm{FSTAB} \subseteq \mathrm{QSTAB} \subseteq \mathrm{STAB}\)`, R`\(\mathrm{STAB} \subseteq \mathrm{QSTAB} \subseteq \mathrm{FSTAB}\)`, R`\(\mathrm{QSTAB} \subseteq \mathrm{STAB} \subseteq \mathrm{FSTAB}\)`, R`All three are always equal`],
+    a: 1,
+    e: R`Every edge is a clique, so QSTAB has all constraints of FSTAB (and more): \(\mathrm{QSTAB} \subseteq \mathrm{FSTAB}\). A stable set meets each clique in at most one vertex, so \(\chi^S \in \mathrm{QSTAB}\); since QSTAB is convex, \(\mathrm{STAB} \subseteq \mathrm{QSTAB}\). So QSTAB is a tighter relaxation of STAB than FSTAB is. The previous question shows \(\mathrm{QSTAB} \ne \mathrm{FSTAB}\) for the triangle.` },
+  { q: R`What is \(\max \{\sum_v x_v : x \in \mathrm{FSTAB}(C_5)\}\)?`,
+    o: [R`\(2\)`, R`\(5/2\)`, R`\(3\)`, R`\(5\)`],
+    a: 1,
+    e: R`\(x_v = \tfrac12\) for all \(v\) is feasible, with value \(5/2\). Adding the 5 edge constraints, where each vertex lies on 2 edges, gives \(2 \sum_v x_v \le 5\). So the LP gives the upper bound \(5/2\) on \(\alpha(C_5) = 2\). Since \(C_5\) has no triangles, \(\mathrm{QSTAB}(C_5) = \mathrm{FSTAB}(C_5)\), and QSTAB gives the same upper bound.` },
+  { q: R`Chvátal–Gomory rounding. Let \(a \in \mathbb{Z}^n\), and suppose every integer point \(x\) of a polytope satisfies \(a^T x \le b\). Why do these integer points also satisfy \(a^T x \le \lfloor b \rfloor\)?`,
+    o: [R`Because \(b\) is always an integer`, R`Because the inequality holds for all real points of the polytope`, R`Because \(a^T x\) is an integer when \(a\) and \(x\) are integer`, R`Because \(a \ge 0\)`],
+    a: 2,
+    e: R`An integer that is \(\le 2.5\) is also \(\le 2\). The new inequality keeps all integer points, but it can cut off fractional points of the polytope, as in the next question.` },
+  { q: R`For the triangle \(K_3\), take the edge inequalities \(x_1 + x_2 \le 1\), \(x_2 + x_3 \le 1\), \(x_1 + x_3 \le 1\), multiply each by \(\tfrac12\), add them, and round. Which Chvátal–Gomory cut do you get?`,
+    o: [R`\(x_1 + x_2 + x_3 \le \tfrac32\)`, R`\(x_1 + x_2 + x_3 \le 2\)`, R`\(x_1 + x_2 + x_3 \ge 1\)`, R`\(x_1 + x_2 + x_3 \le 1\)`],
+    a: 3,
+    e: R`The sum with multipliers \(\tfrac12\) is \(x_1 + x_2 + x_3 \le \tfrac32\). The coefficients are integers, so we may round the right-hand side down to \(1\). This is the clique inequality; it cuts off \((\tfrac12, \tfrac12, \tfrac12)\) from \(\mathrm{FSTAB}(K_3)\). In the same way, multipliers \(\tfrac12\) on the five edges of \(C_5\) give \(\sum_v x_v \le 2\) (the odd cycle inequality).` },
+  { q: R`A binary program with \(n = 3\) variables optimizes over points of \(\{0,1\}^3\), the vertices of the cube \([0,1]^3\). How many such points are there?`,
+    o: [R`\(3\)`, R`\(6\)`, R`\(8\)`, R`\(9\)`],
+    a: 2,
+    e: R`Each of the \(3\) entries is \(0\) or \(1\), so there are \(2^3 = 8\) points. In general there are \(2^n\); for \(n = 100\) this is about \(10^{30}\), too many to check one by one. This is why we solve LP relaxations instead.` },
+  { q: R`For the complete graph \(K_4\), \(\alpha(K_4) = 1\). What is \(\max \{\sum_v x_v : x \in \mathrm{FSTAB}(K_4)\}\)?`,
+    o: [R`\(1\)`, R`\(2\)`, R`\(\tfrac32\)`, R`\(4\)`],
+    a: 1,
+    e: R`\(x = \tfrac12 \mathbf{1}\) satisfies every edge constraint and has value \(2\). It is optimal: the two edge constraints \(x_1 + x_2 \le 1\) and \(x_3 + x_4 \le 1\) add up to \(\sum_v x_v \le 2\). In \(\mathrm{QSTAB}(K_4)\), the clique inequality \(x_1 + x_2 + x_3 + x_4 \le 1\) gives the upper bound \(1 = \alpha(K_4)\). For \(K_n\), FSTAB gives \(n/2\), while \(\alpha(K_n) = 1\).` },
+  { q: R`For which graph is \(\mathrm{STAB}(G) = \mathrm{FSTAB}(G)\)?`,
+    o: [R`The triangle \(K_3\)`, R`The 5-cycle \(C_5\)`, R`The complete graph \(K_4\)`, R`The path \(1 - 2 - 3\)`],
+    a: 3,
+    e: R`\(\mathrm{STAB}(G) = \mathrm{FSTAB}(G)\) holds exactly for bipartite graphs (Lovász, Prop. 2.10). The path is bipartite, with parts \(\{1,3\}\) and \(\{2\}\). The other three graphs contain odd cycles; for them, \(\tfrac12 \mathbf{1}\) lies in FSTAB but not in STAB.` },
+  { q: R`What is the odd hole constraint for the 7-cycle \(C_7\), with vertex set \(C\)?`,
+    o: [R`\(x(C) \le \tfrac72\)`, R`\(x(C) \le 3\)`, R`\(x(C) \le 4\)`, R`\(x(C) \le 2\)`],
+    a: 1,
+    e: R`The constraint is \(x(C) \le \tfrac{|C| - 1}{2} = 3\): a stable set contains at most \(3\) of the \(7\) vertices of the cycle. It is a Chvátal–Gomory cut: summing the \(7\) edge inequalities with multipliers \(\tfrac12\) gives \(x(C) \le \tfrac72\), and rounding down gives \(3\).` },
+  { q: R`Let \(Q = \{x \in \R^2 : x \ge 0,\ 2x_1 + 2x_2 \le 3\}\). Its integer points are \((0,0)\), \((1,0)\), \((0,1)\). Which Chvátal–Gomory cut does the multiplier \(\tfrac12\) give, and what does it cut off?`,
+    o: [R`\(x_1 + x_2 \le \tfrac32\); it cuts off nothing`, R`\(x_1 + x_2 \le 1\); it cuts off the vertex \((\tfrac32, 0)\) of \(Q\)`, R`\(x_1 + x_2 \le 1\); it cuts off the integer point \((1,0)\)`, R`\(x_1 + x_2 \le 2\); it cuts off \((1,1)\)`],
+    a: 1,
+    e: R`\(\tfrac12(2x_1 + 2x_2) \le \tfrac32\) has integer coefficients, so we may round the right-hand side down: \(x_1 + x_2 \le 1\). All three integer points satisfy it, but the fractional vertices \((\tfrac32, 0)\) and \((0, \tfrac32)\) of \(Q\) do not. Together with \(x \ge 0\), the cut describes \(Q_I = \operatorname{conv}\{(0,0), (1,0), (0,1)\}\). The point \((1,1)\) is not in \(Q\) at all.` },
+  ]
+},
+{
+  title: "Lecture 5: Linear algebra review I",
+  questions: [
+  { q: R`Compute \(\langle v, w \rangle = v^T w\) for \(v = (1, 2)\) and \(w = (3, -1)\).`,
+    o: [R`\(1\)`, R`\(5\)`, R`\((3, -2)\)`, R`\(7\)`],
+    a: 0,
+    e: R`\(1 \cdot 3 + 2 \cdot (-1) = 1\). The inner product of two vectors is a number, not a vector; \((3,-2)\) is the entrywise product.` },
+  { q: R`Which vector is orthogonal to \(v = (1, 1)\)?`,
+    o: [R`\((1, 1)\)`, R`\((2, 2)\)`, R`\((1, 0)\)`, R`\((1, -1)\)`],
+    a: 3,
+    e: R`\(\langle (1,1), (1,-1) \rangle = 1 - 1 = 0\). Geometrically, \((1,1)\) points along one diagonal and \((1,-1)\) along the other; they meet at \(90^\circ\). In \(\R^2\), the vectors orthogonal to \((a,b)\) are the multiples of \((-b, a)\).` },
+  { q: R`In \(\R^2\), \(\langle v, w \rangle = \|v\|\, \|w\| \cos\theta\), where \(\theta\) is the angle between \(v\) and \(w\). If \(\langle v, w \rangle < 0\), then`,
+    o: [R`the angle between \(v\) and \(w\) is larger than \(90^\circ\)`, R`\(v\) and \(w\) are orthogonal`, R`the angle between \(v\) and \(w\) is smaller than \(90^\circ\)`, R`\(v\) or \(w\) is the zero vector`],
+    a: 0,
+    e: R`\(\cos\theta < 0\) exactly when \(90^\circ < \theta \le 180^\circ\). Example: \(\langle (1,0), (-1,1) \rangle = -1\), and the angle is \(135^\circ\). The sign of \(\langle a, x \rangle\) tells on which side of the line orthogonal to \(a\) the point \(x\) lies. This is the half-plane \(\{x : a^T x \le 0\}\) from Lecture 1.` },
+  { q: R`Are \(v_1 = (1, 2)\) and \(v_2 = (2, 4)\) linearly independent?`,
+    o: [R`Yes, since they are different`, R`No, since \(2 v_1 - v_2 = 0\)`, R`Yes, since neither is the zero vector`, R`No, since they are not orthogonal`],
+    a: 1,
+    e: R`Linearly independent means that only the combination with all coefficients \(0\) gives the zero vector. Here the coefficients \((2, -1)\) also give \(0\). Geometrically, both vectors lie on the same line through the origin, so their span is a line and not \(\R^2\). The last option is wrong: \((1,0)\) and \((1,1)\) are not orthogonal but are linearly independent.` },
+  { q: R`Let \(h_\pm = (e_1 \pm e_2)/\sqrt2\), an orthonormal basis of \(\R^2\). Write \(v = (3, 1) = c_+ h_+ + c_- h_-\). What is \(c_+\)?`,
+    o: [R`\(3\)`, R`\(4\)`, R`\(2\sqrt2\)`, R`\(\sqrt2\)`],
+    a: 2,
+    e: R`In an orthonormal basis, the coefficients are inner products: \(c_+ = \langle h_+, v \rangle = (3 + 1)/\sqrt2 = 2\sqrt2\). Similarly \(c_- = (3 - 1)/\sqrt2 = \sqrt2\). Check: \(c_+^2 + c_-^2 = 8 + 2 = 10 = 3^2 + 1^2 = \|v\|^2\).` },
+  { q: R`What is the outer product \(v w^T\) of \(v = (1, 2)\) and \(w = (3, 1)\)?`,
+    o: [R`The number \(5\)`, R`\(\begin{pmatrix} 3 & 1 \\ 6 & 2 \end{pmatrix}\)`, R`\(\begin{pmatrix} 3 & 6 \\ 1 & 2 \end{pmatrix}\)`, R`\(\begin{pmatrix} 3 & 0 \\ 0 & 2 \end{pmatrix}\)`],
+    a: 1,
+    e: R`\((v w^T)_{ij} = v_i w_j\): row \(i\) is \(v_i\) times \(w^T\). A \(2 \times 1\) column times a \(1 \times 2\) row is a \(2 \times 2\) matrix. The number \(5 = w^T v\) is the inner product (row times column). The third option is \(w v^T\). The matrix has rank 1: the second row is twice the first.` },
+  { q: R`Which statement holds for all square matrices \(A, B, C\) of the same size?`,
+    o: [R`\(AB = BA\)`, R`\(\tr(AB) = \tr(BA)\)`, R`\(\tr(AB) = \tr(A)\tr(B)\)`, R`\(\tr(ABC) = \tr(ACB)\)`],
+    a: 1,
+    e: R`\(\tr(AB) = \sum_{i,j} a_{ij} b_{ji} = \tr(BA)\). So the trace is cyclic, \(\tr(ABC) = \tr(BCA) = \tr(CAB)\), but in general two factors may not be swapped. Counterexamples: \(XZ = -ZX\) for the Pauli matrices; \(A = B = I_2\) gives \(\tr(AB) = 2\) but \(\tr(A)\tr(B) = 4\).` },
+  { q: R`The trace inner product is \(\langle A, B \rangle = \tr(A^T B) = \sum_{i,j} a_{ij} b_{ij}\). Compute \(\langle X, Z \rangle\) for \(X = \begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}\) and \(Z = \begin{pmatrix} 1 & 0 \\ 0 & -1 \end{pmatrix}\).`,
+    o: [R`\(0\)`, R`\(1\)`, R`\(2\)`, R`\(-1\)`],
+    a: 0,
+    e: R`Entrywise: \(0 \cdot 1 + 1 \cdot 0 + 1 \cdot 0 + 0 \cdot (-1) = 0\). So \(X\) and \(Z\) are orthogonal. With \(\langle X, X \rangle = \langle Z, Z \rangle = 2\), the Pauli matrices \(I, X, Y, Z\) divided by \(\sqrt2\) form an orthonormal basis of the \(2 \times 2\) matrices.` },
+  { q: R`Write \(A = \begin{pmatrix} 3 & 1 \\ 1 & 1 \end{pmatrix}\) in the Pauli basis \(I, X, Y, Z\). Use \(A = \tfrac12 \sum_{\sigma} \tr(\sigma A)\, \sigma\).`,
+    o: [R`\(A = 3I + X + Z\)`, R`\(A = 2I + X - Z\)`, R`\(A = 2I + X + Z\)`, R`\(A = I + X + 2Z\)`],
+    a: 2,
+    e: R`The coefficients are \(\tfrac12 \tr(\sigma A)\): \(\tfrac12\tr(A) = \tfrac12(3 + 1) = 2\); \(\tfrac12\tr(XA) = \tfrac12(1 + 1) = 1\) (sum of the off-diagonal entries); \(\tfrac12\tr(ZA) = \tfrac12(3 - 1) = 1\) (difference of the diagonal entries); \(\tr(YA) = 0\), since \(A\) is real and symmetric. Check: \(2I + X + Z = \begin{pmatrix} 2 + 1 & 1 \\ 1 & 2 - 1 \end{pmatrix} = A\).` },
+  { q: R`What is the dimension of the space \(\R^{2 \times 3}\) of \(2 \times 3\) matrices?`,
+    o: [R`\(2\)`, R`\(3\)`, R`\(5\)`, R`\(6\)`],
+    a: 3,
+    e: R`A basis is given by the matrices \(E_{ij} = e_i e_j^T\), with a single \(1\) at position \((i,j)\). There is one for each entry, so the dimension is \(2 \cdot 3 = 6\). In general \(\dim \R^{m \times n} = mn\).` },
+  { q: R`Let \(A = \begin{pmatrix} 1 & 2 \\ 3 & 4 \end{pmatrix}\). What is \(A e_1\)?`,
+    o: [R`\((1, 3)\)`, R`\((1, 2)\)`, R`\(1\)`, R`\((2, 4)\)`],
+    a: 0,
+    e: R`\(A e_j\) is the \(j\)-th column of \(A\). In general \(Av = \sum_j v_j\, A e_j\) is a linear combination of the columns of \(A\). A single entry is \(a_{ij} = e_i^T A e_j\); for example \(e_1^T A e_2 = 2\).` },
+  { q: R`Which matrix is an orthogonal projector, i.e. \(P^2 = P = P^T\)?`,
+    o: [R`\(\begin{pmatrix} 1 & 1 \\ 0 & 0 \end{pmatrix}\)`, R`\(\tfrac12 \begin{pmatrix} 1 & 1 \\ 1 & 1 \end{pmatrix}\)`, R`\(\begin{pmatrix} 2 & 0 \\ 0 & 0 \end{pmatrix}\)`, R`\(\begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}\)`],
+    a: 1,
+    e: R`\(\tfrac12 \begin{pmatrix} 1 & 1 \\ 1 & 1 \end{pmatrix} = h_+ h_+^T\) with \(h_+ = (1,1)/\sqrt2\). It is symmetric, and \(P^2 = h_+ (h_+^T h_+) h_+^T = P\). Its trace and rank are both \(1\). The first option satisfies \(P^2 = P\) but is not symmetric. For the third, \(P^2 = \operatorname{diag}(4, 0) \ne P\). For \(X\), \(X^2 = I \ne X\).` },
+  { q: R`For matrices \(A \in \R^{m \times n}\) and \(B \in \R^{n \times p}\), what is \((AB)^T\)?`,
+    o: [R`\(A^T B^T\)`, R`\(B^T A^T\)`, R`\(AB\)`, R`\(BA\)`],
+    a: 1,
+    e: R`Transposing reverses the order of a product. Check the sizes: \((AB)^T\) is \(p \times m\), and \(B^T A^T\) is \((p \times n)(n \times m) = p \times m\). The product \(A^T B^T\) is \((n \times m)(p \times n)\), which is not even defined unless \(m = p\).` },
+  ]
+},
+{
+  title: "Lecture 6: Linear algebra review II",
+  questions: [
+  { q: R`What are the eigenvalues of the Pauli matrix \(X = \begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}\)?`,
+    o: [R`\(0\) and \(1\)`, R`\(1\) and \(-1\)`, R`only \(1\)`, R`\(0\) and \(0\)`],
+    a: 1,
+    e: R`\(\det(X - \lambda I) = \det \begin{pmatrix} -\lambda & 1 \\ 1 & -\lambda \end{pmatrix} = \lambda^2 - 1 = 0\), so \(\lambda = \pm 1\). Check: trace \(0 = 1 + (-1)\), determinant \(-1 = 1 \cdot (-1)\). The diagonal entries \(0, 0\) of \(X\) are not its eigenvalues, because \(X\) is not diagonal.` },
+  { q: R`Which vector is an eigenvector of \(X\) with eigenvalue \(-1\)?`,
+    o: [R`\((1, 1)\)`, R`\((1, 0)\)`, R`\((1, -1)\)`, R`\((0, 0)\)`],
+    a: 2,
+    e: R`\(X\) swaps the two entries: \(X(a,b) = (b,a)\). So \(X(1,-1) = (-1,1) = -(1,-1)\). The vector \((1,1)\) has eigenvalue \(+1\). \(X(1,0) = (0,1)\) is not a multiple of \((1,0)\). The zero vector is never an eigenvector. Geometrically, \(X\) is the reflection at the line \(x_1 = x_2\): vectors on this line stay fixed, vectors orthogonal to it flip.` },
+  { q: R`Geometrically, a vector \(v \ne 0\) is an eigenvector of \(A\) if`,
+    o: [R`\(Av\) is orthogonal to \(v\)`, R`\(Av\) lies on the line through \(0\) and \(v\)`, R`\(Av = v\)`, R`\(\|Av\| = 1\)`],
+    a: 1,
+    e: R`\(Av = \lambda v\): \(A\) only stretches \(v\) by the factor \(\lambda\), possibly flips it (\(\lambda < 0\)) or maps it to \(0\) (\(\lambda = 0\)). It does not rotate \(v\) into another direction. \(Av = v\) is only the special case \(\lambda = 1\).` },
+  { q: R`What are the eigenvalues of \(A = \begin{pmatrix} 2 & 1 \\ 1 & 2 \end{pmatrix}\)?`,
+    o: [R`\(2\) and \(2\)`, R`\(3\) and \(1\)`, R`\(2\) and \(1\)`, R`\(3\) and \(-1\)`],
+    a: 1,
+    e: R`\(A = 2I + X\). If \(Xv = \lambda v\), then \(Av = (2 + \lambda) v\). So \(A\) has the same eigenvectors as \(X\), namely \((1,1)\) and \((1,-1)\), with eigenvalues \(2 + 1 = 3\) and \(2 - 1 = 1\). Check: trace \(4 = 3 + 1\), determinant \(4 - 1 = 3 = 3 \cdot 1\).` },
+  { q: R`Which vector is an eigenvector of \(A = \begin{pmatrix} 2 & 1 \\ 1 & 2 \end{pmatrix}\) with eigenvalue \(3\)?`,
+    o: [R`\((1, 0)\)`, R`\((1, -1)\)`, R`\((1, 1)\)`, R`\((2, 1)\)`],
+    a: 2,
+    e: R`To find it, solve \((A - 3I)v = 0\): \(\begin{pmatrix} -1 & 1 \\ 1 & -1 \end{pmatrix} v = 0\) gives \(v_1 = v_2\), so \(v = (1,1)\) up to scaling. Check: \(A(1,1) = (3,3) = 3\,(1,1)\). The vector \((1,-1)\) is also an eigenvector, but with eigenvalue \(1\): \(A(1,-1) = (1,-1)\). \(A(1,0) = (2,1)\) is not a multiple of \((1,0)\), and \(A(2,1) = (5,4)\) is not a multiple of \((2,1)\).` },
+  { q: R`A symmetric matrix \(A\) is positive semidefinite, \(A \succeq 0\), if \(x^T A x \ge 0\) for all \(x\); equivalently, all its eigenvalues are \(\ge 0\). Which matrix is PSD?`,
+    o: [R`\(\begin{pmatrix} 1 & 2 \\ 2 & 1 \end{pmatrix}\)`, R`\(\begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}\)`, R`\(\begin{pmatrix} 1 & 1 \\ 1 & 1 \end{pmatrix}\)`, R`\(\begin{pmatrix} -1 & 0 \\ 0 & 2 \end{pmatrix}\)`],
+    a: 2,
+    e: R`\(\begin{pmatrix} 1 & 1 \\ 1 & 1 \end{pmatrix} = (1,1)(1,1)^T\), so \(x^T A x = (x_1 + x_2)^2 \ge 0\); its eigenvalues are \(2, 0\). The first matrix is \(I + 2X\) with eigenvalues \(3, -1\); \(x = (1,-1)\) gives \(x^T A x = -2\). The second is \(X\), with eigenvalues \(\pm 1\). The last gives \(e_1^T A e_1 = -1\). Positive entries alone do not make a matrix PSD.` },
+  { q: R`Is \(A = \begin{pmatrix} 2 & 3 \\ 3 & 2 \end{pmatrix}\) positive semidefinite?`,
+    o: [R`Yes, since all entries are positive`, R`Yes, since \(A\) is symmetric and its diagonal entries are positive`, R`No, since \(x = (1, -1)\) gives \(x^T A x = -2 < 0\)`, R`No, since \(A\) is not diagonal`],
+    a: 2,
+    e: R`\(x^T A x = 2x_1^2 + 6x_1x_2 + 2x_2^2\), and for \(x = (1,-1)\) this is \(2 - 6 + 2 = -2\). One such \(x\) is enough to show that \(A\) is not PSD. Another way: \(\det(A) = 4 - 9 = -5 < 0\), so the two eigenvalues have opposite signs; they are \(5\) and \(-1\). Positive diagonal entries are necessary for PSD (\(a_{ii} = e_i^T A e_i \ge 0\)) but not sufficient. Non-diagonal matrices can be PSD, e.g. \(\begin{pmatrix} 1 & 1 \\ 1 & 1 \end{pmatrix}\).` },
+  { q: R`Let \(v_1 = (1, 0)\) and \(v_2 = (1, 1)\). Is \(a_{ij} = \langle v_i, v_j \rangle\) a Gram decomposition of \(A = \begin{pmatrix} 1 & 1 \\ 1 & 2 \end{pmatrix}\)?`,
+    o: [R`Yes: \(\langle v_1, v_1 \rangle = 1\), \(\langle v_1, v_2 \rangle = 1\), \(\langle v_2, v_2 \rangle = 2\)`, R`No, since \(v_1\) and \(v_2\) are not orthogonal`, R`No, since \(\langle v_2, v_2 \rangle = 1\)`, R`No, since a Gram matrix must be diagonal`],
+    a: 0,
+    e: R`All entries match, so yes. Equivalently, \(A = B^T B\) where \(B = \begin{pmatrix} 1 & 1 \\ 0 & 1 \end{pmatrix}\) has columns \(v_1, v_2\). A Gram decomposition shows \(A \succeq 0\): \(x^T A x = \|x_1 v_1 + x_2 v_2\|^2 \ge 0\). The vectors need not be orthogonal; if they were, \(A\) would be diagonal.` },
+  { q: R`Let \(A \succeq 0\) and \(B \succeq 0\). Which matrix is <em>not</em> necessarily PSD?`,
+    o: [R`\(A + B\)`, R`\(3A\)`, R`\(A - B\)`, R`\(\tfrac12 A + \tfrac12 B\)`],
+    a: 2,
+    e: R`For \(\lambda, \mu \ge 0\): \(x^T(\lambda A + \mu B)x = \lambda\, x^T A x + \mu\, x^T B x \ge 0\). So the PSD matrices form a convex cone. \(A - B\) has the negative coefficient \(-1\); for \(A = 0\), \(B = I\) it is \(-I\), which is not PSD.` },
+  { q: R`The dual cone of \(K \subseteq \R^n\) is \(K^* = \{y : \langle y, x \rangle \ge 0 \text{ for all } x \in K\}\). What is \(K^*\) for the quadrant \(K = \R^2_+ = \{x : x \ge 0\}\)?`,
+    o: [R`\(\R^2_+\) itself`, R`The half-plane \(\{y : y_1 \ge 0\}\)`, R`All of \(\R^2\)`, R`Only \(\{0\}\)`],
+    a: 0,
+    e: R`Geometrically, \(y \in K^*\) if \(y\) makes an angle of at most \(90^\circ\) with every vector in \(K\). Taking \(x = e_1\) and \(x = e_2\) gives \(y_1 \ge 0\) and \(y_2 \ge 0\). Conversely, if \(y \ge 0\) and \(x \ge 0\), then \(\langle y, x \rangle = \sum_i y_i x_i \ge 0\). So \(\R^2_+\) is self-dual, like the PSD cone. The half-plane \(\{y : y_1 \ge 0\}\) is the dual cone of the ray \(\{\lambda e_1 : \lambda \ge 0\}\).` },
+  { q: R`The matrix \(J = \begin{pmatrix} 0 & 1 \\ -1 & 0 \end{pmatrix}\) rotates the plane by \(90^\circ\). Does \(J\) have a real eigenvector?`,
+    o: [R`Yes, \((1, 1)\)`, R`Yes, \((1, 0)\)`, R`No: \(Jv\) is never parallel to \(v \ne 0\); the eigenvalues are \(\pm i\)`, R`Yes, every real matrix has a real eigenvector`],
+    a: 2,
+    e: R`\(\det(J - \lambda I) = \lambda^2 + 1\) has no real roots; the eigenvalues are \(\pm i\). Geometrically, \(Jv\) is orthogonal to \(v\), so \(J\) does not map any line through the origin to itself. Real eigenvalues are guaranteed for symmetric matrices (spectral theorem); \(J\) is antisymmetric, \(J^T = -J\).` },
+  { q: R`Let \(h_\pm = (e_1 \pm e_2)/\sqrt2\). What is the spectral decomposition \(X = \sum_i \lambda_i u_i u_i^T\) of the Pauli matrix \(X\)?`,
+    o: [R`\(X = h_+ h_+^T + h_- h_-^T\)`, R`\(X = h_+ h_+^T - h_- h_-^T\)`, R`\(X = e_1 e_1^T - e_2 e_2^T\)`, R`\(X = h_+ h_-^T\)`],
+    a: 1,
+    e: R`The eigenvectors are \(h_+\) with eigenvalue \(+1\) and \(h_-\) with eigenvalue \(-1\). Check: \(h_+ h_+^T = \tfrac12 \begin{pmatrix} 1 & 1 \\ 1 & 1 \end{pmatrix}\) and \(h_- h_-^T = \tfrac12 \begin{pmatrix} 1 & -1 \\ -1 & 1 \end{pmatrix}\); their difference is \(X\), and their sum is \(I\). The third option is \(Z\).` },
+  { q: R`For \(A = \begin{pmatrix} 2 & 1 \\ 1 & 2 \end{pmatrix}\), what is \(\max \{x^T A x : \|x\| = 1\}\)?`,
+    o: [R`\(2\)`, R`\(3\)`, R`\(4\)`, R`\(6\)`],
+    a: 1,
+    e: R`For symmetric \(A\), \(\max_{\|x\| = 1} x^T A x = \lambda_{\max}(A)\), here \(3\). It is attained at the eigenvector \(x = (1,1)/\sqrt2\): \(x^T A x = \tfrac12 (2 + 1 + 1 + 2) = 3\). At \(x = e_1\) the value is only \(a_{11} = 2\).` },
+  { q: R`Which pair of matrices is incomparable in the Löwner order, i.e. neither \(A \succeq B\) nor \(B \succeq A\)?`,
+    o: [R`\(I\) and \(0\)`, R`\(2I\) and \(I\)`, R`\(\begin{pmatrix} 1 & 0 \\ 0 & 0 \end{pmatrix}\) and \(\begin{pmatrix} 0 & 0 \\ 0 & 1 \end{pmatrix}\)`, R`\(\begin{pmatrix} 1 & 1 \\ 1 & 1 \end{pmatrix}\) and \(0\)`],
+    a: 2,
+    e: R`\(A - B = \operatorname{diag}(1, -1)\) has eigenvalues \(1\) and \(-1\), so neither \(A - B\) nor \(B - A\) is PSD. In the other pairs the difference is PSD: \(I\), \(I\), and \(\begin{pmatrix} 1 & 1 \\ 1 & 1 \end{pmatrix}\). So the Löwner order is a partial order, unlike the order of real numbers, where any two numbers are comparable.` },
+  { q: R`For which \(x \in \R\) is \(\begin{pmatrix} 1 & x \\ x & 1 \end{pmatrix}\) positive semidefinite?`,
+    o: [R`For all \(x\)`, R`For \(x \ge 0\)`, R`For \(-1 \le x \le 1\)`, R`Only for \(x = 0\)`],
+    a: 2,
+    e: R`The matrix is \(I + xX\), so its eigenvalues are \(1 + x\) and \(1 - x\) (as for \(2I + X\)). Both are \(\ge 0\) exactly when \(-1 \le x \le 1\). This segment is the \(2 \times 2\) elliptope; the \(3 \times 3\) elliptope is the samosa in the notes.` },
+  { q: R`Is the set of PSD \(2 \times 2\) matrices of rank at most \(1\) convex?`,
+    o: [R`Yes, since it is a cone`, R`Yes, since the PSD matrices form a convex cone`, R`No: \(\tfrac12 e_1 e_1^T + \tfrac12 e_2 e_2^T = \tfrac12 I\) has rank \(2\)`, R`No, since it is not a cone`],
+    a: 2,
+    e: R`It is a cone, since \(t\, x x^T = (\sqrt t\, x)(\sqrt t\, x)^T\) for \(t \ge 0\). But it is not convex: the midpoint of the rank-one matrices \(e_1 e_1^T\) and \(e_2 e_2^T\) has rank \(2\). A cone need not be convex. The convex hull of the rank-one matrices \(x x^T\) is the whole PSD cone, since every PSD matrix is a sum of such matrices.` },
+  ]
+}
+];
+
+const LETTERS = ["A", "B", "C", "D"];
+const nav = document.getElementById("nav");
+const container = document.getElementById("lectures");
+const sections = [];
+const navButtons = [];
+
+function typeset(el) {
+  if (window.MathJax && MathJax.typesetPromise) MathJax.typesetPromise([el]);
+}
+
+function buildLecture(lec, li) {
+  const sec = document.createElement("section");
+  sec.className = "lecture";
+  sec.id = "l" + (li + 1);
+
+  const h = document.createElement("h2");
+  h.textContent = lec.title;
+  sec.appendChild(h);
+
+  const score = document.createElement("p");
+  score.className = "score";
+  sec.appendChild(score);
+
+  if (lec.note) {
+    const note = document.createElement("div");
+    note.className = "note";
+    note.innerHTML = lec.note;
+    sec.appendChild(note);
+  }
+
+  const state = { answered: 0, correct: 0 };
+  const updateScore = () => {
+    score.textContent = `Answered ${state.answered} of ${lec.questions.length}, correct ${state.correct}.`;
+  };
+  updateScore();
+
+  lec.questions.forEach((qu, qi) => {
+    const card = document.createElement("div");
+    card.className = "q";
+    const p = document.createElement("p");
+    p.innerHTML = `<span class="num">${qi + 1}.</span> ` + qu.q;
+    card.appendChild(p);
+
+    const opts = document.createElement("div");
+    opts.className = "opts";
+    const expl = document.createElement("div");
+    expl.className = "expl";
+    const buttons = qu.o.map((text, oi) => {
+      const b = document.createElement("button");
+      b.className = "opt";
+      b.innerHTML = `<span class="letter">${LETTERS[oi]}</span><span>${text}</span>`;
+      b.addEventListener("click", () => {
+        buttons.forEach(x => x.disabled = true);
+        const ok = oi === qu.a;
+        buttons[qu.a].classList.add("correct");
+        if (!ok) b.classList.add("wrong");
+        expl.innerHTML = `<b>${ok ? "Correct." : "Not quite. The answer is " + LETTERS[qu.a] + "."}</b>` + qu.e;
+        expl.classList.toggle("miss", !ok);
+        expl.classList.add("show");
+        typeset(expl);
+        state.answered++;
+        if (ok) state.correct++;
+        updateScore();
+      });
+      opts.appendChild(b);
+      return b;
+    });
+    card.appendChild(opts);
+    card.appendChild(expl);
+    card._reset = () => {
+      buttons.forEach(x => { x.disabled = false; x.classList.remove("correct", "wrong"); });
+      expl.className = "expl";
+      expl.innerHTML = "";
+    };
+    sec.appendChild(card);
+  });
+
+  const reset = document.createElement("button");
+  reset.className = "reset";
+  reset.textContent = "Reset this lecture";
+  reset.addEventListener("click", () => {
+    sec.querySelectorAll(".q").forEach(c => c._reset());
+    state.answered = 0; state.correct = 0;
+    updateScore();
+    window.scrollTo(0, sec.offsetTop);
+  });
+  sec.appendChild(reset);
+  return sec;
+}
+
+function show(i) {
+  sections.forEach((s, j) => s.classList.toggle("active", i === j));
+  navButtons.forEach((b, j) => b.classList.toggle("active", i === j));
+  history.replaceState(null, "", "#l" + (i + 1));
+}
+
+LECTURES.forEach((lec, i) => {
+  const b = document.createElement("button");
+  b.textContent = "Lecture " + (i + 1);
+  b.addEventListener("click", () => show(i));
+  nav.appendChild(b);
+  navButtons.push(b);
+  const sec = buildLecture(lec, i);
+  container.appendChild(sec);
+  sections.push(sec);
+});
+
+const m = location.hash.match(/^#l([1-6])$/);
+show(m ? Number(m[1]) - 1 : 0);
+
+window.addEventListener("load", () => {
+  MathJax.startup.promise.then(() => MathJax.typesetPromise([container]));
+});
+</script>
+</body>
+</html>
