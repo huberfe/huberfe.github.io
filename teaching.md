@@ -11,3 +11,5 @@ layout: page
 [Lecture notes](teaching/lecture_notes_math_opt.pdf)
 
 [Quiz](teaching/mathopt_quiz.html)
+
+[Note: Max Cut](teaching/Note_MaxCut.pdf)
