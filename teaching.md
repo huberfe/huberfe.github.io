@@ -13,3 +13,5 @@ layout: page
 [Quiz](teaching/mathopt_quiz.html)
 
 [Note: Max Cut](teaching/Note_MaxCut.pdf)
+
+[Exercises 1-6](teachgin/exercises_colloq_1-6.pdf)
