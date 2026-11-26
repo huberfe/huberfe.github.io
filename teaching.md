@@ -12,4 +12,4 @@ layout: page
 
 [Quiz](teaching/mathopt_quiz.html)
 
-[Exercises 1-6](teachgin/exercises_colloq_1-6.pdf)
+[Exercises 1-6](teaching/exercises_colloq_1-6.pdf)
